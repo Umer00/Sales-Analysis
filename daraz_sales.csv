@@ -1,0 +1,1401 @@
+Order_ID,Customer_Name,Customer_City,Product_Name,Category,Price,Quantity,Order_Date,Delivery_Date,Payment_Method,Order_Status,Seller_Name
+O00001,Nicole Walsh PhD,South Melissa,Pro Headphones,Electronics,1513.75,4,2024-03-24,2024-03-28,Online Banking,Pending,Turner Group
+O00002,Vanessa Berry,Garciastad,Super Smartwatch,Books,903.48,1,2024-12-14,2024-12-24,Debit Card,Returned,Medina-Rivers
+O00003,Christina Kramer,Fergusonborough,Innovative Headphones,Books,582.08,3,2024-12-19,2024-12-20,Cash On Delivery,Delivered,Martin-Harris
+O00004,Christina Rogers,Thomasport,Innovative Backpack,Electronics,694.78,5,2025-02-15,2025-02-16,Online Banking,Pending,"Allen, Smith and Taylor"
+O00005,Eric Price,Timothystad,Modern T-shirt,Home Appliances,922.58,1,2025-01-21,2025-01-30,Cash On Delivery,Pending,"Lamb, Greer and Gaines"
+O00006,Ian Wright,Adamtown,Smart Watch,Home Appliances,1728.18,3,2024-09-06,2024-09-13,Credit Card,Cancelled,"Cruz, Norman and Taylor"
+O00007,Stacy Foster,South Tracy,Premium Headphones,Automotive,1893.65,2,2024-09-08,2024-09-14,Online Banking,Pending,Marsh-Singh
+O00008,Carrie Mcknight,Saraview,Elite Backpack,Home Appliances,1236.77,3,2025-01-17,2025-01-19,Online Banking,Cancelled,Mcbride-Harris
+O00009,Heather Roberson,Meganshire,Innovative Sneakers,Home Appliances,265.65,3,2024-04-15,2024-04-18,Debit Card,Returned,Chan Ltd
+O00010,Lauren Price,West Rita,Budget Laptop,Home Appliances,277.8,4,2024-09-07,2024-09-15,Online Banking,Cancelled,Perez Ltd
+O00011,Angel Avery,Fergusonberg,Innovative Camera,Fashion,1190.62,3,2025-01-20,2025-01-22,Credit Card,Pending,"Finley, Banks and Young"
+O00012,Donald Oconnor,Lake Barbaraberg,Smart Sneakers,Electronics,1504.42,4,2024-12-05,2024-12-08,Cash On Delivery,Pending,Horton-Washington
+O00013,Peter Gibbs,Jeffreyport,Modern Backpack,Home Appliances,1681.77,3,2024-05-30,2024-06-05,Debit Card,Returned,"James, Alvarez and White"
+O00014,Eric Long,East Troytown,Elite Laptop,Fashion,1697.42,5,2024-04-10,2024-04-11,Debit Card,Cancelled,Carrillo Inc
+O00015,Tyler Cantu,Port Daniel,Sleek Smartwatch,Beauty,1636.58,3,2024-08-22,2024-08-26,Debit Card,Pending,"Day, Kemp and Bell"
+O00016,Raymond Herring,Victortown,Eco Sunglasses,Fashion,1230.45,2,2024-03-10,2024-03-14,Credit Card,Returned,"Cooper, Tucker and Friedman"
+O00017,Mr. Sergio Williams,Lake Kevinmouth,Advanced Microwave,Electronics,989.55,2,2025-02-07,2025-02-11,Online Banking,Pending,Spencer PLC
+O00018,Dawn Alvarado,North Melanie,Budget Backpack,Home Appliances,415.33,1,2025-01-05,2025-01-06,Debit Card,Returned,Wilson-Kim
+O00019,Steven Hardy,Monicastad,Smart Watch,Fashion,1578.36,2,2024-07-29,2024-08-03,Debit Card,Pending,"Cook, Christian and Cooper"
+O00020,Wendy Larson,West Anthony,Ultra Sunglasses,Sports,303.39,5,2024-09-02,2024-09-07,Debit Card,Returned,Butler PLC
+O00021,Brian Baker,Michaeltown,Eco Camera,Books,55.24,1,2024-09-14,2024-09-15,Online Banking,Pending,Holt-Schmidt
+O00022,Michelle Lynn,West David,Sleek Laptop,Automotive,300.66,5,2024-08-09,2024-08-15,Debit Card,Delivered,Olson Ltd
+O00023,Amanda Harris,Lake Sethtown,Mega Watch,Sports,1305.17,4,2024-11-06,2024-11-15,Credit Card,Cancelled,"Smith, Hopkins and Peterson"
+O00024,Linda Turner,Lake Kevinchester,Smart Smartphone,Sports,1836.57,2,2024-10-23,2024-11-02,Cash On Delivery,Returned,Paul-Rowe
+O00025,Luke Singleton,Lake Jessebury,Advanced Refrigerator,Books,1217.21,3,2024-11-18,2024-11-26,Debit Card,Delivered,"Banks, Martin and Wilson"
+O00026,Bethany Lane,North Ericside,Innovative Camera,Books,631.57,2,2024-03-03,2024-03-10,Online Banking,Pending,Coleman Ltd
+O00027,Roger Rivers,Port Christopherside,Budget Tablet,Beauty,1354.17,2,2024-09-11,2024-09-19,Credit Card,Pending,"Perez, Torres and Jordan"
+O00028,Kathryn Young,South Loriberg,Premium Backpack,Sports,1606.25,5,2025-01-06,2025-01-07,Cash On Delivery,Delivered,Gomez-Taylor
+O00029,David Robinson,Davidberg,Advanced Sunglasses,Automotive,94.5,5,2024-07-04,2024-07-10,Cash On Delivery,Returned,"Lawson, Miller and Meza"
+O00030,Daniel Kim,Browningfurt,Innovative Sneakers,Electronics,943.06,5,2024-10-19,2024-10-22,Credit Card,Returned,"Hester, Bailey and Nguyen"
+O00031,Laura Harrison MD,Lisatown,Smart Smartphone,Home Appliances,1418.69,2,2024-09-18,2024-09-22,Debit Card,Cancelled,Smith Group
+O00032,Daniel Martin,Hernandezland,Sleek Smartwatch,Sports,790.71,5,2024-08-16,2024-08-26,Credit Card,Returned,Williams Group
+O00033,Kimberly Lane,Lake Michael,Smart Tablet,Beauty,1516.45,3,2024-06-20,2024-06-26,Online Banking,Returned,Johnson-Franklin
+O00034,Heather Mcclain,Sarahton,Modern Jeans,Home Appliances,1261.79,5,2024-06-30,2024-07-05,Online Banking,Returned,Kirk-Marsh
+O00035,John Nguyen,Castillochester,Smart Sneakers,Home Appliances,1829.52,4,2024-02-26,2024-03-04,Online Banking,Delivered,Campbell Group
+O00036,Robert Cameron,Munozville,Mega Vacuum Cleaner,Sports,26.3,1,2024-03-01,2024-03-06,Debit Card,Delivered,Tanner PLC
+O00037,Natasha Wright,South Brian,Eco Sunglasses,Home Appliances,891.19,2,2024-05-01,2024-05-06,Credit Card,Delivered,"Mitchell, Cannon and Martinez"
+O00038,Paul Lopez,Annaside,Modern T-shirt,Beauty,1723.91,2,2024-10-17,2024-10-20,Credit Card,Pending,Garcia Group
+O00039,Jerry Solomon,New Jessica,Compact Refrigerator,Electronics,1408.62,1,2024-05-31,2024-06-08,Cash On Delivery,Returned,Gilmore LLC
+O00040,Karen Cobb,North Kellychester,Super Smartwatch,Sports,1637.25,5,2024-08-09,2024-08-13,Online Banking,Delivered,Lopez PLC
+O00041,Karen Knapp,Alvaradoborough,Ultra Sunglasses,Beauty,1531.56,1,2024-11-01,2024-11-08,Debit Card,Returned,"Lloyd, Smith and Bishop"
+O00042,Rebecca Collins,East Hailey,Innovative Watch,Electronics,85.6,4,2024-02-26,2024-03-01,Debit Card,Cancelled,Sutton-Chang
+O00043,Mark Mckenzie,Watsonchester,Elite Smartphone,Sports,1261.95,2,2024-08-31,2024-09-01,Cash On Delivery,Delivered,Warren Ltd
+O00044,Kelly Thompson,New Emily,Elite Jeans,Beauty,1098.84,2,2025-01-13,2025-01-17,Cash On Delivery,Delivered,Moses and Sons
+O00045,Sarah Mcguire,Karenport,Eco Sneakers,Home Appliances,1956.7,2,2024-10-22,2024-10-24,Debit Card,Cancelled,Raymond Inc
+O00046,Julie Hernandez,West Davidfurt,Compact Sunglasses,Books,756.08,2,2024-03-14,2024-03-24,Cash On Delivery,Cancelled,"Brady, Hartman and Hall"
+O00047,Jasmine Freeman,Carolynbury,Mega Laptop,Fashion,1487.12,1,2025-02-21,2025-02-24,Online Banking,Delivered,"Todd, Taylor and Velez"
+O00048,Kristin Nguyen,New Connor,Mega Watch,Fashion,200.84,2,2024-08-09,2024-08-14,Cash On Delivery,Delivered,"Conley, Ramirez and Vasquez"
+O00049,Seth Clarke,East Danny,Advanced Sunglasses,Home Appliances,861.98,4,2024-09-16,2024-09-20,Cash On Delivery,Returned,Johnson-Smith
+O00050,Rachel Villegas,Craigfurt,Sleek Laptop,Beauty,1728.46,3,2024-03-23,2024-04-02,Debit Card,Returned,"Olson, Carroll and Vazquez"
+O00051,Scott Mcdonald,West Stephanie,Super Headphones,Beauty,99.67,1,2024-07-02,2024-07-04,Cash On Delivery,Delivered,Warner Ltd
+O00052,Edward Greer,Michelleland,Smart Microwave,Beauty,374.47,1,2024-05-12,2024-05-16,Credit Card,Delivered,Chan and Sons
+O00053,Christine Suarez,New Donna,Eco Camera,Fashion,1117.39,3,2024-08-11,2024-08-21,Cash On Delivery,Delivered,White Inc
+O00054,Rebecca Grant,East David,Sleek Smartwatch,Fashion,145.6,3,2024-07-07,2024-07-09,Cash On Delivery,Pending,"Wolfe, Robertson and Gardner"
+O00055,Bill Holmes,Riveraton,Elite Jeans,Home Appliances,1771.59,1,2024-09-20,2024-09-21,Debit Card,Delivered,Armstrong Inc
+O00056,Kimberly Chavez,East Valerie,Ultra Watch,Automotive,1036.25,3,2024-04-25,2024-05-02,Online Banking,Cancelled,"Clark, Gray and Simmons"
+O00057,Mary Dunn,Anthonyton,Budget Smartwatch,Fashion,1705.84,3,2024-08-05,2024-08-14,Cash On Delivery,Returned,"Garcia, Hodges and Vincent"
+O00058,Angela Marshall,Lake Kevinbury,Innovative Refrigerator,Automotive,1744.76,2,2024-11-30,2024-12-06,Credit Card,Returned,Lam-Keller
+O00059,Kevin Garcia,Watkinschester,Sleek Laptop,Sports,1548.67,1,2024-11-12,2024-11-14,Cash On Delivery,Returned,Lewis and Sons
+O00060,Jason Taylor,North Donnaside,Mega Vacuum Cleaner,Home Appliances,305.16,5,2024-12-07,2024-12-13,Credit Card,Returned,Carter-Mcdonald
+O00061,James Jones,Lake Crystalview,Innovative Headphones,Beauty,1031.11,5,2025-01-26,2025-02-01,Debit Card,Cancelled,Torres Ltd
+O00062,Bruce Pratt,Nathanside,Ultra Watch,Beauty,318.05,4,2025-02-18,2025-02-21,Debit Card,Returned,Hendricks-Sanchez
+O00063,Briana Anderson,Courtneyfurt,Innovative Watch,Beauty,1111.49,2,2024-11-02,2024-11-05,Online Banking,Pending,Wright PLC
+O00064,Lisa Garcia,New Kiara,Sleek Laptop,Fashion,312.36,5,2024-07-07,2024-07-09,Debit Card,Delivered,Patterson-Davis
+O00065,Stacy Hayes,Joshuashire,Sleek Laptop,Sports,1966.89,1,2024-04-30,2024-05-09,Cash On Delivery,Returned,Sanchez-Howard
+O00066,Anita Silva,Rodriguezhaven,Mega Jeans,Sports,1298.5,1,2024-05-03,2024-05-13,Online Banking,Pending,"Love, Reynolds and Bowers"
+O00067,Stephanie Roman,South Nathanielview,Ultra Smartphone,Sports,1410.72,2,2024-07-26,2024-07-30,Debit Card,Cancelled,Adams-Hernandez
+O00068,Ryan Torres,Carlhaven,Smart Smartphone,Books,1824.8,1,2024-10-24,2024-10-28,Credit Card,Cancelled,Nelson-Franklin
+O00069,Stacey Strong,Lake Kerristad,Innovative Sneakers,Beauty,1184.29,1,2024-11-24,2024-11-27,Cash On Delivery,Returned,Rodgers-Cruz
+O00070,Courtney Tyler,Caitlinland,Innovative Backpack,Books,655.54,2,2024-09-15,2024-09-21,Debit Card,Pending,Smith Group
+O00071,Tony Soto,Port Vickie,Modern Sunglasses,Automotive,1701.99,5,2024-04-27,2024-05-01,Online Banking,Returned,Mitchell PLC
+O00072,Carmen George,Port Jaclyn,Compact Camera,Fashion,101.05,4,2025-01-04,2025-01-13,Cash On Delivery,Cancelled,Decker-Kelly
+O00073,Brian Ford,Lake Brian,Mega Sneakers,Books,1345.53,3,2024-03-08,2024-03-14,Credit Card,Delivered,Zimmerman-Mccarty
+O00074,Stephen Gonzalez,Cynthiaport,Advanced Jeans,Home Appliances,1251.03,1,2024-10-05,2024-10-06,Online Banking,Cancelled,"Koch, Martinez and Thomas"
+O00075,Rachel Wilson,Hoffmanfurt,Smart Tablet,Beauty,1293.78,5,2025-01-15,2025-01-22,Cash On Delivery,Delivered,Burgess-Moore
+O00076,Julie Castillo,South Drew,Advanced Backpack,Sports,1338.7,5,2024-12-29,2025-01-06,Credit Card,Delivered,Macdonald Group
+O00077,Amanda Mitchell,Williamview,Premium Backpack,Home Appliances,526.41,4,2024-09-08,2024-09-15,Debit Card,Cancelled,Watson Ltd
+O00078,Randy Hernandez,North Sheilachester,Compact Microwave,Fashion,1541.16,1,2024-06-22,2024-06-29,Cash On Delivery,Returned,Hammond LLC
+O00079,Donna Stanley,Goodmanport,Eco Sunglasses,Electronics,1624.55,5,2024-09-20,2024-09-28,Debit Card,Delivered,"Wilson, Sellers and Cameron"
+O00080,Madison Miller,Brownberg,Ultra Vacuum Cleaner,Books,1698.57,5,2024-06-27,2024-07-03,Debit Card,Returned,Garcia-Jackson
+O00081,Terry Valdez,West Ashley,Pro Headphones,Beauty,437.87,1,2024-08-28,2024-09-02,Online Banking,Cancelled,Hickman-Garcia
+O00082,Nancy Calderon,Jenkinsview,Super Smartwatch,Electronics,1085.86,4,2025-01-31,2025-02-03,Credit Card,Delivered,"Pruitt, Thompson and Gutierrez"
+O00083,Donna Dickson,Spencechester,Eco Sunglasses,Fashion,1306.46,1,2024-08-28,2024-09-01,Cash On Delivery,Returned,"Soto, Manning and Brown"
+O00084,Christopher Zamora,New Raymondtown,Modern Jeans,Beauty,237.12,2,2024-10-30,2024-11-04,Cash On Delivery,Returned,Fowler PLC
+O00085,John Ward,New Robert,Compact Microwave,Automotive,159.04,2,2025-01-06,2025-01-08,Credit Card,Pending,Russell PLC
+O00086,Kaitlyn Wilson,Port Davidtown,Advanced Backpack,Sports,1246.28,2,2024-06-28,2024-07-03,Online Banking,Delivered,"Lin, King and Bennett"
+O00087,Brian Jones,Emilymouth,Sleek Laptop,Automotive,939.04,5,2024-08-26,2024-09-01,Cash On Delivery,Returned,Spears Ltd
+O00088,Caleb Moss,Parksmouth,Mega Sneakers,Beauty,1017.14,3,2024-09-16,2024-09-22,Debit Card,Pending,Zimmerman-Murphy
+O00089,Robert Lucas,Tylershire,Compact Jeans,Sports,1737.07,4,2025-02-11,2025-02-14,Online Banking,Pending,"Butler, Lewis and Higgins"
+O00090,Justin Davis,Garciaborough,Budget Laptop,Automotive,197.46,3,2025-02-24,2025-02-28,Credit Card,Delivered,"Hernandez, Gutierrez and Brown"
+O00091,Crystal West,Johnsonstad,Eco Sneakers,Electronics,1717.55,4,2024-12-21,2024-12-24,Online Banking,Pending,Owen-Stevens
+O00092,Katrina Allen,Elizabethstad,Hyper Tablet,Books,254.01,5,2025-01-05,2025-01-06,Credit Card,Pending,Clark PLC
+O00093,Taylor Davis,Reynoldschester,Sleek Smartwatch,Electronics,396.82,3,2024-10-19,2024-10-20,Debit Card,Returned,Thompson-Cox
+O00094,Charlotte Sullivan,Matthewmouth,Budget Backpack,Home Appliances,149.16,2,2024-10-12,2024-10-20,Cash On Delivery,Returned,Jones-Drake
+O00095,Chloe Miller,South Jessica,Ultra Sunglasses,Automotive,388.69,4,2024-09-22,2024-09-29,Online Banking,Cancelled,Ruiz-Thomas
+O00096,Amber Cox DDS,Rosalesberg,Modern T-shirt,Beauty,648.75,1,2024-10-03,2024-10-04,Credit Card,Pending,"Green, Shaw and Kirby"
+O00097,Karen Schultz,East Dana,Ultra Smartwatch,Fashion,1051.82,4,2024-06-13,2024-06-14,Online Banking,Pending,Lin Ltd
+O00098,Ariel Warren,North Davidshire,Innovative Camera,Electronics,1407.66,4,2024-10-02,2024-10-10,Debit Card,Delivered,"Cohen, Evans and Carey"
+O00099,David Diaz,Fordside,Modern Sneakers,Beauty,67.13,4,2025-01-18,2025-01-25,Online Banking,Pending,Myers-Casey
+O00100,Roger Hatfield,East Kellyfurt,Smart Microwave,Beauty,1763.81,5,2024-10-05,2024-10-11,Debit Card,Cancelled,Berry-Torres
+O00101,Gwendolyn Carr,Ruizstad,Smart Jeans,Home Appliances,684.23,5,2024-09-05,2024-09-07,Online Banking,Returned,Torres Ltd
+O00102,Theresa Moran,Andreachester,Smart Vacuum Cleaner,Sports,799.14,3,2024-06-09,2024-06-13,Debit Card,Returned,Mitchell-Johnson
+O00103,Sandra Warner,Mccormickmouth,Modern Sunglasses,Books,566.18,2,2024-04-28,2024-05-04,Credit Card,Returned,"Bass, Wilson and Mathews"
+O00104,Dr. Dennis Ramsey,South Saraland,Innovative Microwave,Books,1599.21,2,2024-03-20,2024-03-26,Cash On Delivery,Returned,"Adams, Cole and Williams"
+O00105,Anthony Calhoun,Joanfurt,Ultra Watch,Beauty,155.29,3,2024-10-22,2024-10-27,Debit Card,Returned,Lucero-Warren
+O00106,Kevin Hernandez,West Ryanton,Premium Watch,Automotive,292.82,1,2024-10-17,2024-10-20,Online Banking,Returned,"Brown, Oliver and Wilson"
+O00107,Jenny Campbell,North Catherineside,Modern Headphones,Books,572.82,2,2024-12-10,2024-12-19,Cash On Delivery,Delivered,"Rodriguez, Randolph and Sparks"
+O00108,Cory Ortega,Andrewborough,Ultra Sneakers,Sports,679.23,1,2024-08-31,2024-09-07,Online Banking,Cancelled,Clark Group
+O00109,Grace Sullivan,South William,Budget Jeans,Sports,693.33,3,2024-11-28,2024-12-05,Debit Card,Delivered,Crawford-Cook
+O00110,Ashley Keller,Mccallbury,Super Smartphone,Sports,1453.91,5,2024-09-21,2024-09-23,Online Banking,Returned,Carter-Stokes
+O00111,Jennifer Saunders,West Jamesside,Pro Tablet,Books,98.28,1,2024-08-08,2024-08-18,Online Banking,Cancelled,Hernandez-Herrera
+O00112,Joshua Lynch,Hillshire,Innovative Camera,Home Appliances,259.3,3,2024-06-13,2024-06-21,Credit Card,Delivered,Garcia-Collins
+O00113,Tracy Arias,Jorgeland,Eco Camera,Home Appliances,700.72,3,2024-12-30,2025-01-08,Online Banking,Delivered,Mccarty Group
+O00114,Brandi Rose,Diazstad,Premium Watch,Automotive,1092.77,3,2025-01-12,2025-01-21,Debit Card,Pending,Davenport Ltd
+O00115,Phillip Maxwell,Lake Jason,Modern Jeans,Home Appliances,1543.11,5,2024-08-03,2024-08-07,Online Banking,Cancelled,"Duncan, Chavez and Alexander"
+O00116,Andrew Chen,West Jessicachester,Hyper Vacuum Cleaner,Sports,398.01,4,2024-10-08,2024-10-17,Credit Card,Cancelled,Arnold-Hebert
+O00117,Kristin Williams,Mooremouth,Hyper Jeans,Automotive,1374.65,4,2025-02-07,2025-02-13,Online Banking,Cancelled,Leon PLC
+O00118,Nancy Patterson,Tabithamouth,Advanced Backpack,Home Appliances,744.92,3,2024-12-05,2024-12-10,Cash On Delivery,Pending,Aguilar-Tate
+O00119,Derrick Knight,Lake Krista,Hyper Jeans,Electronics,1187.01,2,2024-06-26,2024-07-04,Cash On Delivery,Returned,Blair Inc
+O00120,Taylor Kelly,West Gerald,Innovative Backpack,Fashion,600.72,3,2024-11-20,2024-11-29,Credit Card,Pending,Dixon-Mcgee
+O00121,Caitlin Simmons,Barryview,Budget Tablet,Fashion,240.93,3,2024-06-14,2024-06-20,Online Banking,Delivered,Hill-Dalton
+O00122,Jennifer Barber,North Marcusburgh,Ultra Smartwatch,Electronics,1535.63,4,2024-11-16,2024-11-21,Debit Card,Cancelled,Simmons-Yoder
+O00123,Michael Medina,New Kenneth,Hyper Jeans,Electronics,482.62,1,2024-06-27,2024-06-29,Cash On Delivery,Returned,Robertson LLC
+O00124,Ryan Guerra,Francohaven,Super Smartwatch,Books,509.04,3,2024-07-09,2024-07-13,Online Banking,Returned,"Holt, Cole and Moore"
+O00125,Angela Andrews,Nancyville,Innovative Backpack,Sports,58.39,1,2024-09-16,2024-09-19,Online Banking,Returned,Smith-Fuller
+O00126,Francisco Carter,Simmonsborough,Advanced Refrigerator,Beauty,120.55,3,2024-04-26,2024-04-30,Debit Card,Delivered,Cruz Ltd
+O00127,Kenneth Jackson,South Sandra,Premium Headphones,Home Appliances,1347.53,4,2025-02-04,2025-02-13,Online Banking,Cancelled,"Lopez, Guzman and Melton"
+O00128,Jeffrey Johnson,West Ernest,Super Sneakers,Home Appliances,1297.25,3,2024-03-13,2024-03-21,Cash On Delivery,Pending,"Fields, Durham and Jacobs"
+O00129,Christine Chavez,New Vanessa,Innovative Sneakers,Books,1800.35,2,2024-09-23,2024-10-03,Cash On Delivery,Pending,"Martinez, Rodriguez and Sosa"
+O00130,Mariah Pineda,South Zacharyside,Compact Watch,Electronics,1310.92,3,2024-06-29,2024-07-03,Debit Card,Cancelled,Jones-Stewart
+O00131,Stephanie Parrish,Williamsside,Smart Watch,Home Appliances,1449.45,5,2025-01-02,2025-01-09,Online Banking,Delivered,Smith-Rodriguez
+O00132,Madeline Anderson,West Wanda,Smart Sneakers,Home Appliances,535.09,4,2024-05-25,2024-06-03,Online Banking,Delivered,Hill and Sons
+O00133,Brenda Chen,Brownshire,Modern Sneakers,Beauty,1116.35,4,2024-11-25,2024-12-01,Cash On Delivery,Cancelled,Davis-Harris
+O00134,Sheila Harvey,West Masontown,Hyper Sneakers,Home Appliances,1526.82,4,2024-03-11,2024-03-13,Online Banking,Cancelled,Hudson-Underwood
+O00135,Richard Rosales,Port Anthony,Modern Jeans,Automotive,1659.35,4,2024-08-19,2024-08-20,Credit Card,Returned,"Eaton, Williams and Jones"
+O00136,Sherri Robinson,West Bobby,Smart Jeans,Beauty,29.21,4,2024-03-06,2024-03-12,Cash On Delivery,Pending,Gonzalez-Stout
+O00137,Chelsea Cunningham,North Jacobview,Elite Smartphone,Fashion,604.2,2,2024-05-11,2024-05-14,Debit Card,Cancelled,"Jones, Mitchell and Smith"
+O00138,Jennifer Ellis,Andreaborough,Budget Sneakers,Sports,1675.55,5,2024-07-03,2024-07-04,Online Banking,Returned,Brown-Foley
+O00139,Ralph Bullock,East Haley,Premium Headphones,Automotive,18.57,1,2025-01-07,2025-01-16,Debit Card,Returned,Ortiz Group
+O00140,Jennifer Kirk,Alexandermouth,Modern T-shirt,Electronics,1568.37,5,2024-07-15,2024-07-17,Credit Card,Pending,Rose-Smith
+O00141,Christina Fuller,Johnsonshire,Elite Jeans,Electronics,1558.22,1,2024-10-21,2024-10-23,Credit Card,Delivered,Price Group
+O00142,David Patel,Lake Richardburgh,Super Sneakers,Fashion,764.26,4,2024-09-29,2024-10-04,Cash On Delivery,Cancelled,Gardner and Sons
+O00143,Craig Leon,Clarkburgh,Super Sneakers,Books,297.46,3,2024-07-10,2024-07-15,Cash On Delivery,Delivered,May-Madden
+O00144,David Morrison,Russellmouth,Hyper Backpack,Electronics,1117.73,1,2025-01-07,2025-01-13,Credit Card,Delivered,Hall Group
+O00145,Janet Choi,Josephville,Modern Headphones,Sports,1779.11,3,2024-04-10,2024-04-20,Credit Card,Delivered,Good PLC
+O00146,Ryan Doyle,North Curtis,Mega Laptop,Sports,385.33,4,2024-05-06,2024-05-15,Online Banking,Delivered,Andrews Inc
+O00147,Charles Edwards,Fletcherport,Mega Smartphone,Sports,1673.01,4,2024-03-19,2024-03-21,Debit Card,Delivered,"George, Kane and Dalton"
+O00148,Emily Evans,Duranshire,Smart Microwave,Sports,610.81,2,2024-10-13,2024-10-23,Debit Card,Returned,Gonzalez Group
+O00149,Annette Valentine,Wilsonmouth,Advanced Backpack,Automotive,1141.87,3,2024-06-24,2024-06-26,Cash On Delivery,Returned,Galloway-Schneider
+O00150,Tammy Roberts,West Veronica,Modern Backpack,Automotive,1063.42,5,2024-06-22,2024-06-26,Cash On Delivery,Cancelled,"Payne, Jackson and Martinez"
+O00151,Renee Little,Laurieville,Smart Refrigerator,Beauty,1347.45,5,2024-09-22,2024-09-23,Credit Card,Returned,Price Group
+O00152,Austin Jackson,Benjaminburgh,Pro Microwave,Electronics,1416.01,4,2024-08-17,2024-08-24,Debit Card,Returned,"Owens, Davis and Franklin"
+O00153,Nicholas Clark,Diazton,Mega Laptop,Sports,1030.13,2,2024-03-14,2024-03-18,Debit Card,Returned,Williams Inc
+O00154,Cole Mcgee,West Ricardomouth,Elite Laptop,Electronics,415.48,5,2024-12-19,2024-12-20,Credit Card,Returned,Scott PLC
+O00155,Kimberly Fuller,Zacharyborough,Pro Headphones,Books,1581.79,1,2024-10-13,2024-10-23,Cash On Delivery,Returned,Rodriguez LLC
+O00156,Daniel Jones,Turnerville,Compact Jeans,Beauty,1753.45,5,2024-04-29,2024-05-03,Online Banking,Pending,"Trujillo, Harris and Rivers"
+O00157,Daniel Lopez,Tinaville,Super Sneakers,Beauty,95.18,1,2024-05-03,2024-05-09,Online Banking,Cancelled,Nichols Ltd
+O00158,Joshua Hughes,South Joshua,Elite Backpack,Sports,1186.66,3,2025-01-27,2025-01-30,Credit Card,Returned,"Baker, Martin and Scott"
+O00159,Caitlyn Graham,Jeffreybury,Super Headphones,Beauty,166.63,1,2025-01-31,2025-02-08,Cash On Delivery,Returned,Williams Group
+O00160,Heidi Brown,East Katelyn,Advanced Microwave,Fashion,364.64,2,2024-04-27,2024-04-29,Debit Card,Returned,"Mcdonald, Guerrero and White"
+O00161,George Carpenter,Jackchester,Budget Headphones,Beauty,525.82,3,2024-03-21,2024-03-23,Cash On Delivery,Pending,Snyder PLC
+O00162,Thomas Jones,East Laura,Innovative Refrigerator,Electronics,731.71,4,2024-08-14,2024-08-20,Cash On Delivery,Delivered,"Brown, Santiago and Ward"
+O00163,Anthony Gibson,North Stuart,Modern Jeans,Fashion,385.42,3,2024-05-22,2024-06-01,Online Banking,Cancelled,Woodard-Harris
+O00164,Christian Morales,Whiteburgh,Sleek Camera,Home Appliances,725.89,5,2024-11-27,2024-12-07,Credit Card,Pending,"Perkins, Carter and Hopkins"
+O00165,Beth Hubbard,Kimberlystad,Premium Headphones,Books,480.99,2,2024-06-08,2024-06-11,Online Banking,Delivered,"Mathews, Morgan and French"
+O00166,Donna Martin,South Jamesport,Budget Headphones,Sports,736.36,3,2024-07-20,2024-07-27,Online Banking,Pending,Miller-Green
+O00167,David Hall,East Kimport,Premium Backpack,Books,1838.66,5,2024-11-13,2024-11-21,Credit Card,Pending,Melendez-Armstrong
+O00168,Eric Russell,North Joseph,Smart Smartphone,Electronics,582.05,1,2024-11-22,2024-11-27,Credit Card,Cancelled,"Miller, Peters and Ingram"
+O00169,Antonio Heath,Lisaland,Ultra Watch,Beauty,1595.57,5,2024-09-07,2024-09-10,Cash On Delivery,Returned,Gonzalez LLC
+O00170,Nathaniel Harris,South Taylorbury,Innovative Sneakers,Electronics,791.71,4,2024-06-09,2024-06-18,Cash On Delivery,Delivered,Johnson-Dunn
+O00171,William White,West Angelaview,Smart Sneakers,Books,1652.98,4,2025-02-02,2025-02-12,Online Banking,Pending,Robinson-Spence
+O00172,Bryan Lee,Shannonmouth,Modern Refrigerator,Electronics,1693.28,5,2024-10-05,2024-10-10,Cash On Delivery,Delivered,"Gallagher, Morris and Hanson"
+O00173,Tiffany Singh,Lake Shannon,Hyper Vacuum Cleaner,Books,977.86,2,2024-03-26,2024-03-30,Debit Card,Returned,Mccormick-Smith
+O00174,Richard Gomez,Sherryside,Compact Watch,Automotive,1074.27,2,2024-11-13,2024-11-14,Online Banking,Pending,Gomez-Miller
+O00175,Theresa Myers,Lake Dawn,Innovative Sneakers,Sports,484.86,4,2024-06-27,2024-07-01,Online Banking,Pending,Torres Group
+O00176,Carol Beck,Cynthialand,Budget Headphones,Books,548.8,5,2024-06-14,2024-06-23,Online Banking,Cancelled,Kelley-Schneider
+O00177,Brian Shepherd,Jenkinsburgh,Premium Tablet,Electronics,333.54,2,2024-07-03,2024-07-08,Debit Card,Pending,"George, Moore and Webster"
+O00178,Angela Flores,Christianberg,Hyper Jeans,Beauty,174.17,5,2025-01-08,2025-01-11,Cash On Delivery,Returned,Gonzales PLC
+O00179,Pamela Gomez,West Pamela,Advanced Sneakers,Home Appliances,904.41,5,2024-12-20,2024-12-23,Credit Card,Cancelled,Carpenter-Espinoza
+O00180,Jordan Bennett,Greenmouth,Elite Jeans,Beauty,1159.97,4,2024-11-26,2024-12-06,Cash On Delivery,Delivered,"Curtis, Wells and Alvarado"
+O00181,Traci Daniels,Petersside,Smart Watch,Books,886.4,2,2024-06-05,2024-06-11,Cash On Delivery,Pending,Hansen-Perry
+O00182,Cheryl Howell,Angelaville,Smart Watch,Beauty,1670.89,2,2024-05-19,2024-05-22,Online Banking,Delivered,Summers Inc
+O00183,Angela Rogers,Lake Debbieberg,Hyper Backpack,Beauty,1319.79,3,2024-03-07,2024-03-11,Online Banking,Cancelled,Andrews-Booker
+O00184,Jacob Gonzalez,Sherryborough,Ultra Sunglasses,Electronics,630.93,1,2024-02-26,2024-02-28,Cash On Delivery,Delivered,Kennedy-Hernandez
+O00185,Steve Warren,Millerland,Innovative Sneakers,Beauty,1080.78,5,2025-02-13,2025-02-19,Debit Card,Pending,"Price, Burton and Guzman"
+O00186,Jonathan Marks,Lake Rebeccafurt,Sleek Smartwatch,Automotive,1506.89,3,2024-08-05,2024-08-07,Online Banking,Pending,Manning and Sons
+O00187,Mark Dorsey,Phamhaven,Compact Sunglasses,Fashion,1379.41,1,2024-11-02,2024-11-12,Debit Card,Cancelled,"Anderson, Green and Mccall"
+O00188,Mr. Daniel Smith,Dianefort,Advanced Jeans,Sports,199.77,2,2025-02-18,2025-02-28,Credit Card,Pending,Walker-Stewart
+O00189,Donna Ruiz,Lake Scott,Innovative Sneakers,Beauty,111.86,3,2024-05-21,2024-05-31,Debit Card,Returned,Barker Ltd
+O00190,Mary Frost,South Michaelmouth,Advanced Jeans,Electronics,915.3,2,2024-10-27,2024-10-29,Credit Card,Cancelled,Melton-Morgan
+O00191,Teresa Cherry,Waltersborough,Super Smartwatch,Automotive,566.5,5,2024-06-15,2024-06-18,Cash On Delivery,Returned,"Munoz, Burke and Shepherd"
+O00192,Ryan Moore,New Lisabury,Sleek Smartwatch,Sports,528.01,5,2024-09-08,2024-09-18,Cash On Delivery,Delivered,Schmitt-Daniel
+O00193,Rhonda Ramsey,East Rhondastad,Mega Jeans,Beauty,1128.96,4,2024-06-11,2024-06-15,Credit Card,Pending,"Sanders, Kelley and Evans"
+O00194,Angela Ritter,Emilybury,Super Smartwatch,Sports,1784.86,4,2024-09-28,2024-10-08,Debit Card,Returned,White LLC
+O00195,Brandon Lewis,Markfurt,Elite Jeans,Beauty,37.18,2,2024-10-12,2024-10-19,Debit Card,Pending,"Wilson, Medina and Berry"
+O00196,Daniel Wilkins,Erinborough,Ultra Sneakers,Books,1461.54,2,2024-03-28,2024-04-06,Online Banking,Pending,Mullen Ltd
+O00197,Daniel Anderson,Port John,Eco Sneakers,Electronics,1461.68,5,2024-07-14,2024-07-15,Credit Card,Cancelled,Mckay-Villarreal
+O00198,Larry Duncan,Jenniferhaven,Sleek Camera,Home Appliances,513.63,1,2024-08-11,2024-08-20,Credit Card,Delivered,Hernandez Ltd
+O00199,Jennifer Herrera,Port Michael,Ultra Sneakers,Fashion,501.46,4,2024-10-22,2024-10-24,Cash On Delivery,Pending,"Tate, White and Johnson"
+O00200,Robert Hendricks,Johnsonfort,Ultra Microwave,Sports,1297.03,5,2024-09-23,2024-09-28,Online Banking,Returned,Ford and Sons
+O00201,Nancy Daniels,South Raymond,Hyper Vacuum Cleaner,Sports,1830.32,3,2024-12-07,2024-12-08,Online Banking,Pending,Acosta-Anderson
+O00202,Dalton Mcdonald,New Tylerburgh,Advanced Sunglasses,Home Appliances,514.28,3,2024-03-04,2024-03-08,Cash On Delivery,Cancelled,Garner-Lane
+O00203,Zoe Johnson MD,East Ashley,Sleek Camera,Fashion,1042.24,5,2024-08-30,2024-09-05,Credit Card,Delivered,"Carter, Smith and Cherry"
+O00204,Holly White,Gilberttown,Smart Sneakers,Books,1402.53,4,2024-04-18,2024-04-26,Cash On Delivery,Pending,Brown and Sons
+O00205,Natasha Wolfe,East Shelly,Smart Sunglasses,Electronics,269.13,4,2024-10-15,2024-10-24,Online Banking,Cancelled,Rice-Henderson
+O00206,James Brady,Port Haileyfort,Mega Vacuum Cleaner,Fashion,901.03,4,2024-06-26,2024-07-06,Debit Card,Pending,"Perry, Garcia and Page"
+O00207,Mark Moore,Duranborough,Modern Backpack,Books,651.1,3,2024-11-17,2024-11-18,Credit Card,Cancelled,"Gaines, Lawson and Gomez"
+O00208,Tonya Chase,East Meaganport,Budget Microwave,Beauty,426.29,2,2024-06-07,2024-06-08,Credit Card,Delivered,Boyle Group
+O00209,Manuel Thomas,South Caitlin,Budget Tablet,Sports,280.04,5,2024-05-06,2024-05-07,Online Banking,Cancelled,Brown Inc
+O00210,Daniel Gonzales,Smithview,Super Headphones,Home Appliances,859.22,5,2024-02-27,2024-03-07,Cash On Delivery,Delivered,Edwards-Green
+O00211,Courtney Vazquez,Justinville,Budget Smartwatch,Fashion,846.34,4,2024-08-24,2024-08-26,Cash On Delivery,Returned,Rojas-Zimmerman
+O00212,Adam Velez,Lake Brandonfurt,Compact Jeans,Automotive,189.42,2,2024-07-27,2024-08-04,Debit Card,Returned,Garza and Sons
+O00213,Benjamin Todd,East Melissa,Modern Backpack,Home Appliances,273.34,4,2024-11-16,2024-11-23,Debit Card,Returned,Johnston LLC
+O00214,Juan Howard,Brittanychester,Budget Smartwatch,Books,1475.23,4,2024-05-11,2024-05-17,Online Banking,Delivered,Lambert-Parker
+O00215,Scott Proctor,Abbottton,Innovative Camera,Books,978.15,2,2024-08-09,2024-08-14,Online Banking,Delivered,"Hill, Irwin and Page"
+O00216,Angela Atkinson,Lake Dean,Modern Backpack,Sports,87.07,5,2025-02-04,2025-02-06,Cash On Delivery,Pending,"Richardson, Reed and Haynes"
+O00217,Bianca Patel,Galvanshire,Sleek Smartwatch,Beauty,1052.01,3,2024-11-26,2024-12-02,Debit Card,Delivered,"Medina, Robinson and Pittman"
+O00218,Nicole Rivas,Alicetown,Advanced Backpack,Automotive,729.79,4,2024-11-30,2024-12-01,Cash On Delivery,Delivered,Bender-Soto
+O00219,Mary King,New Nancychester,Smart Vacuum Cleaner,Beauty,1085.25,4,2024-11-09,2024-11-12,Online Banking,Delivered,"Bush, Morse and Goodman"
+O00220,Rebecca Chapman,Robertstad,Pro Camera,Sports,1202.25,4,2024-12-28,2025-01-05,Debit Card,Cancelled,Mccarthy-Trevino
+O00221,Courtney Johnson,Jessicaport,Ultra Smartphone,Electronics,99.58,3,2024-03-15,2024-03-25,Credit Card,Returned,"Elliott, Rogers and Jordan"
+O00222,Hannah Black,East Shelbyburgh,Compact Microwave,Automotive,1011.97,2,2024-08-26,2024-09-03,Debit Card,Delivered,Jones and Sons
+O00223,Colleen Reyes,Ruthton,Smart Vacuum Cleaner,Books,1840.66,1,2024-08-22,2024-08-30,Debit Card,Returned,Pierce-Horton
+O00224,Brooke Thomas,East Erica,Hyper Sneakers,Books,469.83,1,2024-08-01,2024-08-04,Debit Card,Returned,Rodriguez and Sons
+O00225,Debra Foster,Collinschester,Innovative Sneakers,Beauty,408.16,5,2024-06-01,2024-06-10,Credit Card,Delivered,Mayer-Sullivan
+O00226,Ronald Johnson,Lake Selena,Sleek Camera,Beauty,48.96,4,2025-01-28,2025-01-31,Cash On Delivery,Returned,Lawson and Sons
+O00227,Kristen Johnson,Rojasmouth,Mega Laptop,Electronics,1420.14,1,2024-03-05,2024-03-07,Credit Card,Delivered,Garcia Ltd
+O00228,Holly Williams,Port Theresa,Hyper Backpack,Books,860.91,2,2024-10-31,2024-11-06,Credit Card,Cancelled,"Holland, Jones and Gomez"
+O00229,David Schultz,South Lorrainefurt,Hyper Tablet,Electronics,230.74,5,2024-07-18,2024-07-28,Cash On Delivery,Delivered,"Ward, Clements and Miller"
+O00230,James Cooper,Alvaradobury,Smart Jeans,Automotive,1934.06,1,2025-01-31,2025-02-01,Online Banking,Returned,Miller-Jones
+O00231,Mrs. Ashley Osborne,Gonzalesview,Innovative Sneakers,Electronics,1491.42,1,2024-03-21,2024-03-28,Credit Card,Delivered,"Olson, Wright and Johnson"
+O00232,Cheryl Tran,Andersonstad,Budget Smartwatch,Fashion,1576.12,2,2024-04-14,2024-04-24,Online Banking,Returned,"Austin, Rangel and Barber"
+O00233,Joshua Smith,Kimberlymouth,Smart Refrigerator,Fashion,1469.97,1,2024-03-28,2024-03-30,Credit Card,Returned,"Young, Hendricks and Sullivan"
+O00234,Antonio Williams,Cabrerashire,Innovative Sneakers,Electronics,529.93,1,2025-02-18,2025-02-23,Credit Card,Delivered,Miller and Sons
+O00235,Morgan Adams,Toddshire,Modern T-shirt,Automotive,1313.39,1,2024-06-27,2024-07-03,Debit Card,Pending,"Cameron, Benitez and Moore"
+O00236,Jenna Welch,East Angelamouth,Budget Watch,Electronics,1850.48,2,2024-08-09,2024-08-16,Credit Card,Cancelled,Molina-White
+O00237,Tanner Morales,Bryantown,Smart Vacuum Cleaner,Sports,229.69,2,2024-10-14,2024-10-15,Online Banking,Delivered,Anderson Ltd
+O00238,Gregory Mitchell,Lake Brianton,Modern Refrigerator,Electronics,625.87,4,2024-11-15,2024-11-21,Cash On Delivery,Returned,"Mueller, Snyder and Schwartz"
+O00239,Taylor Hoffman,Scottview,Super Smartwatch,Home Appliances,92.36,4,2024-12-09,2024-12-19,Cash On Delivery,Pending,Garcia-Flynn
+O00240,Hunter Daniel,South Andrew,Budget Tablet,Electronics,374.19,3,2024-04-16,2024-04-24,Debit Card,Pending,"Jones, Dennis and Pennington"
+O00241,Brianna Bautista,South Rodney,Budget Watch,Home Appliances,71.93,4,2024-03-30,2024-04-08,Debit Card,Returned,Clarke and Sons
+O00242,Michael Shaffer,Lawrenceburgh,Hyper Sneakers,Fashion,336.0,1,2024-07-04,2024-07-12,Cash On Delivery,Pending,Lawson-James
+O00243,Jennifer Thompson,Perezfurt,Mega Smartphone,Fashion,1655.98,3,2024-12-31,2025-01-07,Debit Card,Returned,Johnson Inc
+O00244,Ariel Johnston,East Sonyafort,Elite Jeans,Beauty,1085.46,3,2024-11-24,2024-11-26,Debit Card,Pending,Guzman-Diaz
+O00245,David Gilbert,North Jason,Budget Tablet,Automotive,271.33,2,2024-11-29,2024-12-05,Cash On Delivery,Pending,Campbell-Sanders
+O00246,Mr. Scott Baldwin,Markstad,Smart Microwave,Fashion,779.44,4,2024-05-17,2024-05-25,Online Banking,Cancelled,Freeman LLC
+O00247,Danielle Lee,Lake Alexa,Budget Smartwatch,Automotive,1945.57,5,2024-09-11,2024-09-18,Online Banking,Cancelled,Bryant Group
+O00248,Rhonda Thornton PhD,South Brian,Budget Smartphone,Beauty,615.03,2,2024-06-02,2024-06-06,Debit Card,Delivered,Davis-Rose
+O00249,Gabrielle Juarez,Benderside,Pro Smartwatch,Books,1448.16,1,2024-12-28,2025-01-06,Credit Card,Cancelled,Reeves-Jacobson
+O00250,Mallory Cabrera,New Daniellefurt,Eco Headphones,Books,736.18,3,2024-10-30,2024-11-08,Online Banking,Delivered,Washington-Sanchez
+O00251,Brenda Marquez,Port Jennifer,Budget Backpack,Beauty,566.87,2,2024-07-14,2024-07-20,Cash On Delivery,Delivered,"Simpson, Bishop and Gillespie"
+O00252,Tammy Dixon,New Robin,Smart Smartphone,Beauty,94.15,1,2024-05-05,2024-05-13,Cash On Delivery,Returned,"Leach, Thomas and Mccann"
+O00253,Linda Robbins,Bethland,Ultra Sneakers,Books,500.26,2,2024-07-08,2024-07-15,Debit Card,Returned,Lane-Young
+O00254,Michael George,Goodwinmouth,Compact Refrigerator,Fashion,121.34,5,2024-08-23,2024-09-01,Credit Card,Returned,"Ayers, Rose and Arellano"
+O00255,Erica Watts,New Jordan,Pro Headphones,Sports,573.68,1,2025-02-19,2025-02-27,Cash On Delivery,Cancelled,Velazquez-Vega
+O00256,Joshua Kennedy,South Jadeton,Budget Tablet,Beauty,1463.54,4,2024-08-03,2024-08-10,Credit Card,Returned,Miller Group
+O00257,Angela Lane,Lake Jasonview,Elite Jeans,Beauty,913.53,5,2024-04-15,2024-04-24,Debit Card,Pending,Brown-Dixon
+O00258,Cameron Richards,West Sharonport,Mega Tablet,Electronics,1793.48,2,2024-05-04,2024-05-05,Online Banking,Returned,"Martinez, Russell and Spencer"
+O00259,Sonia Martinez,Port Timothy,Advanced Jeans,Beauty,1008.08,3,2024-02-27,2024-03-06,Debit Card,Pending,"Martinez, Jones and Brown"
+O00260,Samuel Cruz,New Darrell,Elite Smartphone,Books,1230.54,2,2024-08-26,2024-08-27,Credit Card,Pending,"Mitchell, Figueroa and James"
+O00261,Kristy Smith,Dominguezmouth,Modern Refrigerator,Automotive,1123.41,3,2024-06-04,2024-06-13,Cash On Delivery,Pending,"Horton, Martinez and Gross"
+O00262,Christopher Whitehead,New Mary,Eco Camera,Books,1568.91,2,2024-03-31,2024-04-02,Online Banking,Delivered,"Potts, Morris and Compton"
+O00263,Charles Thomas,Melissastad,Eco Sunglasses,Automotive,845.22,1,2024-08-21,2024-08-25,Debit Card,Returned,"Banks, Jackson and Krause"
+O00264,Kimberly Graves,North Jennifer,Premium Watch,Home Appliances,1974.84,1,2024-05-22,2024-05-25,Debit Card,Pending,"Bentley, Jones and Moss"
+O00265,Debra Barrera,East Emily,Ultra Microwave,Home Appliances,1608.16,1,2024-05-16,2024-05-20,Credit Card,Pending,"Trujillo, Fields and Frost"
+O00266,Karl Mcgrath,Singhfort,Smart Microwave,Beauty,1728.44,1,2024-08-19,2024-08-28,Cash On Delivery,Delivered,Gamble PLC
+O00267,Joshua Moreno,Lisahaven,Sleek Smartwatch,Automotive,1855.72,4,2024-10-13,2024-10-19,Debit Card,Cancelled,"Rios, Green and Myers"
+O00268,Cynthia Bell,West Barbarashire,Sleek Sneakers,Electronics,1359.78,2,2024-07-13,2024-07-20,Online Banking,Delivered,Brown and Sons
+O00269,Rachel Pearson,Tuckerborough,Modern Sneakers,Automotive,1568.9,1,2024-12-16,2024-12-22,Online Banking,Pending,"Allen, Pruitt and Williams"
+O00270,Shelby Williams,New Gary,Modern Backpack,Automotive,1018.95,3,2025-02-02,2025-02-12,Credit Card,Pending,"Tyler, Mckenzie and Washington"
+O00271,Laura Bennett,Longview,Eco Sunglasses,Fashion,1255.81,3,2024-12-18,2024-12-26,Online Banking,Cancelled,Fisher PLC
+O00272,Jeffery Hill,Ericberg,Premium Watch,Fashion,841.81,5,2024-08-31,2024-09-05,Debit Card,Returned,Cuevas Group
+O00273,Jeffrey Robinson,Walkerborough,Budget Tablet,Home Appliances,844.78,3,2024-03-08,2024-03-17,Cash On Delivery,Delivered,Hunt Inc
+O00274,Katherine Fischer,East Cherylmouth,Innovative Refrigerator,Sports,787.71,3,2024-10-30,2024-11-02,Cash On Delivery,Returned,Wilkins and Sons
+O00275,Nathan Ortiz,Rebeccachester,Mega Vacuum Cleaner,Beauty,1287.69,5,2025-01-16,2025-01-23,Debit Card,Returned,"Sharp, Davis and Johnson"
+O00276,Benjamin Scott,West Matthewchester,Elite Sneakers,Electronics,436.05,5,2024-08-06,2024-08-07,Credit Card,Pending,Jennings Group
+O00277,Dr. Dana Chen,Stephenmouth,Innovative Microwave,Books,1105.16,3,2024-07-02,2024-07-11,Online Banking,Returned,"Brown, Christensen and Carroll"
+O00278,Jeremiah Bowman,South Cindy,Innovative Microwave,Fashion,947.35,3,2024-11-08,2024-11-18,Online Banking,Returned,Glenn LLC
+O00279,Deborah Holmes,Lake Tannermouth,Modern Sneakers,Electronics,1120.2,4,2025-01-25,2025-02-04,Online Banking,Cancelled,Miller-Spears
+O00280,Mary Brown,New Calebville,Compact Watch,Automotive,341.79,4,2024-12-14,2024-12-23,Credit Card,Delivered,"White, Johnson and Wilkins"
+O00281,Juan Taylor,Thompsonland,Innovative Refrigerator,Books,1229.08,3,2025-01-28,2025-02-01,Online Banking,Delivered,"Fitzgerald, Porter and Mcdonald"
+O00282,Francisco Rodriguez,Rodriguezbury,Eco Camera,Electronics,1895.81,1,2025-02-22,2025-03-02,Credit Card,Returned,"Choi, Weber and Hall"
+O00283,Sarah Davis,North Rhondaland,Modern Headphones,Beauty,429.45,4,2024-05-23,2024-05-30,Debit Card,Delivered,"Moore, Campbell and Gallegos"
+O00284,Beth Scott,Leachport,Budget Tablet,Electronics,1957.06,3,2024-09-05,2024-09-06,Online Banking,Cancelled,"Stanley, Lawson and Lara"
+O00285,Travis Hill,Mooreview,Innovative Backpack,Beauty,476.21,3,2024-10-23,2024-10-31,Cash On Delivery,Pending,Taylor-Huerta
+O00286,Judy Rivera,South Emily,Budget Laptop,Books,75.03,2,2024-10-01,2024-10-07,Debit Card,Returned,King-Chapman
+O00287,Tanya Hurley,North Jerry,Pro Tablet,Home Appliances,210.31,1,2024-04-09,2024-04-13,Credit Card,Delivered,Zuniga Inc
+O00288,Ryan Tapia,West Carol,Super Smartphone,Sports,1566.84,3,2025-01-30,2025-02-02,Cash On Delivery,Cancelled,Cook-Cox
+O00289,Barbara Hill,Hollyborough,Budget Watch,Electronics,1095.03,1,2025-02-02,2025-02-11,Credit Card,Delivered,Moreno LLC
+O00290,Melissa Jackson,North Savannah,Premium Refrigerator,Books,819.68,5,2024-08-28,2024-09-01,Online Banking,Cancelled,Sanchez PLC
+O00291,Kevin Santiago,Smithbury,Budget Headphones,Beauty,908.38,1,2024-05-07,2024-05-15,Credit Card,Pending,Brown and Sons
+O00292,Maria Brown,West Nicole,Smart Smartphone,Beauty,640.68,3,2024-04-25,2024-05-01,Credit Card,Returned,Griffith-Baker
+O00293,Angel Guzman,South Kenneth,Smart Jeans,Sports,1292.95,4,2024-04-01,2024-04-07,Credit Card,Cancelled,"Foster, Oliver and Williams"
+O00294,Andrea Harris,Annetteburgh,Modern Sunglasses,Sports,1936.55,1,2024-10-07,2024-10-08,Debit Card,Cancelled,Goodwin and Sons
+O00295,James Martin,Teresaport,Mega Jeans,Home Appliances,1016.92,1,2025-02-11,2025-02-20,Cash On Delivery,Pending,"Hernandez, Brown and Brown"
+O00296,Adam Thomas,Anthonymouth,Compact Microwave,Beauty,937.73,2,2024-07-17,2024-07-22,Online Banking,Delivered,Spencer-Edwards
+O00297,Timothy Wilson,Churchport,Pro Smartwatch,Fashion,292.89,5,2024-06-14,2024-06-15,Debit Card,Pending,"Sims, Warren and Murphy"
+O00298,Benjamin Jones,Gibsonfurt,Premium Refrigerator,Beauty,1726.25,2,2024-08-22,2024-08-24,Cash On Delivery,Cancelled,Garcia-Pollard
+O00299,Andrew Lopez,Hahnport,Smart Sunglasses,Beauty,1475.04,5,2024-09-14,2024-09-16,Credit Card,Delivered,Cross LLC
+O00300,William Bryant,Steinmouth,Mega Jeans,Books,804.52,5,2024-04-08,2024-04-15,Online Banking,Cancelled,"Houston, Hawkins and Combs"
+O00301,Andrew Whitaker,Stevenland,Modern Headphones,Fashion,741.1,4,2025-01-02,2025-01-11,Debit Card,Cancelled,Lopez-Patel
+O00302,Kimberly Frazier,New Antonio,Pro Camera,Home Appliances,1723.04,2,2024-07-19,2024-07-21,Cash On Delivery,Cancelled,"Sawyer, Carter and Webb"
+O00303,Frank Orr,New Daniel,Budget Sneakers,Beauty,1946.98,5,2025-01-11,2025-01-20,Debit Card,Cancelled,Young Inc
+O00304,Kimberly Hill,Juliechester,Modern T-shirt,Electronics,257.83,5,2024-10-21,2024-10-29,Debit Card,Cancelled,"Walker, Lee and Nguyen"
+O00305,Lisa Schultz,East Peter,Ultra Vacuum Cleaner,Books,698.7,2,2025-01-07,2025-01-15,Debit Card,Cancelled,Alexander-Roth
+O00306,Leah Brown,Lake Sheilafort,Ultra Smartphone,Beauty,232.32,4,2024-07-18,2024-07-28,Debit Card,Delivered,"Sanford, Moore and Paul"
+O00307,Chase Dickson,Port Kellieton,Modern Jeans,Sports,1162.77,2,2024-06-20,2024-06-25,Online Banking,Returned,Harrison-Walker
+O00308,Jimmy Walker,Pollardberg,Advanced Microwave,Books,850.91,1,2024-11-20,2024-11-28,Credit Card,Delivered,"Jenkins, Mendez and Garcia"
+O00309,Kimberly Marquez,Michelleside,Smart Watch,Books,40.84,2,2024-12-22,2024-12-27,Debit Card,Returned,Holden Group
+O00310,Karen Gordon,Timothymouth,Advanced Sunglasses,Electronics,1896.08,4,2024-06-23,2024-06-29,Online Banking,Pending,Moore-Taylor
+O00311,Joshua Spencer,Christopherhaven,Budget Headphones,Fashion,1959.67,2,2025-02-06,2025-02-16,Credit Card,Delivered,"Browning, Hunter and Henderson"
+O00312,Debra Murray,West Patrick,Innovative Refrigerator,Sports,1556.6,4,2024-10-24,2024-11-02,Debit Card,Delivered,Hall Group
+O00313,Aaron Fry,North Breannaborough,Premium Tablet,Books,1322.06,5,2024-06-29,2024-07-04,Credit Card,Cancelled,"Dean, Garcia and Parker"
+O00314,Stephen Jacobson,Yangfurt,Elite Laptop,Beauty,1804.88,2,2024-03-04,2024-03-06,Online Banking,Delivered,Bullock Ltd
+O00315,James Cruz,South Bailey,Mega Sneakers,Sports,16.74,2,2025-02-18,2025-02-28,Online Banking,Delivered,Calhoun-Bauer
+O00316,Brenda Odonnell,North John,Innovative Sneakers,Sports,1300.19,4,2024-07-13,2024-07-15,Cash On Delivery,Delivered,"Horton, Myers and Schmidt"
+O00317,Madison Fisher,Robinsonland,Mega Smartphone,Sports,727.04,3,2024-06-27,2024-07-06,Credit Card,Delivered,"Rodriguez, Porter and Bowman"
+O00318,Kristen Harris,Isaiahburgh,Mega Laptop,Electronics,645.71,1,2024-03-15,2024-03-16,Debit Card,Pending,"Harper, Gonzalez and Smith"
+O00319,Jo Johnson,North Vincentville,Elite Sneakers,Fashion,714.58,1,2024-04-12,2024-04-20,Online Banking,Returned,Thompson-Johnson
+O00320,Emily Roberts,Port Craigfort,Hyper Microwave,Electronics,698.26,5,2025-02-23,2025-03-01,Credit Card,Cancelled,"Bryant, Soto and Barnett"
+O00321,Dylan Romero,Kylieberg,Innovative Headphones,Fashion,1283.59,4,2024-08-29,2024-09-07,Credit Card,Cancelled,"Clark, Cummings and Houston"
+O00322,Amanda Kirk,New Tonya,Advanced Sneakers,Automotive,1243.27,2,2024-07-28,2024-08-05,Debit Card,Returned,"Morgan, Brock and Barrera"
+O00323,Sharon Martinez,Donaldtown,Innovative Sneakers,Books,332.0,4,2024-12-06,2024-12-09,Debit Card,Delivered,"Lewis, Eaton and Price"
+O00324,Andrea Alvarado,West Jesus,Innovative Microwave,Automotive,1111.37,3,2024-09-13,2024-09-22,Online Banking,Delivered,Swanson LLC
+O00325,Joshua Walker,Karenberg,Super Headphones,Electronics,967.83,2,2024-04-24,2024-05-04,Credit Card,Delivered,Scott LLC
+O00326,Brad Jones,New Donaldborough,Eco Watch,Beauty,1152.62,2,2024-12-24,2024-12-26,Debit Card,Returned,"Edwards, Thomas and Duran"
+O00327,Marcus Adams,West Beverly,Super Headphones,Automotive,1929.3,5,2025-01-02,2025-01-08,Online Banking,Returned,"Cruz, Mendez and Vega"
+O00328,Timothy Franco,North Paul,Modern Refrigerator,Sports,1691.4,5,2024-11-10,2024-11-15,Credit Card,Pending,Kelley-Nash
+O00329,Jermaine Curry,North Catherineshire,Compact Refrigerator,Electronics,545.0,4,2024-12-22,2024-12-24,Online Banking,Pending,Fernandez Inc
+O00330,Loretta Cruz,New Natalie,Elite Laptop,Beauty,1499.42,4,2024-06-10,2024-06-18,Cash On Delivery,Cancelled,Montgomery PLC
+O00331,Jacob Ellis,Travisstad,Innovative Camera,Electronics,1836.34,2,2024-05-04,2024-05-12,Debit Card,Cancelled,"Williamson, Mcclure and Brown"
+O00332,Brittany Daniels,South Kristinafurt,Pro Tablet,Fashion,668.2,3,2024-09-25,2024-10-04,Online Banking,Pending,Blair Ltd
+O00333,Olivia Meyer,North Karen,Premium Refrigerator,Automotive,1846.11,4,2024-08-22,2024-09-01,Debit Card,Returned,Kramer LLC
+O00334,Clayton Williamson,Port Dana,Compact Microwave,Books,1852.84,2,2024-05-28,2024-06-03,Debit Card,Cancelled,Sherman-Alvarado
+O00335,Elizabeth Oliver,East Charlesmouth,Ultra Smartwatch,Home Appliances,1170.13,3,2024-04-02,2024-04-11,Credit Card,Delivered,Thomas Group
+O00336,Logan Conley,Phyllisshire,Innovative Smartwatch,Beauty,365.3,5,2024-03-20,2024-03-25,Credit Card,Returned,"Hernandez, Bryant and Porter"
+O00337,Rebecca Richardson,West Megantown,Elite Laptop,Automotive,121.18,2,2024-09-07,2024-09-13,Cash On Delivery,Returned,Moss and Sons
+O00338,Anna Chambers,Christinaview,Modern Refrigerator,Beauty,473.99,1,2025-01-04,2025-01-06,Credit Card,Delivered,Perry-Preston
+O00339,Curtis Bailey,East Miguel,Budget Jeans,Electronics,417.59,5,2024-05-02,2024-05-04,Debit Card,Cancelled,Erickson Inc
+O00340,Terry Ibarra,Georgefurt,Budget Headphones,Electronics,1976.88,1,2024-12-21,2024-12-28,Credit Card,Delivered,Shea Inc
+O00341,Patrick Parker,Morrisfort,Modern Sneakers,Home Appliances,714.18,1,2024-08-07,2024-08-09,Cash On Delivery,Pending,"Underwood, Tucker and White"
+O00342,Jennifer Thomas,South Lori,Ultra Sneakers,Electronics,29.85,1,2024-04-02,2024-04-12,Cash On Delivery,Returned,Newman-Rodriguez
+O00343,Christopher Vaughn,Port Jeanport,Modern Refrigerator,Fashion,319.58,5,2024-12-01,2024-12-03,Cash On Delivery,Pending,Fletcher-Adams
+O00344,Jamie May,New Amy,Modern Jeans,Fashion,873.13,3,2024-10-04,2024-10-06,Online Banking,Cancelled,Patrick Group
+O00345,Matthew Mcdonald,Henryville,Mega Watch,Electronics,1617.25,5,2024-10-28,2024-10-30,Credit Card,Returned,"King, Stewart and Beck"
+O00346,Carlos Clark,South Nathanhaven,Compact Camera,Sports,358.2,3,2024-07-09,2024-07-19,Credit Card,Cancelled,Cox-Perkins
+O00347,Stephanie Taylor,North Stacieport,Super Smartwatch,Automotive,1684.99,2,2024-10-09,2024-10-12,Credit Card,Delivered,"King, Parks and Dawson"
+O00348,Monique Lyons,Teresaview,Innovative Refrigerator,Automotive,1920.66,4,2024-08-23,2024-08-27,Debit Card,Returned,Cole Inc
+O00349,Jessica Farmer,East Jimmyton,Pro Microwave,Home Appliances,53.37,4,2024-10-28,2024-11-04,Debit Card,Pending,Johnson-Reyes
+O00350,Michael Beasley,Bakerfort,Pro Camera,Beauty,1307.34,2,2025-02-19,2025-02-24,Credit Card,Cancelled,Garcia LLC
+O00351,Anne Solis,East Valerie,Modern Smartwatch,Electronics,1873.9,4,2024-03-13,2024-03-18,Cash On Delivery,Returned,Turner Group
+O00352,Cody Nichols,Jessicastad,Eco Sunglasses,Fashion,20.14,2,2024-03-08,2024-03-17,Credit Card,Returned,Baker LLC
+O00353,Jocelyn Rosales,Jacquelineport,Premium Backpack,Books,38.63,4,2024-12-16,2024-12-24,Credit Card,Pending,Lynch-Bowen
+O00354,Pedro Daugherty,North Jeffery,Budget Laptop,Books,1698.61,5,2025-02-17,2025-02-26,Debit Card,Delivered,Perez-Lopez
+O00355,Brandon Nelson,Philipport,Budget Headphones,Books,198.25,1,2024-09-13,2024-09-20,Credit Card,Returned,Finley and Sons
+O00356,Tiffany Frazier,Port Brittney,Budget Smartwatch,Fashion,815.29,5,2024-12-20,2024-12-24,Online Banking,Returned,Young and Sons
+O00357,Dawn Gonzalez,Jensenmouth,Hyper Tablet,Books,1877.87,3,2024-07-27,2024-07-28,Online Banking,Delivered,Walls-Glover
+O00358,Jonathan Cortez,Richardville,Ultra Sneakers,Sports,24.88,2,2025-02-25,2025-03-07,Debit Card,Cancelled,"Hendricks, Adkins and Garcia"
+O00359,John Hawkins,South Bradbury,Ultra Smartwatch,Beauty,1802.84,2,2024-03-07,2024-03-08,Credit Card,Pending,Miller-Garner
+O00360,Peter Elliott,Port Julie,Sleek Laptop,Electronics,1263.1,5,2024-03-06,2024-03-13,Online Banking,Delivered,Smith-Hess
+O00361,Brandi Hughes,East Nicole,Compact Sneakers,Automotive,79.97,4,2024-11-22,2024-11-27,Online Banking,Returned,Ward-Williams
+O00362,Olivia Campos,Wrightside,Innovative Camera,Home Appliances,1386.48,2,2024-10-02,2024-10-06,Online Banking,Delivered,Shaw Inc
+O00363,Katie Lopez,Port Evanmouth,Advanced Jeans,Electronics,41.41,1,2024-10-31,2024-11-07,Credit Card,Cancelled,"Le, Duncan and Orozco"
+O00364,Patricia Oconnor,North Cindyville,Modern Headphones,Books,1163.2,1,2024-10-11,2024-10-15,Debit Card,Returned,Stevens-Simmons
+O00365,Steven Watson,Evanshaven,Advanced Sneakers,Fashion,746.85,5,2024-05-05,2024-05-10,Credit Card,Pending,"Gonzales, Peters and Hensley"
+O00366,Teresa Matthews,Rojasshire,Mega Laptop,Automotive,650.63,1,2024-03-07,2024-03-09,Cash On Delivery,Returned,"Wiley, Wilson and Banks"
+O00367,Bobby Jenkins,Boyerland,Modern Refrigerator,Books,1026.64,2,2025-01-16,2025-01-17,Debit Card,Pending,Gonzalez LLC
+O00368,Heather Watts,Zacharyview,Eco Sneakers,Home Appliances,375.43,5,2024-11-16,2024-11-19,Online Banking,Returned,Lam Inc
+O00369,Carrie Bell,Johnstad,Budget Tablet,Beauty,1832.43,4,2025-02-25,2025-03-06,Credit Card,Returned,"French, Porter and Salazar"
+O00370,David Humphrey,North Kelly,Eco Headphones,Automotive,1797.48,4,2024-03-13,2024-03-18,Credit Card,Delivered,"Vega, Mann and Smith"
+O00371,Amy Edwards,East Maryfurt,Compact Sneakers,Home Appliances,207.57,3,2024-08-26,2024-09-02,Online Banking,Returned,"Hardy, Wilkins and Williams"
+O00372,Lori Jones,West Sarah,Compact Microwave,Automotive,1446.29,1,2024-03-18,2024-03-28,Online Banking,Cancelled,Miller-Mercado
+O00373,Andrea Jones MD,Schroederport,Compact Jeans,Home Appliances,292.04,5,2024-04-20,2024-04-28,Debit Card,Cancelled,Williams-Mendez
+O00374,Scott Bishop,Port Erin,Hyper Sneakers,Beauty,1527.93,3,2024-04-26,2024-05-05,Online Banking,Returned,"Martin, Davis and Miller"
+O00375,Maurice Bentley,East Dawn,Mega Watch,Books,1258.72,2,2024-06-16,2024-06-22,Credit Card,Delivered,"Gordon, Nguyen and Berry"
+O00376,Tina Estes,Wardmouth,Budget Sneakers,Books,1106.38,5,2024-04-25,2024-04-30,Cash On Delivery,Pending,"Khan, Burns and Logan"
+O00377,Lori Moore,West Jeffrey,Innovative Backpack,Home Appliances,183.35,1,2025-01-23,2025-01-27,Online Banking,Cancelled,"Cooke, Turner and Jones"
+O00378,Jennifer Proctor,West Marcus,Innovative Camera,Sports,371.45,5,2024-11-19,2024-11-25,Online Banking,Delivered,"Obrien, Johnson and Glenn"
+O00379,Todd Vaughn,Williamsfurt,Budget Headphones,Fashion,39.8,1,2024-09-19,2024-09-21,Cash On Delivery,Pending,Gonzalez-Curtis
+O00380,Andre Curtis,Hodgesburgh,Elite Jeans,Books,237.49,3,2025-01-13,2025-01-22,Cash On Delivery,Pending,Baker-Clark
+O00381,Dawn Lewis,East Kelsey,Advanced Sneakers,Home Appliances,261.23,2,2024-12-09,2024-12-15,Cash On Delivery,Cancelled,"Knight, Friedman and Miller"
+O00382,Michael Mullen,Cynthiafort,Premium Backpack,Sports,1303.2,5,2025-02-16,2025-02-21,Debit Card,Cancelled,Clark-Zamora
+O00383,Mr. Danny Obrien,South James,Innovative Smartwatch,Electronics,467.67,3,2025-02-06,2025-02-15,Credit Card,Cancelled,"Lewis, Garcia and Walker"
+O00384,Eric Burke,North Michelechester,Innovative Tablet,Books,483.08,4,2024-10-04,2024-10-12,Credit Card,Delivered,Rodriguez-Hogan
+O00385,James Mathis PhD,South Beth,Smart Sunglasses,Home Appliances,333.44,2,2024-11-25,2024-12-03,Cash On Delivery,Delivered,"Price, Rogers and Hughes"
+O00386,Mrs. Tammy Love MD,Christopherview,Eco Sneakers,Fashion,1170.7,1,2024-09-24,2024-09-27,Credit Card,Pending,Powell-Jones
+O00387,Amy Evans,East Tamarahaven,Smart Vacuum Cleaner,Automotive,1981.71,5,2024-08-25,2024-08-29,Debit Card,Returned,"Owens, Meza and James"
+O00388,Pamela Lee,Martinstad,Sleek Camera,Sports,1568.91,5,2025-01-13,2025-01-21,Cash On Delivery,Delivered,Murphy Inc
+O00389,Anthony Huerta,Lake Jamesberg,Smart Vacuum Cleaner,Automotive,191.31,3,2024-08-28,2024-09-06,Online Banking,Delivered,Roberts-Nichols
+O00390,Jason Krause,East Kyleberg,Innovative Watch,Fashion,465.31,1,2024-08-13,2024-08-20,Debit Card,Pending,Holmes-Rowe
+O00391,Ashley Hernandez DDS,East Ronaldside,Innovative Backpack,Beauty,1121.93,2,2024-04-22,2024-04-27,Cash On Delivery,Pending,Miller-Ayala
+O00392,Lori Keller,East Cameron,Smart Tablet,Electronics,153.48,4,2024-07-20,2024-07-26,Online Banking,Cancelled,Kelly-Butler
+O00393,Amy Moore,South Victoriaborough,Pro Camera,Books,980.81,1,2024-08-29,2024-09-05,Credit Card,Cancelled,Hardin-Potter
+O00394,Nicole Simmons,South Tonya,Budget Sneakers,Fashion,1797.46,5,2024-06-09,2024-06-15,Online Banking,Returned,Allen LLC
+O00395,Andrea Castillo,East Brent,Mega Tablet,Beauty,1328.38,1,2024-12-15,2024-12-21,Online Banking,Returned,Smith-Durham
+O00396,Donald Mosley,Randallside,Ultra Smartphone,Beauty,814.58,3,2024-12-16,2024-12-24,Cash On Delivery,Pending,Wallace-Williams
+O00397,Derek Aguirre,Hartside,Innovative Watch,Fashion,202.87,2,2024-03-04,2024-03-06,Debit Card,Pending,Valencia-Richards
+O00398,Renee Hammond,South Thomasstad,Ultra Vacuum Cleaner,Books,414.01,3,2024-04-19,2024-04-23,Debit Card,Delivered,"Winters, Hill and Wallace"
+O00399,Patrick Nguyen,Coryview,Budget Headphones,Books,495.53,5,2024-07-05,2024-07-09,Credit Card,Cancelled,Johnson Group
+O00400,Jerry Ortiz,South Brandon,Modern Headphones,Sports,998.28,5,2024-11-15,2024-11-20,Online Banking,Delivered,"Richmond, Matthews and Walter"
+O00401,Stacey Martinez,Sheilahaven,Budget Microwave,Beauty,15.14,5,2024-09-11,2024-09-15,Debit Card,Delivered,Mitchell-Nguyen
+O00402,Kimberly Johnston,Ruizhaven,Advanced Backpack,Beauty,1511.32,5,2024-10-02,2024-10-05,Debit Card,Pending,Smith PLC
+O00403,Mary Wiley,East Carla,Smart Sunglasses,Sports,1587.42,2,2025-01-04,2025-01-14,Cash On Delivery,Pending,Burnett-Shaw
+O00404,Holly Case,Phillipton,Premium Watch,Home Appliances,1110.79,3,2025-02-04,2025-02-08,Debit Card,Pending,Gonzales Ltd
+O00405,Timothy Yang,Stephaniestad,Budget Microwave,Sports,1410.93,1,2024-07-16,2024-07-23,Online Banking,Delivered,Prince-Matthews
+O00406,Teresa Gray,Harrisshire,Innovative Tablet,Books,109.53,1,2024-07-28,2024-08-01,Credit Card,Delivered,Duncan-Mccarty
+O00407,Jennifer Campbell,South Christine,Budget Laptop,Home Appliances,989.17,4,2024-08-04,2024-08-13,Cash On Delivery,Pending,Carter Inc
+O00408,Joshua Maynard,Port Seanport,Modern Sunglasses,Fashion,1879.21,2,2024-03-22,2024-03-27,Debit Card,Cancelled,"Perkins, Carr and Oconnell"
+O00409,Victoria Flores,Mccarthyhaven,Eco Sunglasses,Home Appliances,918.33,1,2024-09-25,2024-09-28,Online Banking,Pending,Wheeler-Ward
+O00410,Jeremy Harper,North Christopherview,Innovative Tablet,Books,1751.0,1,2025-01-22,2025-01-28,Debit Card,Returned,Aguilar-Thompson
+O00411,Mr. Anthony Garza,Lake Justinport,Elite Backpack,Home Appliances,215.42,4,2024-03-05,2024-03-14,Online Banking,Pending,"Lopez, Bolton and Long"
+O00412,Joe Holmes,Port Kristen,Smart Sneakers,Home Appliances,1676.53,4,2024-11-21,2024-11-22,Debit Card,Pending,Andrews Group
+O00413,William Hampton,South Annetown,Eco Headphones,Automotive,1679.08,1,2024-12-17,2024-12-21,Cash On Delivery,Cancelled,Hawkins Inc
+O00414,Barbara Boone,East Crystal,Premium Tablet,Beauty,1958.27,4,2024-07-16,2024-07-22,Debit Card,Pending,Cole-Weaver
+O00415,Christopher Brown,Oneillton,Super Headphones,Beauty,1968.67,5,2024-04-14,2024-04-22,Online Banking,Pending,"Rodriguez, Thomas and Hamilton"
+O00416,Dan Bradley MD,Annashire,Sleek Smartwatch,Automotive,402.65,5,2024-06-21,2024-06-24,Debit Card,Cancelled,"Hale, Mclean and Mitchell"
+O00417,James Young,Danielburgh,Mega Sneakers,Beauty,1485.31,2,2024-07-29,2024-08-02,Online Banking,Cancelled,Cain-Noble
+O00418,Allen Richard,East Joshua,Modern Headphones,Sports,131.64,3,2024-09-27,2024-09-29,Debit Card,Pending,"Wells, Gonzalez and Duarte"
+O00419,Kaitlin Hill,Dillonborough,Modern Jeans,Automotive,1839.51,1,2024-07-24,2024-08-02,Debit Card,Cancelled,Waters Group
+O00420,Chelsea Wells,Campbellfurt,Modern T-shirt,Beauty,512.65,3,2024-10-26,2024-10-30,Online Banking,Returned,Crawford Ltd
+O00421,Melissa Nguyen,South Danny,Budget Sneakers,Home Appliances,1204.14,5,2025-01-04,2025-01-07,Online Banking,Delivered,Wallace-Allison
+O00422,Lisa Cruz,North Judith,Pro Smartwatch,Beauty,435.03,1,2024-07-18,2024-07-26,Debit Card,Returned,"Anderson, Lee and Stevens"
+O00423,David Robinson,North Jennifer,Budget Backpack,Electronics,654.48,1,2024-04-07,2024-04-09,Online Banking,Pending,Nichols PLC
+O00424,Brittany Stone,North James,Modern Refrigerator,Electronics,91.22,4,2024-06-24,2024-06-30,Cash On Delivery,Cancelled,"Hooper, Rivas and Owens"
+O00425,Robert Boyer,Rodgersmouth,Pro Smartphone,Sports,1928.34,3,2024-12-09,2024-12-12,Credit Card,Returned,Montgomery-Smith
+O00426,Tanner Fischer,Russellchester,Premium Refrigerator,Electronics,291.86,3,2024-05-21,2024-05-30,Credit Card,Returned,"Martinez, Black and Williams"
+O00427,Mary Knox,North Megan,Budget Tablet,Beauty,1549.3,3,2024-06-05,2024-06-15,Debit Card,Returned,"Coleman, Odom and King"
+O00428,Brandon Jones,Howardchester,Innovative Microwave,Beauty,1963.51,1,2024-06-11,2024-06-19,Credit Card,Cancelled,"Francis, Hall and Boyd"
+O00429,Christopher Dunn Jr.,East Jessicahaven,Modern Sunglasses,Beauty,1410.72,2,2024-09-02,2024-09-08,Cash On Delivery,Returned,Kennedy-Miranda
+O00430,Kirk Allen,Lake Brittany,Compact Microwave,Books,872.55,4,2024-08-24,2024-08-25,Online Banking,Returned,"Watson, Lewis and Hernandez"
+O00431,Laura Morrow,Marthahaven,Premium Headphones,Fashion,1888.94,5,2024-03-02,2024-03-12,Debit Card,Cancelled,Schultz Inc
+O00432,Sylvia Henry,Lake Jason,Super Headphones,Books,835.41,5,2024-05-26,2024-06-05,Online Banking,Cancelled,Collins-Jensen
+O00433,Erik Baker,North Gary,Budget Jeans,Beauty,1740.67,3,2024-03-27,2024-03-30,Cash On Delivery,Cancelled,"Clark, Murray and Phillips"
+O00434,Donald Griffin,Salaschester,Smart Watch,Home Appliances,959.91,1,2024-03-15,2024-03-23,Cash On Delivery,Pending,Mcintosh Group
+O00435,Pamela Decker,West Whitney,Ultra Microwave,Electronics,1941.91,1,2024-04-26,2024-05-05,Credit Card,Cancelled,Smith LLC
+O00436,James Aguilar,Cheryltown,Compact Sunglasses,Home Appliances,1590.22,5,2024-07-20,2024-07-26,Credit Card,Returned,"Shepard, Jacobs and Alvarez"
+O00437,David Peters,East William,Budget Tablet,Beauty,790.28,1,2024-09-28,2024-10-03,Cash On Delivery,Pending,Morgan Ltd
+O00438,Jamie Jackson,Holdenbury,Smart Refrigerator,Home Appliances,339.8,2,2024-05-21,2024-05-31,Online Banking,Cancelled,Donaldson-Mitchell
+O00439,Ryan Johnson,West Lori,Compact Jeans,Fashion,65.34,1,2024-10-18,2024-10-20,Online Banking,Cancelled,Joseph Inc
+O00440,Michael Brown,Escobarville,Pro Smartwatch,Beauty,934.85,1,2024-03-08,2024-03-14,Online Banking,Delivered,Ellis-Wilson
+O00441,Kelly Campbell,East Meghan,Pro Camera,Fashion,1715.31,4,2024-03-14,2024-03-23,Cash On Delivery,Returned,"Ramirez, Hess and Taylor"
+O00442,Margaret Daniel,South Nicholas,Sleek Sneakers,Electronics,1058.41,4,2024-05-22,2024-05-24,Debit Card,Delivered,"Russo, Davis and Barrera"
+O00443,Gregory Watson,Toddberg,Pro Microwave,Books,1125.0,2,2024-09-23,2024-10-03,Credit Card,Pending,Duarte-Kelly
+O00444,Julia Freeman,Thompsonchester,Budget Smartphone,Home Appliances,1873.09,5,2024-02-28,2024-03-03,Credit Card,Delivered,Stevens LLC
+O00445,Christopher Schwartz,Whitneyside,Super Headphones,Automotive,953.38,5,2024-10-05,2024-10-12,Debit Card,Delivered,Bennett and Sons
+O00446,Kelsey Boyd,Jimmyview,Mega Watch,Electronics,287.15,3,2024-09-11,2024-09-16,Debit Card,Returned,Beard Ltd
+O00447,Marisa Vincent,New Matthew,Innovative Tablet,Sports,1173.96,4,2024-10-30,2024-11-08,Cash On Delivery,Delivered,"Melendez, James and Banks"
+O00448,Alejandro Moore,Ivanport,Innovative Sneakers,Electronics,926.75,1,2024-10-04,2024-10-14,Credit Card,Returned,"Olsen, Delacruz and Stone"
+O00449,Joseph Reynolds,Lindaberg,Smart Refrigerator,Beauty,1433.27,5,2025-01-17,2025-01-18,Cash On Delivery,Returned,"Barber, Miller and Ramos"
+O00450,Kathryn Crosby,West Carolynhaven,Super Headphones,Home Appliances,427.32,2,2024-11-24,2024-11-30,Credit Card,Pending,Bullock-Young
+O00451,Thomas Hawkins,Jonathanmouth,Elite Jeans,Home Appliances,287.21,2,2024-05-04,2024-05-06,Cash On Delivery,Cancelled,"Russell, Cooper and Wood"
+O00452,Robyn Miller,Campostown,Smart Sneakers,Sports,440.76,3,2024-07-19,2024-07-22,Cash On Delivery,Pending,Parrish Group
+O00453,Susan Long,Jonathanfort,Smart Watch,Books,1120.31,5,2024-08-02,2024-08-03,Online Banking,Returned,Adkins-Velasquez
+O00454,Jessica Adams,North Melvin,Advanced Sunglasses,Electronics,416.01,4,2024-09-01,2024-09-02,Cash On Delivery,Pending,Brewer and Sons
+O00455,Mark Garcia,South Lance,Ultra Watch,Fashion,566.5,3,2024-04-08,2024-04-11,Online Banking,Pending,Torres-Miller
+O00456,Katherine Torres,Jonesburgh,Ultra Sunglasses,Beauty,739.3,3,2024-06-19,2024-06-27,Cash On Delivery,Returned,Grant Group
+O00457,Victoria Walker,North Lisa,Smart Jeans,Sports,1176.66,5,2024-04-05,2024-04-14,Online Banking,Delivered,Walker Group
+O00458,Kara Ruiz,Juanstad,Premium Watch,Sports,233.54,4,2024-06-09,2024-06-19,Debit Card,Returned,"Miller, Key and Murray"
+O00459,Robert Osborn,Port Joyceview,Mega Vacuum Cleaner,Electronics,1382.15,1,2024-02-27,2024-03-07,Credit Card,Cancelled,Perez-Weiss
+O00460,Lauren Gibson,West Jostad,Modern Headphones,Beauty,1029.95,3,2024-06-18,2024-06-20,Credit Card,Pending,"Brown, Gregory and Dunn"
+O00461,Donald Decker,Port Julianton,Mega Sneakers,Home Appliances,1183.26,4,2024-11-02,2024-11-12,Cash On Delivery,Cancelled,Martin-Gentry
+O00462,Dennis Davis,South Hollybury,Elite Laptop,Fashion,1868.82,4,2025-02-08,2025-02-12,Online Banking,Cancelled,"Duarte, Collins and Garcia"
+O00463,Deborah Davis,West Garyland,Ultra Sneakers,Home Appliances,262.39,5,2024-06-15,2024-06-23,Credit Card,Cancelled,"Adams, Rollins and Cabrera"
+O00464,Cameron Vasquez,Port Michellebury,Premium Backpack,Electronics,1309.34,5,2024-10-07,2024-10-17,Credit Card,Cancelled,Kramer PLC
+O00465,Andrew Reed,Smithburgh,Mega Sneakers,Sports,1484.06,1,2024-07-25,2024-07-26,Debit Card,Cancelled,Miller-Washington
+O00466,Tiffany Weiss,North Cassandrafort,Budget Sneakers,Sports,1748.55,1,2025-01-09,2025-01-19,Debit Card,Cancelled,Ramirez Inc
+O00467,Eric Rodriguez,Figueroachester,Innovative Smartwatch,Beauty,1264.05,2,2024-11-18,2024-11-20,Cash On Delivery,Delivered,"Hansen, Gamble and Mason"
+O00468,Theresa Kramer,New Amandachester,Super Headphones,Beauty,829.36,5,2024-10-24,2024-11-01,Credit Card,Cancelled,"Chapman, Smith and Brooks"
+O00469,Todd Robinson,Jesusberg,Innovative Smartwatch,Home Appliances,571.0,2,2024-11-20,2024-11-30,Debit Card,Delivered,"Morris, Sims and Woods"
+O00470,Ashley George,Port Wayne,Budget Smartwatch,Beauty,1558.72,4,2024-09-09,2024-09-18,Online Banking,Returned,Francis-Rush
+O00471,Alicia Reyes,Timothybury,Smart Vacuum Cleaner,Electronics,476.01,4,2024-09-06,2024-09-10,Debit Card,Returned,Moore Inc
+O00472,Jessica Haynes,Susanfurt,Advanced Backpack,Fashion,497.06,1,2024-10-21,2024-10-27,Cash On Delivery,Pending,Diaz-Pierce
+O00473,Deborah Garcia,Lake Jonathan,Mega Jeans,Books,1990.98,1,2025-02-22,2025-03-03,Debit Card,Pending,Gross Ltd
+O00474,Sarah Green,East Alexandriastad,Elite Smartphone,Electronics,1238.63,3,2024-06-19,2024-06-24,Online Banking,Cancelled,Turner PLC
+O00475,David Fletcher,Murraychester,Mega Jeans,Electronics,1235.97,2,2024-07-27,2024-08-06,Cash On Delivery,Pending,Garcia and Sons
+O00476,Lisa Williams,North Ashleyton,Ultra Smartwatch,Electronics,1252.65,2,2024-11-19,2024-11-21,Debit Card,Cancelled,"Townsend, Freeman and Nelson"
+O00477,Linda Brennan,Stephensview,Compact Camera,Sports,38.45,2,2024-04-13,2024-04-21,Online Banking,Returned,"Martin, Bryant and Jones"
+O00478,Kathleen Moore,Christopherport,Eco Watch,Fashion,1956.2,3,2024-09-30,2024-10-01,Online Banking,Pending,Parker-Gonzalez
+O00479,Donald Walker,Port Elizabethstad,Budget Watch,Home Appliances,1407.98,4,2024-06-20,2024-06-23,Cash On Delivery,Delivered,"Hayes, Walton and Perry"
+O00480,Brenda Todd,North Charles,Budget Jeans,Books,1312.9,5,2024-12-14,2024-12-19,Online Banking,Pending,Lynch and Sons
+O00481,Michael Richardson,Townsendside,Premium Watch,Automotive,109.68,5,2024-10-25,2024-11-01,Cash On Delivery,Delivered,Wilkinson-Rose
+O00482,Catherine Hines,Timothymouth,Innovative Tablet,Books,459.85,1,2024-03-22,2024-03-25,Credit Card,Cancelled,Young Group
+O00483,Elizabeth Evans,Richardstad,Innovative Watch,Automotive,1836.98,3,2024-10-02,2024-10-09,Online Banking,Pending,"Allen, Christensen and Sherman"
+O00484,Sheila Thomas,Lake Kevin,Premium Refrigerator,Home Appliances,909.93,5,2024-09-28,2024-10-05,Cash On Delivery,Returned,Washington-Nelson
+O00485,Kim Perkins,Travischester,Hyper Backpack,Automotive,496.87,3,2024-05-02,2024-05-05,Cash On Delivery,Delivered,Lane-Mitchell
+O00486,Caitlin Davis,Matthewfurt,Advanced Sneakers,Electronics,130.27,3,2024-09-28,2024-10-03,Credit Card,Cancelled,Harris LLC
+O00487,Julie Lambert MD,East Ashley,Modern Sunglasses,Automotive,350.12,3,2024-06-01,2024-06-10,Online Banking,Pending,"Medina, Hardy and Burgess"
+O00488,Cody Henderson,Baxterbury,Modern T-shirt,Electronics,824.96,3,2024-05-06,2024-05-13,Cash On Delivery,Delivered,Sandoval-Arellano
+O00489,Jason Myers,Michaelland,Premium Backpack,Electronics,788.44,3,2024-11-29,2024-12-09,Online Banking,Delivered,Adams-Campbell
+O00490,Carrie Moore,West Vincenttown,Elite Laptop,Beauty,1925.1,3,2024-03-11,2024-03-15,Cash On Delivery,Delivered,"Barker, Harris and Jacobson"
+O00491,Amanda Salazar,Karenbury,Eco Sneakers,Home Appliances,707.47,3,2024-10-30,2024-11-06,Online Banking,Pending,Gardner Inc
+O00492,Austin Trujillo,Lake Aprilfort,Advanced Backpack,Books,1852.03,5,2024-09-26,2024-10-01,Debit Card,Delivered,"Gonzalez, Young and Potter"
+O00493,Patty Cooper,Maysburgh,Ultra Sunglasses,Books,834.06,4,2024-12-05,2024-12-10,Online Banking,Delivered,"Rodriguez, Morgan and Franco"
+O00494,Lisa Reed,Patrickstad,Ultra Smartphone,Books,100.62,2,2024-04-19,2024-04-27,Cash On Delivery,Returned,Johnson Ltd
+O00495,Rebecca Case,Port Heidi,Premium Refrigerator,Electronics,424.34,1,2024-06-30,2024-07-01,Credit Card,Pending,Griffith Group
+O00496,Ashley Williams,Ericport,Premium Watch,Home Appliances,605.0,5,2024-08-18,2024-08-22,Cash On Delivery,Returned,"Beck, Pierce and Hamilton"
+O00497,John Griffith,New Lisa,Innovative Headphones,Fashion,1222.29,2,2025-02-07,2025-02-08,Credit Card,Returned,"Anderson, Brown and Morales"
+O00498,Todd Porter,Stevenside,Super Smartphone,Automotive,343.26,3,2024-08-05,2024-08-07,Debit Card,Delivered,Gordon-Campbell
+O00499,Robert Bush,West Latoya,Budget Laptop,Fashion,1735.15,2,2024-11-02,2024-11-10,Debit Card,Cancelled,Massey-Shannon
+O00500,Michael Perez,Lake Alexville,Budget Smartwatch,Beauty,646.84,4,2024-10-09,2024-10-19,Cash On Delivery,Returned,Bishop PLC
+O00501,Antonio Barnett,East Joseph,Innovative Refrigerator,Beauty,925.7,3,2024-11-02,2024-11-07,Online Banking,Cancelled,"Hicks, Williams and Hall"
+O00502,Bryan Bowman,South Bobby,Premium Tablet,Fashion,1117.53,4,2024-11-28,2024-12-01,Cash On Delivery,Delivered,Brown Group
+O00503,Lisa Baker,Adkinsmouth,Smart Sunglasses,Beauty,1054.0,3,2024-08-04,2024-08-10,Cash On Delivery,Returned,"Kelly, Clark and Whitaker"
+O00504,Nicholas Solis,Wrightfurt,Modern Sneakers,Fashion,487.06,5,2024-10-04,2024-10-11,Credit Card,Cancelled,Stout-Walker
+O00505,Austin Boyd,East Christopherfurt,Mega Laptop,Electronics,397.93,5,2024-12-16,2024-12-22,Cash On Delivery,Returned,Hayden-Alvarez
+O00506,Darren Burke,New Crystal,Advanced Sneakers,Sports,1303.13,3,2024-05-23,2024-05-30,Online Banking,Delivered,Cook-West
+O00507,Sara Davis,Port Ryan,Pro Tablet,Books,490.99,2,2025-02-18,2025-02-21,Credit Card,Delivered,Woods and Sons
+O00508,Toni Rodriguez,Rosefurt,Eco Watch,Books,1006.19,3,2024-12-20,2024-12-28,Credit Card,Pending,Ramirez Inc
+O00509,Tamara Brewer,South Shelleyland,Super Smartwatch,Sports,263.16,4,2024-07-25,2024-07-27,Credit Card,Returned,Kane PLC
+O00510,Kimberly Cooper,New Nicoleside,Eco Headphones,Beauty,727.86,4,2024-07-30,2024-08-08,Debit Card,Delivered,Crosby-Hayes
+O00511,Steven Stephens,Aliciabury,Ultra Microwave,Fashion,1473.74,3,2024-12-05,2024-12-12,Online Banking,Cancelled,Edwards Group
+O00512,Lee Wright,Justinville,Super Headphones,Beauty,1315.55,2,2024-12-10,2024-12-14,Cash On Delivery,Cancelled,Williams Group
+O00513,Michael Oliver,Erinfurt,Eco Headphones,Fashion,270.88,2,2024-08-23,2024-08-27,Cash On Delivery,Pending,Watson-Bolton
+O00514,Andrew Murray Jr.,East Thomasmouth,Ultra Smartphone,Electronics,765.02,5,2024-10-05,2024-10-15,Debit Card,Cancelled,Mcdaniel Group
+O00515,Nancy Levy,New Michaelfort,Advanced Microwave,Fashion,769.73,1,2024-06-17,2024-06-27,Cash On Delivery,Cancelled,Freeman and Sons
+O00516,Amber Simmons,Nicolehaven,Budget Backpack,Electronics,119.89,1,2024-12-08,2024-12-14,Cash On Delivery,Returned,Hooper-Smith
+O00517,Lee Flores,North Donna,Premium Headphones,Books,1695.74,4,2024-03-03,2024-03-09,Credit Card,Delivered,Charles LLC
+O00518,Anthony Thompson,Robertbury,Mega Watch,Electronics,61.89,5,2024-12-31,2025-01-03,Cash On Delivery,Pending,Mcmahon LLC
+O00519,William Miller,East Michael,Budget Jeans,Beauty,1486.53,5,2024-04-21,2024-05-01,Cash On Delivery,Pending,Warren-Martin
+O00520,Helen Murray,Travisside,Eco Camera,Home Appliances,196.4,3,2024-03-27,2024-04-03,Cash On Delivery,Delivered,Snow Group
+O00521,Benjamin Owens,Jamesbury,Innovative Smartwatch,Sports,36.08,4,2024-10-28,2024-11-05,Debit Card,Returned,Ortega-Lindsey
+O00522,Javier Frazier,West Shannon,Innovative Smartwatch,Beauty,647.85,4,2024-05-18,2024-05-20,Debit Card,Pending,"Cochran, Wright and Valentine"
+O00523,Juan Harris,East Matthew,Advanced Refrigerator,Home Appliances,113.89,2,2024-08-17,2024-08-24,Credit Card,Pending,"Harrison, Strickland and Gutierrez"
+O00524,Tiffany Anderson,Stephaniefort,Advanced Microwave,Electronics,827.48,2,2024-04-14,2024-04-19,Online Banking,Pending,Wright-Haynes
+O00525,Melissa Strong,Lorettachester,Smart Watch,Automotive,1465.65,3,2024-12-03,2024-12-08,Online Banking,Delivered,"Barnes, Webb and Castro"
+O00526,Pamela Allen,East Vanessaport,Super Sneakers,Fashion,254.57,4,2024-07-17,2024-07-23,Debit Card,Pending,Jones PLC
+O00527,Bianca Whitehead,Port Elizabeth,Budget Jeans,Books,1063.55,4,2025-02-23,2025-02-27,Cash On Delivery,Returned,Hays Group
+O00528,Lindsay Jordan,Suzanneport,Budget Microwave,Electronics,1994.49,5,2024-08-03,2024-08-10,Cash On Delivery,Delivered,Stark-English
+O00529,Emily Howard,Jeffreyfurt,Innovative Watch,Electronics,405.01,2,2025-02-13,2025-02-14,Debit Card,Delivered,"Scott, Hart and Brown"
+O00530,Robert Klein,North Jameshaven,Hyper Backpack,Beauty,885.88,4,2025-01-25,2025-02-02,Online Banking,Returned,"Barker, Brown and Kelly"
+O00531,Andrew Cooper,Raymondshire,Innovative Refrigerator,Beauty,1536.03,2,2024-06-08,2024-06-16,Credit Card,Returned,Morris-Young
+O00532,Kyle Perry,East Gabriel,Innovative Tablet,Fashion,1170.82,3,2024-10-17,2024-10-20,Cash On Delivery,Cancelled,Gutierrez PLC
+O00533,Melissa Jackson,Brittanyport,Pro Smartwatch,Books,486.69,3,2025-01-02,2025-01-09,Credit Card,Returned,Fernandez Ltd
+O00534,Jennifer Mathews,Johnville,Hyper Vacuum Cleaner,Books,118.03,5,2024-10-09,2024-10-10,Online Banking,Delivered,"Delgado, Yang and Jensen"
+O00535,Barbara Smith,East Felicia,Innovative Sneakers,Home Appliances,247.44,4,2024-09-12,2024-09-14,Debit Card,Returned,Olson and Sons
+O00536,Steven Farmer,East Jaymouth,Compact Sneakers,Electronics,1366.27,5,2024-05-08,2024-05-18,Debit Card,Delivered,Franco-Medina
+O00537,Isabella Maldonado,Jimborough,Super Sneakers,Fashion,218.71,3,2024-07-23,2024-07-24,Cash On Delivery,Pending,English-Brown
+O00538,Christina Garrett,North Barbara,Ultra Watch,Automotive,1364.64,1,2024-11-08,2024-11-16,Credit Card,Delivered,Robinson-Casey
+O00539,Michelle Parrish,Port Hannahport,Advanced Refrigerator,Electronics,317.97,1,2025-01-30,2025-02-02,Credit Card,Cancelled,Fields Group
+O00540,April Jones,South Pamela,Hyper Tablet,Home Appliances,187.32,1,2024-10-22,2024-10-24,Online Banking,Pending,Brown-Fernandez
+O00541,Joshua Perez,North Amy,Hyper Tablet,Automotive,741.41,4,2024-11-16,2024-11-25,Credit Card,Delivered,Martin PLC
+O00542,Cindy Edwards,Kathleenbury,Pro Smartphone,Sports,546.11,4,2024-06-24,2024-06-28,Online Banking,Pending,Medina-Martin
+O00543,David Patton,Taylorhaven,Mega Sneakers,Fashion,456.1,3,2024-10-13,2024-10-22,Cash On Delivery,Returned,Johnson Inc
+O00544,Carolyn Navarro,Andrewtown,Pro Smartwatch,Electronics,1514.99,3,2024-09-04,2024-09-07,Debit Card,Returned,Peters LLC
+O00545,Susan Perry,Lake Kenneth,Mega Jeans,Books,6.97,4,2024-10-16,2024-10-26,Debit Card,Delivered,Mills Group
+O00546,Jon Rodriguez,Dawnview,Mega Watch,Electronics,1463.34,5,2025-01-19,2025-01-25,Online Banking,Delivered,"Spencer, Cameron and Gutierrez"
+O00547,Desiree Castro,Josephville,Eco Sneakers,Fashion,303.49,2,2024-04-26,2024-05-01,Online Banking,Returned,"Ferguson, Jones and Barrera"
+O00548,Steven Turner,West James,Pro Headphones,Beauty,352.15,1,2024-12-25,2025-01-03,Online Banking,Returned,Morgan LLC
+O00549,Steven Williams,South Mark,Sleek Laptop,Fashion,551.16,5,2024-05-10,2024-05-19,Credit Card,Cancelled,Brown-Martin
+O00550,Brendan Douglas,New Cassidy,Smart Jeans,Home Appliances,1617.56,1,2024-09-09,2024-09-13,Online Banking,Cancelled,Blair Group
+O00551,Raymond Thompson,Timothyshire,Budget Headphones,Home Appliances,1590.82,4,2024-03-15,2024-03-22,Cash On Delivery,Delivered,"Smith, Fisher and Henderson"
+O00552,Lawrence Payne,New Lesliemouth,Pro Smartphone,Fashion,371.3,1,2024-03-26,2024-03-28,Debit Card,Cancelled,Lopez Group
+O00553,Danny Campbell,South Kathryn,Mega Laptop,Beauty,1978.88,1,2024-11-07,2024-11-11,Online Banking,Pending,"Garrison, Wilcox and Stephens"
+O00554,Michael Davis,South Kimberly,Ultra Sneakers,Electronics,1660.82,4,2024-10-29,2024-10-31,Credit Card,Delivered,"Miranda, Riley and Whitaker"
+O00555,Nicholas Moon,Brownside,Smart Jeans,Electronics,1599.79,1,2024-09-09,2024-09-16,Online Banking,Returned,Gross and Sons
+O00556,James Hamilton,Valeriebury,Ultra Camera,Beauty,152.53,5,2024-05-02,2024-05-08,Debit Card,Cancelled,Sexton-Cook
+O00557,Tina Dixon,Gonzalezburgh,Innovative Backpack,Books,688.94,2,2025-02-03,2025-02-08,Debit Card,Cancelled,Hopkins and Sons
+O00558,Brad Cameron,North Monicabury,Eco Headphones,Electronics,1162.75,3,2024-09-06,2024-09-14,Debit Card,Delivered,Flores-Rush
+O00559,Paul Scott,East Johnbury,Advanced Refrigerator,Fashion,280.7,4,2024-09-20,2024-09-29,Cash On Delivery,Cancelled,"Hayes, Fox and Carter"
+O00560,Jeremy Stewart,North Adamberg,Hyper Tablet,Home Appliances,362.54,1,2024-04-28,2024-04-30,Debit Card,Returned,Stewart-Ramirez
+O00561,Sheila Hughes,Port William,Budget Smartphone,Sports,1902.2,2,2024-06-13,2024-06-17,Debit Card,Cancelled,Hanson LLC
+O00562,Susan Watson,West Meghan,Modern Backpack,Beauty,341.79,4,2024-06-30,2024-07-03,Online Banking,Returned,"Peterson, Savage and Huerta"
+O00563,Jasmine Jackson,South Erica,Mega Vacuum Cleaner,Sports,1408.76,5,2024-10-14,2024-10-23,Cash On Delivery,Pending,Ryan-Miller
+O00564,Anthony Elliott,Robertomouth,Smart Sneakers,Fashion,369.16,5,2024-09-01,2024-09-08,Credit Card,Returned,Herrera Inc
+O00565,Jennifer Walsh,Paceville,Advanced Sunglasses,Beauty,1848.08,5,2024-12-23,2024-12-27,Credit Card,Delivered,Jones Group
+O00566,Leonard Garcia,Port Ginaborough,Innovative Tablet,Home Appliances,1950.79,2,2024-12-18,2024-12-22,Credit Card,Cancelled,Huber-Martin
+O00567,Cathy Moss,Diazton,Advanced Refrigerator,Beauty,987.3,4,2024-09-02,2024-09-03,Debit Card,Cancelled,"Andrews, Shannon and Leblanc"
+O00568,Mr. Gregory Simpson,Lake Allenmouth,Premium Refrigerator,Books,449.93,1,2024-06-06,2024-06-16,Online Banking,Pending,"Collins, Contreras and Smith"
+O00569,Amy Peters,Port Charles,Sleek Sneakers,Sports,148.69,5,2024-05-04,2024-05-11,Cash On Delivery,Delivered,Wilson-Rocha
+O00570,Bethany Johnson,South Courtneyland,Sleek Sneakers,Sports,1316.43,2,2024-04-19,2024-04-27,Cash On Delivery,Delivered,Stevenson and Sons
+O00571,Marissa Johnson,North Katrinaton,Smart Watch,Books,1631.13,2,2024-12-03,2024-12-12,Cash On Delivery,Delivered,Robinson-Lee
+O00572,Cynthia White,Williamschester,Compact Sunglasses,Home Appliances,1438.72,2,2024-11-03,2024-11-09,Debit Card,Pending,Bean Group
+O00573,Sandra Thompson,South Timothychester,Innovative Smartwatch,Electronics,675.83,5,2024-04-18,2024-04-25,Credit Card,Delivered,"Montgomery, Avila and Baker"
+O00574,Valerie Donovan,North Ronald,Super Smartphone,Electronics,864.21,5,2025-01-30,2025-02-04,Debit Card,Delivered,Velazquez-Martin
+O00575,Ryan Ferrell,East Lindaport,Modern Backpack,Fashion,855.65,1,2024-07-29,2024-08-06,Credit Card,Delivered,Parker-Newman
+O00576,Brian Landry,West Kurtshire,Eco Watch,Fashion,490.14,4,2025-01-09,2025-01-14,Credit Card,Cancelled,Henry LLC
+O00577,Tara Henson,West Christy,Ultra Smartphone,Home Appliances,754.07,5,2024-07-06,2024-07-09,Online Banking,Pending,Greer LLC
+O00578,Bonnie King,Carlosville,Ultra Sunglasses,Books,1253.95,5,2025-02-01,2025-02-04,Online Banking,Returned,"Kent, Orr and Jennings"
+O00579,Melissa Glenn,Michaelshire,Sleek Laptop,Electronics,592.18,4,2024-04-09,2024-04-19,Cash On Delivery,Delivered,Lin LLC
+O00580,Anthony Garcia,New Joshuastad,Pro Camera,Fashion,836.84,1,2024-09-14,2024-09-16,Online Banking,Pending,"Bullock, Thomas and Hess"
+O00581,Molly Sampson,New Michelle,Eco Headphones,Electronics,1559.41,3,2025-01-09,2025-01-18,Online Banking,Cancelled,Robbins-Baker
+O00582,James Mcintosh,Diamondstad,Modern Sunglasses,Electronics,1862.73,5,2024-12-22,2024-12-30,Online Banking,Pending,Ortiz-Braun
+O00583,Douglas Guzman Jr.,Wagnerborough,Hyper Sneakers,Home Appliances,1098.72,5,2024-09-02,2024-09-10,Online Banking,Pending,Becker Inc
+O00584,Sharon Price,Williamfurt,Pro Smartwatch,Electronics,1438.05,1,2024-10-01,2024-10-08,Debit Card,Returned,Lewis-Franklin
+O00585,Jacob Bridges,Jacobstad,Innovative Microwave,Sports,1553.41,5,2024-12-02,2024-12-05,Online Banking,Pending,Cole Ltd
+O00586,Robert Thomas,New Kendrabury,Modern Backpack,Books,655.88,3,2024-06-29,2024-07-09,Debit Card,Cancelled,Ramos Ltd
+O00587,Haley Thornton,Lake Heather,Super Smartwatch,Electronics,1551.2,4,2024-07-15,2024-07-24,Online Banking,Cancelled,"Hill, Fernandez and Hartman"
+O00588,Steven Pearson,Port Nancy,Smart Tablet,Home Appliances,1379.8,1,2025-02-08,2025-02-14,Online Banking,Returned,Kramer-Baxter
+O00589,Jason Wong,Burkeshire,Advanced Sunglasses,Home Appliances,1671.4,1,2025-02-02,2025-02-08,Online Banking,Delivered,"Noble, Sims and Bates"
+O00590,Jesse White,New Andrea,Elite Jeans,Automotive,1188.83,3,2024-12-17,2024-12-23,Cash On Delivery,Cancelled,Davis and Sons
+O00591,Phillip Robinson DDS,West Brendabury,Budget Headphones,Sports,917.96,1,2024-08-12,2024-08-19,Cash On Delivery,Delivered,"Franklin, Soto and Bush"
+O00592,Andrew Figueroa,Lake Victor,Sleek Sneakers,Fashion,173.83,2,2024-08-12,2024-08-19,Credit Card,Returned,Adams-Mathews
+O00593,Rachel Hines,Lake Valerieview,Compact Microwave,Fashion,1762.9,2,2024-09-29,2024-10-09,Online Banking,Pending,Smith Group
+O00594,Amy Larson,East Linda,Elite Sneakers,Sports,744.7,5,2024-05-24,2024-05-28,Credit Card,Returned,Walker Ltd
+O00595,Carmen Stevenson,Sherylmouth,Mega Laptop,Books,1339.61,3,2024-05-18,2024-05-28,Credit Card,Pending,"Small, Harvey and Bryan"
+O00596,Wayne Bowen,Jacksonfurt,Budget Microwave,Automotive,1743.77,2,2024-12-15,2024-12-23,Cash On Delivery,Delivered,Nolan-Bean
+O00597,William Fernandez,Burnettton,Innovative Sneakers,Home Appliances,273.89,2,2024-11-07,2024-11-11,Debit Card,Delivered,"Conrad, Gallegos and Perry"
+O00598,Gary Hayden,Anthonyville,Modern Refrigerator,Home Appliances,95.89,2,2025-01-19,2025-01-28,Credit Card,Returned,Garcia-Price
+O00599,Joshua Wilson,Port Randy,Hyper Sneakers,Automotive,1776.24,4,2024-06-01,2024-06-07,Cash On Delivery,Cancelled,"Chapman, Osborn and Peters"
+O00600,Jorge Patrick,Brendaville,Hyper Microwave,Fashion,1397.43,5,2024-07-31,2024-08-03,Cash On Delivery,Cancelled,Gilbert-Contreras
+O00601,Tina Blair,Hallport,Hyper Backpack,Home Appliances,1978.37,2,2024-03-05,2024-03-08,Credit Card,Returned,Bailey and Sons
+O00602,Kristen Roy,Lake Theresafort,Smart Refrigerator,Home Appliances,702.84,4,2024-05-27,2024-06-06,Online Banking,Pending,Valencia-Spears
+O00603,Destiny Rodriguez,Rubenstad,Budget Backpack,Home Appliances,999.44,3,2024-11-22,2024-12-02,Debit Card,Returned,"Bailey, Miller and Taylor"
+O00604,James Yang,East Kurtmouth,Budget Microwave,Fashion,527.27,3,2025-02-22,2025-02-26,Debit Card,Cancelled,Henry-Porter
+O00605,Angela Price,New Ryanstad,Innovative Refrigerator,Books,141.45,1,2024-09-26,2024-10-05,Online Banking,Pending,Jackson-Sanchez
+O00606,Sarah Lindsey,New Nicole,Budget Microwave,Automotive,1595.59,2,2024-11-16,2024-11-23,Debit Card,Cancelled,"Clark, Collins and Monroe"
+O00607,Stacy Stewart,Lake Michaelhaven,Advanced Backpack,Electronics,1935.71,1,2024-05-18,2024-05-21,Online Banking,Cancelled,"Moore, Branch and Guzman"
+O00608,Warren Moore,Port Vincent,Smart Vacuum Cleaner,Sports,1065.76,4,2024-06-21,2024-06-28,Debit Card,Pending,"Sawyer, Cohen and Morgan"
+O00609,Jennifer Scott,Flowerston,Innovative Smartwatch,Beauty,988.84,1,2024-04-28,2024-05-03,Cash On Delivery,Delivered,Ross-Williams
+O00610,Mr. Jeff Williams,South Jillside,Premium Backpack,Automotive,152.85,1,2024-10-17,2024-10-18,Debit Card,Delivered,Sanford Ltd
+O00611,Jay Medina,Stacyshire,Hyper Backpack,Books,1556.47,4,2024-04-06,2024-04-11,Cash On Delivery,Returned,Huff-Savage
+O00612,Joshua Robinson,West Leslie,Compact Sneakers,Sports,1644.15,2,2024-09-19,2024-09-28,Credit Card,Returned,Rhodes LLC
+O00613,Yvette Joseph,Port Regina,Innovative Headphones,Automotive,1012.93,5,2024-04-24,2024-04-29,Cash On Delivery,Pending,"Hall, Arroyo and Freeman"
+O00614,Lawrence Morrison MD,Benjaminbury,Eco Camera,Home Appliances,1526.28,2,2024-06-10,2024-06-12,Credit Card,Returned,"Chavez, Jenkins and Hicks"
+O00615,Kerry Jackson,North Brendan,Innovative Camera,Fashion,1679.16,4,2025-02-11,2025-02-12,Credit Card,Cancelled,"Arnold, Martin and Oconnor"
+O00616,Rita Nichols,North Brandontown,Premium Watch,Fashion,720.97,5,2024-12-11,2024-12-21,Cash On Delivery,Returned,Grant Ltd
+O00617,Maria Guzman MD,New Patrickmouth,Sleek Laptop,Home Appliances,1016.83,4,2024-07-02,2024-07-06,Credit Card,Returned,"Fuller, Gordon and Anderson"
+O00618,Blake Allen,Wagnerside,Compact Camera,Fashion,1112.91,2,2025-01-31,2025-02-06,Debit Card,Cancelled,Clark Inc
+O00619,Larry Bautista,Carlosbury,Sleek Smartwatch,Sports,1415.98,3,2024-11-01,2024-11-06,Online Banking,Delivered,"Miller, Garcia and Roberts"
+O00620,Patricia Fowler,South Dawn,Sleek Camera,Books,1759.03,3,2024-11-12,2024-11-20,Debit Card,Cancelled,Allen LLC
+O00621,Michael Zuniga,Edwardtown,Hyper Jeans,Books,1437.73,1,2024-04-21,2024-04-26,Cash On Delivery,Returned,"Jenkins, Foster and Mccarthy"
+O00622,Pamela Lewis,Brownhaven,Compact Sneakers,Fashion,657.91,4,2024-03-31,2024-04-07,Credit Card,Delivered,Smith-Harper
+O00623,Carolyn Robbins,New Glorialand,Modern Smartwatch,Home Appliances,1096.81,4,2024-12-02,2024-12-05,Cash On Delivery,Cancelled,Aguilar Inc
+O00624,Jennifer Perez,Santiagoville,Smart Microwave,Electronics,14.25,4,2024-11-27,2024-12-07,Credit Card,Delivered,Swanson-Chavez
+O00625,Alexis Bell,Kennedytown,Eco Camera,Sports,1625.06,2,2024-06-05,2024-06-15,Online Banking,Cancelled,Reynolds and Sons
+O00626,Lindsay Owens,Donaldchester,Innovative Backpack,Automotive,1125.27,1,2024-07-03,2024-07-05,Debit Card,Returned,Green-Washington
+O00627,Kristen West,Ronaldton,Modern T-shirt,Sports,1434.31,3,2024-08-29,2024-09-06,Credit Card,Cancelled,"Vance, Velez and Ruiz"
+O00628,Karen Harmon,Stephenbury,Premium Headphones,Beauty,211.76,2,2024-08-07,2024-08-12,Credit Card,Returned,Lewis-Villegas
+O00629,Larry Perez,Stephensmouth,Mega Jeans,Electronics,1973.82,1,2024-10-19,2024-10-22,Online Banking,Pending,"Washington, Hill and Stewart"
+O00630,Robert West,Samanthafurt,Budget Jeans,Fashion,877.27,4,2024-09-12,2024-09-19,Debit Card,Cancelled,Taylor-Smith
+O00631,Charles Baker,East Frank,Super Sneakers,Beauty,124.8,2,2024-03-17,2024-03-19,Debit Card,Delivered,Barajas LLC
+O00632,Stephanie Frey,Christopherfurt,Innovative Refrigerator,Automotive,820.55,4,2024-04-24,2024-04-27,Credit Card,Delivered,Smith-Williams
+O00633,Thomas Mercer,Turnermouth,Pro Camera,Automotive,1461.05,3,2024-11-01,2024-11-10,Credit Card,Pending,Wilson LLC
+O00634,Deborah Garcia,West Peterburgh,Sleek Smartwatch,Automotive,1994.39,3,2024-05-02,2024-05-04,Debit Card,Pending,"Taylor, Davila and Davis"
+O00635,Nicholas Roberts,Howardberg,Advanced Refrigerator,Automotive,1286.23,1,2024-08-02,2024-08-09,Online Banking,Pending,"Knight, Vasquez and Martinez"
+O00636,Timothy Walters,Richardberg,Mega Tablet,Automotive,1227.61,3,2024-03-15,2024-03-19,Credit Card,Cancelled,Phillips-Davis
+O00637,James Smith,Deanfort,Ultra Smartphone,Beauty,468.28,4,2024-12-01,2024-12-10,Debit Card,Delivered,"Brown, Moreno and Wells"
+O00638,Dawn Campbell,Mcfarlandhaven,Advanced Jeans,Home Appliances,354.85,1,2024-04-06,2024-04-14,Debit Card,Pending,Moreno Group
+O00639,Austin Martinez,Martintown,Elite Jeans,Automotive,1404.79,4,2024-07-03,2024-07-04,Online Banking,Pending,Bridges-Flores
+O00640,Samantha Blevins,Ginatown,Modern Jeans,Books,354.76,5,2025-01-28,2025-02-02,Debit Card,Cancelled,Browning-Mooney
+O00641,Mary Bruce,North Jeremyview,Elite Laptop,Home Appliances,250.39,2,2024-07-01,2024-07-11,Online Banking,Pending,"Paul, Potts and Villanueva"
+O00642,Kelly Mendoza,Lake Kimberlyshire,Premium Tablet,Sports,877.38,2,2024-10-28,2024-11-03,Credit Card,Cancelled,Graham Ltd
+O00643,Christine Green,Elizabethstad,Eco Sunglasses,Home Appliances,155.08,2,2024-07-16,2024-07-25,Online Banking,Delivered,Burgess-Lopez
+O00644,Amanda Thomas,West Brendanville,Sleek Laptop,Books,1623.17,1,2024-03-16,2024-03-24,Credit Card,Cancelled,Martinez Group
+O00645,Patricia Wise,Lake Michael,Ultra Camera,Home Appliances,365.32,4,2024-06-14,2024-06-21,Debit Card,Delivered,Choi and Sons
+O00646,Joshua Eaton,South William,Pro Headphones,Books,1063.62,5,2024-05-26,2024-06-05,Debit Card,Returned,Brooks LLC
+O00647,Travis Lyons,Port Christopher,Innovative Smartwatch,Home Appliances,839.14,3,2024-10-24,2024-11-02,Debit Card,Returned,"Johnson, Barajas and Baxter"
+O00648,Renee Martinez,Gonzalezchester,Innovative Camera,Books,860.7,1,2025-02-15,2025-02-17,Credit Card,Cancelled,Chambers-Thomas
+O00649,Rebecca Burton,Timothyfort,Elite Jeans,Beauty,759.43,4,2024-04-01,2024-04-04,Cash On Delivery,Pending,"Kim, Jackson and Brown"
+O00650,Terry Clarke,West Sabrina,Innovative Tablet,Sports,889.61,5,2024-08-31,2024-09-01,Credit Card,Pending,Gill-Taylor
+O00651,Alexis Shaw,North Catherine,Compact Sneakers,Home Appliances,862.44,5,2024-06-08,2024-06-13,Online Banking,Delivered,Gallagher-Skinner
+O00652,Shannon Buchanan,Lake Jennifershire,Innovative Smartwatch,Beauty,629.47,1,2024-10-23,2024-10-26,Online Banking,Cancelled,"Olsen, Medina and Webb"
+O00653,Evelyn Lucero,Cunninghamton,Pro Tablet,Automotive,164.45,5,2024-06-01,2024-06-08,Online Banking,Pending,Foster Group
+O00654,David Kennedy,Schultzstad,Pro Microwave,Fashion,1870.74,5,2025-01-29,2025-02-02,Cash On Delivery,Pending,Cook Ltd
+O00655,Sandra Cohen PhD,Howardmouth,Budget Sneakers,Beauty,102.63,5,2024-09-26,2024-09-28,Credit Card,Cancelled,"Berger, Morris and Dunlap"
+O00656,Kathryn Wolf,North Geraldbury,Innovative Smartwatch,Automotive,1321.6,1,2024-07-17,2024-07-25,Online Banking,Pending,Rodriguez LLC
+O00657,Janet Yang,New Denise,Budget Sneakers,Fashion,1219.81,2,2025-02-07,2025-02-11,Cash On Delivery,Pending,Holder-Henry
+O00658,Christopher Johnson,Johnsonville,Modern Smartwatch,Home Appliances,258.42,3,2024-09-30,2024-10-10,Cash On Delivery,Returned,"Conner, Wilson and Pineda"
+O00659,Emily Lopez,Lake Thomas,Mega Vacuum Cleaner,Beauty,1195.46,1,2024-08-20,2024-08-26,Online Banking,Returned,Boyd and Sons
+O00660,Rhonda Richard,Lake Kellymouth,Innovative Backpack,Books,325.18,2,2024-06-11,2024-06-13,Online Banking,Returned,Murray Ltd
+O00661,Kyle Cooley,Martinberg,Advanced Refrigerator,Sports,1753.28,5,2024-10-16,2024-10-26,Online Banking,Returned,"Sims, Bradley and Ellis"
+O00662,Kaitlin Pratt,Thompsontown,Premium Backpack,Beauty,589.98,1,2024-12-09,2024-12-11,Online Banking,Delivered,"Taylor, Meyers and Wilkinson"
+O00663,Angela Hoover,North Cameronview,Advanced Sneakers,Automotive,537.31,1,2024-08-20,2024-08-22,Cash On Delivery,Delivered,Lopez-Neal
+O00664,Sarah Anthony,Jenniferton,Modern Smartwatch,Sports,713.85,5,2024-04-13,2024-04-16,Cash On Delivery,Cancelled,"Fisher, Hamilton and Hicks"
+O00665,Rebecca Klein,Sarahfort,Compact Camera,Beauty,673.52,3,2025-01-12,2025-01-21,Credit Card,Returned,Brown LLC
+O00666,Christian Bailey,Kennedyborough,Pro Camera,Automotive,837.05,3,2024-11-22,2024-11-29,Debit Card,Returned,Reeves Group
+O00667,Kelly Bell,Brittanyland,Super Sneakers,Sports,1892.62,4,2024-07-11,2024-07-20,Credit Card,Delivered,"Morris, Thompson and Brooks"
+O00668,Carolyn Gregory,Johnsonside,Hyper Jeans,Beauty,1064.2,4,2024-12-03,2024-12-11,Credit Card,Pending,Pope Ltd
+O00669,Bradley Dawson,Alishaview,Smart Refrigerator,Books,1785.03,2,2024-12-16,2024-12-24,Cash On Delivery,Pending,Miller PLC
+O00670,Christina Day,South Robert,Innovative Watch,Home Appliances,979.34,5,2024-11-30,2024-12-08,Credit Card,Returned,"Wallace, Simmons and Bryant"
+O00671,April Santiago,West Karenshire,Advanced Jeans,Electronics,1264.57,1,2024-08-14,2024-08-15,Cash On Delivery,Delivered,Harrison and Sons
+O00672,Jessica Johns,South Paul,Advanced Backpack,Books,145.19,1,2024-05-23,2024-05-31,Online Banking,Cancelled,Jones PLC
+O00673,Melissa Russell MD,West Taylor,Compact Watch,Home Appliances,1710.61,2,2024-09-08,2024-09-13,Cash On Delivery,Cancelled,Horton Inc
+O00674,Mindy Riddle,Pattonchester,Hyper Microwave,Automotive,1545.03,2,2024-06-06,2024-06-15,Debit Card,Returned,Tucker-Smith
+O00675,Fred Bryant,Lake Stephen,Elite Sneakers,Books,786.1,3,2024-12-31,2025-01-06,Credit Card,Delivered,Weaver-Hernandez
+O00676,Ronald Cabrera,Port Jeanne,Eco Sunglasses,Fashion,1797.29,2,2024-06-13,2024-06-19,Cash On Delivery,Cancelled,Murphy-Chen
+O00677,Jessica Walsh,West Connorborough,Advanced Backpack,Electronics,883.79,3,2024-05-26,2024-06-03,Debit Card,Pending,"Harris, House and Mcclure"
+O00678,John Finley,Port Susanchester,Compact Sunglasses,Electronics,228.62,1,2024-08-24,2024-09-01,Credit Card,Pending,"Murphy, Saunders and Ramos"
+O00679,Jack Johnston,North Johnfurt,Budget Jeans,Home Appliances,254.83,2,2025-02-06,2025-02-14,Debit Card,Delivered,Kramer-Wilson
+O00680,Nathan Allen,Lindsayport,Sleek Laptop,Sports,1322.58,5,2024-03-01,2024-03-09,Credit Card,Delivered,Chen-Willis
+O00681,Michael Benjamin,Robertsberg,Eco Headphones,Sports,1439.14,5,2025-01-20,2025-01-21,Cash On Delivery,Returned,"Galloway, Lee and Rodriguez"
+O00682,Megan Conley,Howardport,Hyper Backpack,Automotive,1588.79,5,2024-09-13,2024-09-14,Credit Card,Cancelled,Garrett-Whitehead
+O00683,Richard Hughes,Jonathanberg,Hyper Microwave,Sports,1620.15,3,2024-06-17,2024-06-27,Credit Card,Delivered,Cook-Brown
+O00684,Tricia Mendez,Jacobsfort,Ultra Microwave,Electronics,1748.79,4,2024-04-23,2024-05-03,Cash On Delivery,Delivered,"Vazquez, Brown and Freeman"
+O00685,Roger Washington,Dayshire,Advanced Refrigerator,Books,593.97,4,2024-04-07,2024-04-08,Credit Card,Delivered,Griffith-Holland
+O00686,Natasha Johnson DDS,North Monica,Advanced Smartwatch,Fashion,659.51,1,2025-02-06,2025-02-14,Online Banking,Delivered,"Nguyen, Davis and Miller"
+O00687,Megan Christian,Cruzville,Compact Watch,Fashion,621.75,1,2024-06-02,2024-06-03,Credit Card,Cancelled,Morrison-Stout
+O00688,Steven Patterson,Port Patrick,Compact Watch,Automotive,218.13,1,2024-05-25,2024-05-27,Credit Card,Pending,Peterson and Sons
+O00689,Jill Long,Debbieborough,Mega Laptop,Automotive,1513.84,1,2025-01-21,2025-01-24,Cash On Delivery,Returned,Allen Group
+O00690,Emma Thompson,Osborneton,Elite Laptop,Automotive,1641.73,4,2025-02-04,2025-02-06,Debit Card,Returned,"Hernandez, Munoz and Jones"
+O00691,Laurie Lozano,Alvarezland,Mega Sneakers,Books,1054.71,5,2024-09-07,2024-09-17,Cash On Delivery,Cancelled,Ramirez-Jones
+O00692,Anthony Zamora,West Joy,Advanced Sneakers,Sports,479.7,2,2024-11-01,2024-11-11,Online Banking,Returned,Martinez-Cannon
+O00693,Tracy Short,Duranview,Compact Microwave,Books,1960.07,3,2024-06-17,2024-06-24,Credit Card,Cancelled,Wilson-Pierce
+O00694,Dr. Patricia Klein,New Kelly,Pro Smartwatch,Automotive,1892.94,1,2025-02-11,2025-02-16,Debit Card,Pending,"Rodriguez, Morris and Lewis"
+O00695,Hannah Larson,Port Sarahshire,Mega Sneakers,Beauty,821.1,5,2024-09-10,2024-09-18,Online Banking,Returned,Harris-Russell
+O00696,Sarah Heath,New Johnathan,Advanced Sneakers,Home Appliances,408.87,2,2024-10-06,2024-10-11,Credit Card,Delivered,Anderson Inc
+O00697,Wendy Warren,North Jessicaland,Advanced Backpack,Electronics,268.21,5,2024-06-01,2024-06-03,Credit Card,Cancelled,Davis-Thompson
+O00698,Danielle Hart,New Kimberly,Modern T-shirt,Automotive,716.26,4,2025-01-11,2025-01-13,Credit Card,Pending,"Miller, Phillips and Hayes"
+O00699,Eric Pacheco DDS,Shawnville,Budget Laptop,Books,1178.81,1,2024-08-12,2024-08-21,Debit Card,Returned,Harvey-Mullen
+O00700,Lori Dickson,South Sarah,Eco Watch,Books,85.06,2,2024-06-09,2024-06-17,Online Banking,Delivered,Davis-Nelson
+O00701,Courtney Smith,Robertsview,Pro Camera,Automotive,918.14,2,2024-10-21,2024-10-27,Cash On Delivery,Delivered,"West, Yates and Rodriguez"
+O00702,Heather Norris,Lake Natalieland,Innovative Smartwatch,Home Appliances,1404.14,4,2024-04-03,2024-04-07,Online Banking,Returned,Howard and Sons
+O00703,Kaitlin Greene,North Melissa,Compact Jeans,Books,132.88,3,2025-02-07,2025-02-12,Cash On Delivery,Delivered,Quinn-Watkins
+O00704,Michael Owens,Wellstown,Mega Jeans,Beauty,1766.26,5,2024-07-06,2024-07-13,Debit Card,Pending,Elliott Ltd
+O00705,Latasha Smith,South James,Hyper Tablet,Electronics,263.53,2,2024-04-05,2024-04-10,Credit Card,Pending,Mccarty and Sons
+O00706,Stephen Holland,East Joe,Modern Sneakers,Sports,1591.14,1,2025-01-01,2025-01-10,Cash On Delivery,Delivered,Wright-Gardner
+O00707,Mr. Sean Scott,Johnport,Pro Tablet,Fashion,933.65,3,2024-04-16,2024-04-26,Online Banking,Cancelled,"Bird, Ballard and Knapp"
+O00708,Jerry Torres,North Virginiaberg,Mega Sneakers,Beauty,1677.91,5,2025-01-10,2025-01-11,Debit Card,Delivered,Harris-Ward
+O00709,Mr. Christopher Cole,Port David,Innovative Smartwatch,Sports,1625.26,1,2025-01-30,2025-02-02,Cash On Delivery,Cancelled,"Ortiz, Clarke and Bruce"
+O00710,Amanda Brown,Lorettabury,Innovative Refrigerator,Automotive,559.67,3,2024-05-21,2024-05-26,Credit Card,Pending,White PLC
+O00711,Jason Ross,South Brittanyberg,Sleek Laptop,Home Appliances,682.05,5,2025-01-26,2025-01-30,Cash On Delivery,Returned,"Schneider, Lopez and Collins"
+O00712,Peter Ferguson,East Kristenfort,Pro Headphones,Automotive,1177.17,5,2024-09-26,2024-09-30,Credit Card,Delivered,"Frederick, Perkins and Bush"
+O00713,Carrie Harrell,Chelseastad,Hyper Sneakers,Books,1627.47,4,2024-08-08,2024-08-10,Cash On Delivery,Delivered,Carpenter Inc
+O00714,Matthew Brown,Lindsayview,Compact Watch,Beauty,1967.93,5,2024-05-11,2024-05-19,Credit Card,Cancelled,"Blackwell, Williams and Rivera"
+O00715,Justin Fernandez,North Sergiofort,Premium Refrigerator,Electronics,1671.83,4,2024-04-03,2024-04-05,Online Banking,Cancelled,"Brown, Smith and Mcbride"
+O00716,Laura Chapman,New Francisco,Compact Refrigerator,Sports,875.51,1,2025-02-15,2025-02-23,Debit Card,Returned,"Gomez, Bradford and Willis"
+O00717,Gregory Wallace,Garciahaven,Budget Microwave,Fashion,1589.63,5,2024-12-09,2024-12-10,Online Banking,Cancelled,Jones Ltd
+O00718,Joshua Hernandez,Millerville,Pro Tablet,Beauty,91.57,3,2024-05-28,2024-06-02,Credit Card,Returned,Mccall LLC
+O00719,Mr. Joshua Steele,Moyerland,Ultra Smartwatch,Automotive,1812.95,1,2025-02-17,2025-02-23,Credit Card,Pending,Dorsey Inc
+O00720,Jeremy Hayes,New Laura,Elite Jeans,Fashion,1331.62,2,2024-03-09,2024-03-11,Credit Card,Returned,Myers-Diaz
+O00721,Ryan Chan,Nelsontown,Modern Jeans,Sports,1281.6,1,2024-06-29,2024-07-06,Debit Card,Delivered,Henderson Group
+O00722,Dr. Alejandro Wilkinson,Bullockland,Pro Tablet,Fashion,644.11,3,2024-12-07,2024-12-12,Cash On Delivery,Cancelled,Grant Inc
+O00723,Lindsay Pineda,Youngfurt,Pro Smartphone,Electronics,771.01,1,2024-07-22,2024-07-25,Credit Card,Returned,Wall and Sons
+O00724,Patricia Thornton,Rogerston,Modern Smartwatch,Automotive,921.08,5,2024-09-12,2024-09-20,Debit Card,Pending,Ayala-Crawford
+O00725,Deanna Castro,South Derekfort,Hyper Vacuum Cleaner,Automotive,360.37,4,2024-05-14,2024-05-24,Cash On Delivery,Returned,"Gallegos, Evans and Moore"
+O00726,Ashley Sanchez,South Karen,Elite Laptop,Sports,316.34,2,2024-04-08,2024-04-12,Online Banking,Delivered,Cox Inc
+O00727,Emily Baldwin,New Shannon,Elite Smartphone,Automotive,1411.69,3,2024-06-19,2024-06-29,Online Banking,Cancelled,Wright-Fletcher
+O00728,Brittany Davis,Lake Carolyn,Advanced Sneakers,Automotive,876.78,5,2024-07-07,2024-07-14,Debit Card,Delivered,Kelley-Morris
+O00729,Jeffrey Lindsey,Juliefort,Innovative Watch,Sports,1408.07,3,2024-03-06,2024-03-14,Cash On Delivery,Pending,"Wilson, Henderson and Smith"
+O00730,Bethany Shea,South Thomas,Budget Watch,Beauty,907.11,5,2025-01-30,2025-02-05,Credit Card,Returned,"Oliver, Marshall and Long"
+O00731,Paul Villanueva,Atkinsmouth,Eco Watch,Electronics,1031.26,1,2024-08-24,2024-08-28,Cash On Delivery,Cancelled,"Moore, Brown and Powell"
+O00732,Jeffrey Avila,New Timothyfurt,Smart Refrigerator,Home Appliances,1513.26,3,2024-05-25,2024-06-03,Cash On Delivery,Pending,Oliver-Chen
+O00733,Robert White,New Laurafurt,Innovative Tablet,Electronics,252.16,3,2024-05-06,2024-05-11,Credit Card,Pending,Salinas LLC
+O00734,Meagan Willis,West Josephside,Mega Smartphone,Books,513.25,1,2024-06-25,2024-06-30,Debit Card,Returned,"Johnson, Waters and Grant"
+O00735,Breanna Lloyd,Lake Paul,Budget Watch,Home Appliances,1568.74,2,2024-07-27,2024-07-31,Credit Card,Pending,Jones LLC
+O00736,Amy Brown,Jasonborough,Mega Sneakers,Home Appliances,1029.14,2,2024-11-17,2024-11-25,Debit Card,Cancelled,Gomez-Bradley
+O00737,Ellen Moore,Moyerfort,Sleek Smartwatch,Fashion,1715.25,3,2025-02-09,2025-02-15,Debit Card,Delivered,Moore Ltd
+O00738,Jorge Williams,Port Steven,Premium Refrigerator,Beauty,498.8,3,2024-07-07,2024-07-09,Credit Card,Returned,Hernandez-Gray
+O00739,Caroline Leonard,Snowfurt,Hyper Jeans,Automotive,777.05,2,2025-02-06,2025-02-14,Online Banking,Pending,"Reynolds, Mcknight and Robertson"
+O00740,John Bryant,East Seth,Pro Microwave,Automotive,1388.06,2,2024-05-20,2024-05-24,Debit Card,Delivered,Robertson-Cooper
+O00741,Mr. Michael Greer,Joelmouth,Compact Microwave,Home Appliances,73.96,2,2024-09-14,2024-09-17,Debit Card,Returned,Vance-Jones
+O00742,Amanda Schneider,Brettmouth,Innovative Smartwatch,Fashion,1568.61,3,2024-05-05,2024-05-06,Debit Card,Pending,Miller-Villanueva
+O00743,Andrew Edwards,Port Lisa,Compact Sneakers,Sports,1223.23,1,2024-06-20,2024-06-28,Online Banking,Cancelled,"Garrett, Russell and Clark"
+O00744,Eduardo Snyder,Dominguezmouth,Innovative Backpack,Fashion,594.41,5,2024-03-16,2024-03-21,Debit Card,Cancelled,"Meadows, Madden and Robinson"
+O00745,Jeffrey Stone,West Ebony,Advanced Sunglasses,Sports,1053.88,3,2024-03-24,2024-03-26,Online Banking,Delivered,Liu and Sons
+O00746,Brian Taylor,Port Jonathanfurt,Elite Jeans,Books,462.86,5,2024-07-07,2024-07-10,Cash On Delivery,Returned,Harris-Hernandez
+O00747,Whitney Young,East Scott,Pro Camera,Beauty,1207.42,5,2024-10-13,2024-10-22,Online Banking,Delivered,"Newman, Murphy and Kaufman"
+O00748,Dana Mckinney MD,Woodfurt,Budget Smartphone,Books,1745.22,5,2024-11-23,2024-11-25,Debit Card,Pending,Bowers Group
+O00749,Samuel Harper,Emilyburgh,Advanced Smartwatch,Books,1599.48,3,2024-11-07,2024-11-08,Cash On Delivery,Cancelled,Michael-Smith
+O00750,Michael Winters,South Troymouth,Mega Smartphone,Sports,792.64,4,2024-04-20,2024-04-21,Online Banking,Pending,Montgomery-Robinson
+O00751,Paul Scott,Markfurt,Smart Tablet,Fashion,746.98,1,2024-03-31,2024-04-09,Online Banking,Delivered,"Stanton, Gutierrez and Johnson"
+O00752,Tina Jackson,New Jennifer,Budget Backpack,Sports,201.12,5,2024-03-05,2024-03-14,Credit Card,Cancelled,"Stephens, Davis and Wyatt"
+O00753,Steven Rivera,New Danielmouth,Budget Laptop,Electronics,1854.94,1,2024-12-08,2024-12-11,Cash On Delivery,Returned,Benjamin-King
+O00754,Howard Porter,West Samuel,Hyper Microwave,Automotive,1533.97,1,2024-12-23,2024-12-29,Online Banking,Cancelled,Moore Inc
+O00755,Peter Anderson,South Janicebury,Compact Watch,Books,1758.44,5,2024-04-19,2024-04-26,Credit Card,Pending,Kennedy Group
+O00756,Dr. Elizabeth Lee PhD,New Michael,Advanced Refrigerator,Beauty,576.42,5,2024-08-04,2024-08-05,Cash On Delivery,Returned,Nichols and Sons
+O00757,Andrew Garcia,Robertsshire,Smart Jeans,Beauty,1728.73,2,2024-07-26,2024-07-28,Cash On Delivery,Cancelled,"Kelly, Smith and Burns"
+O00758,Cassandra Rush,South Jodimouth,Budget Headphones,Automotive,1564.84,5,2024-04-17,2024-04-25,Cash On Delivery,Delivered,Burns PLC
+O00759,John Logan,Rachelhaven,Smart Vacuum Cleaner,Automotive,1362.63,3,2025-02-15,2025-02-16,Cash On Delivery,Cancelled,"Rodriguez, Cline and Woods"
+O00760,Darlene Howell,New Carlhaven,Ultra Smartphone,Books,1912.4,1,2024-03-12,2024-03-15,Credit Card,Pending,"Wilson, Lawson and Simpson"
+O00761,Anthony Reynolds,Justinport,Premium Watch,Automotive,1165.23,5,2024-09-18,2024-09-24,Debit Card,Pending,"Avila, Rogers and Barnett"
+O00762,Eric Nolan,Cooperland,Compact Watch,Electronics,1322.22,4,2024-11-11,2024-11-17,Online Banking,Pending,Simon-Gomez
+O00763,Randy Poole,Butlertown,Innovative Tablet,Fashion,109.8,5,2024-07-18,2024-07-22,Online Banking,Cancelled,Phelps-Campbell
+O00764,Claire Davis,Nicolestad,Budget Microwave,Automotive,1491.56,5,2024-09-11,2024-09-13,Online Banking,Cancelled,Gaines-Ritter
+O00765,Dawn Cordova,Duncanshire,Smart Tablet,Sports,1345.07,1,2024-07-26,2024-07-28,Credit Card,Cancelled,Harvey-Henderson
+O00766,Jonathan Hardy,East Samantha,Compact Refrigerator,Home Appliances,964.0,5,2024-04-23,2024-05-03,Cash On Delivery,Pending,Matthews PLC
+O00767,Heather Carpenter,New Shannon,Hyper Tablet,Fashion,1498.89,2,2025-01-03,2025-01-08,Credit Card,Returned,"Wood, Jackson and Bridges"
+O00768,Richard Simmons,Maryhaven,Eco Sneakers,Automotive,201.31,4,2025-01-15,2025-01-16,Cash On Delivery,Pending,Wade-Lucas
+O00769,Mr. Jacob Glenn,Cindyport,Compact Watch,Beauty,585.85,4,2024-05-23,2024-05-25,Credit Card,Delivered,Phillips and Sons
+O00770,Wendy Holder,Port William,Mega Vacuum Cleaner,Automotive,1733.47,3,2024-10-26,2024-10-31,Credit Card,Cancelled,Wilson-Haas
+O00771,Carol Hensley,North Curtis,Pro Headphones,Automotive,967.53,2,2024-06-21,2024-06-25,Credit Card,Cancelled,Daniels-Perez
+O00772,Maxwell Payne DVM,Catherinetown,Pro Tablet,Electronics,1884.45,2,2024-11-13,2024-11-17,Cash On Delivery,Returned,Landry-Mcdonald
+O00773,Charles Carr,Joyceshire,Ultra Sneakers,Electronics,1849.27,4,2024-06-28,2024-07-07,Debit Card,Delivered,"Shaw, Williams and Johnson"
+O00774,Dawn Rios,Port Mary,Advanced Refrigerator,Automotive,1353.04,3,2025-01-01,2025-01-02,Cash On Delivery,Pending,Fernandez and Sons
+O00775,Justin Reynolds,Vanessachester,Elite Backpack,Electronics,1806.97,1,2025-01-26,2025-01-31,Online Banking,Delivered,"Moore, Mata and Atkinson"
+O00776,Bryan Walton Jr.,Smithchester,Smart Smartphone,Automotive,1339.32,4,2024-07-08,2024-07-12,Credit Card,Cancelled,"English, Gilbert and Stewart"
+O00777,Dr. James Murray,Port Shirley,Super Sneakers,Automotive,1758.95,1,2024-08-29,2024-09-06,Debit Card,Pending,Blackwell-Sosa
+O00778,Vincent Jackson,North Jacqueline,Mega Sneakers,Home Appliances,551.2,5,2024-09-03,2024-09-10,Online Banking,Returned,"Taylor, Rogers and Allen"
+O00779,Debra Moore,Port Amanda,Hyper Backpack,Home Appliances,346.96,4,2024-10-24,2024-11-03,Debit Card,Returned,Torres-Patrick
+O00780,Zachary Mccoy,Victorborough,Pro Camera,Beauty,316.99,5,2024-03-16,2024-03-18,Debit Card,Cancelled,Phillips PLC
+O00781,Erica Rodriguez,North Michelle,Eco Headphones,Sports,1393.93,1,2024-10-11,2024-10-17,Credit Card,Returned,Hicks PLC
+O00782,Keith Knight,Aprilmouth,Budget Jeans,Books,1536.17,1,2024-08-28,2024-09-02,Online Banking,Delivered,"Thomas, Lee and Ross"
+O00783,Kurt Jackson,Port Lori,Modern Headphones,Electronics,1354.69,1,2024-04-29,2024-05-05,Cash On Delivery,Returned,"Ray, Olson and Olson"
+O00784,Troy Jones,Theresaside,Modern Sunglasses,Books,567.9,1,2024-12-15,2024-12-23,Credit Card,Delivered,Johns-Scott
+O00785,Steven Smith,Michaelburgh,Premium Refrigerator,Automotive,1368.92,2,2025-01-28,2025-02-03,Credit Card,Cancelled,"Ramirez, Williams and Johnson"
+O00786,Jennifer Ellis,Mejiafurt,Compact Camera,Electronics,1800.28,3,2024-06-30,2024-07-07,Debit Card,Delivered,"Avila, Peterson and Duncan"
+O00787,Melissa Burnett,Smithland,Mega Tablet,Home Appliances,1126.62,4,2024-04-22,2024-04-24,Debit Card,Delivered,Smith Inc
+O00788,Craig Holland,Karentown,Smart Refrigerator,Fashion,1798.93,3,2025-01-01,2025-01-03,Credit Card,Returned,"Glenn, Potter and Palmer"
+O00789,Alexis Jackson,Lake Seanton,Premium Watch,Automotive,1837.73,5,2024-10-15,2024-10-19,Credit Card,Cancelled,Dickerson Inc
+O00790,Ashley Bowen,New William,Premium Refrigerator,Sports,406.05,4,2024-07-25,2024-07-30,Debit Card,Returned,"Hughes, Farley and Welch"
+O00791,Amy Rodriguez,West Jason,Hyper Sneakers,Fashion,707.51,2,2024-04-09,2024-04-18,Cash On Delivery,Cancelled,"Gregory, Mccarthy and Mays"
+O00792,Andrew Lawson,New Christian,Innovative Backpack,Sports,1230.74,5,2024-10-14,2024-10-15,Online Banking,Pending,George and Sons
+O00793,John Fritz,South Jennaborough,Hyper Backpack,Books,435.55,1,2024-04-13,2024-04-21,Online Banking,Pending,Bullock-Edwards
+O00794,Savannah Charles,North Aliciachester,Sleek Laptop,Home Appliances,1186.8,2,2024-09-07,2024-09-16,Debit Card,Delivered,Ballard-Mendoza
+O00795,Kim Watson,Patrickhaven,Innovative Headphones,Beauty,486.93,2,2024-09-20,2024-09-21,Online Banking,Returned,"Trevino, Jackson and Thompson"
+O00796,Holly Guerra,East Donnastad,Ultra Smartwatch,Electronics,721.6,5,2024-10-09,2024-10-16,Online Banking,Returned,"Williams, Mann and Clark"
+O00797,Justin Trevino,South Alexandria,Budget Smartphone,Beauty,786.85,2,2024-03-16,2024-03-19,Cash On Delivery,Delivered,"Gonzalez, Jordan and Conrad"
+O00798,Kimberly Jones,Wattsside,Modern Backpack,Home Appliances,582.52,2,2024-04-28,2024-05-06,Online Banking,Cancelled,"Espinoza, Johnson and Trevino"
+O00799,Rebecca Taylor,Booneland,Innovative Backpack,Fashion,1376.5,3,2024-10-17,2024-10-24,Credit Card,Delivered,"Young, Reynolds and Wheeler"
+O00800,Robert Sanders,West Juan,Sleek Camera,Books,1158.83,3,2025-02-24,2025-03-05,Credit Card,Delivered,Schultz Inc
+O00801,David Smith,Ronaldberg,Ultra Camera,Automotive,1761.77,5,2024-06-06,2024-06-11,Online Banking,Returned,Peterson-Ward
+O00802,Sean Mills,East Emily,Eco Headphones,Beauty,48.77,2,2024-06-23,2024-06-28,Online Banking,Pending,Wilson Inc
+O00803,Brittany Kane,Baileyhaven,Budget Backpack,Home Appliances,1001.84,1,2024-03-18,2024-03-25,Debit Card,Returned,Lee Inc
+O00804,Natasha Burke,Lake Shellymouth,Compact Microwave,Beauty,1478.1,5,2024-11-20,2024-11-30,Cash On Delivery,Pending,Strickland Ltd
+O00805,Terri Johnson,Spencershire,Mega Jeans,Books,1911.34,3,2024-08-31,2024-09-07,Debit Card,Delivered,"Boyd, Clark and Alvarado"
+O00806,Jenny Burns,East Diane,Pro Smartphone,Electronics,1601.04,3,2024-11-13,2024-11-19,Cash On Delivery,Returned,Powell-Martinez
+O00807,John Stafford,Lake Jenniferville,Budget Jeans,Home Appliances,966.33,4,2024-11-03,2024-11-13,Cash On Delivery,Pending,Gray-Gray
+O00808,Evan Harris,Benjaminmouth,Advanced Microwave,Electronics,1619.47,4,2024-09-25,2024-10-02,Cash On Delivery,Returned,"Anderson, Harper and Ward"
+O00809,Lisa Russell,Sandraview,Innovative Sneakers,Automotive,1605.0,4,2024-08-13,2024-08-17,Cash On Delivery,Pending,Butler-Velasquez
+O00810,Michael Berg,West Holly,Advanced Backpack,Sports,227.04,4,2025-01-03,2025-01-07,Debit Card,Cancelled,Nichols-Johnson
+O00811,Kimberly Smith,Elizabethstad,Eco Headphones,Automotive,1571.21,4,2024-12-02,2024-12-08,Credit Card,Pending,Edwards Ltd
+O00812,Tina Wright,Davisport,Sleek Laptop,Sports,881.48,4,2024-03-04,2024-03-12,Online Banking,Delivered,Brown-Rodriguez
+O00813,Ronnie Navarro,Port Daniel,Budget Jeans,Books,1933.4,1,2024-07-07,2024-07-14,Debit Card,Delivered,Adams-Collier
+O00814,Dawn Miller,Port Susan,Mega Sneakers,Sports,1498.86,3,2025-02-09,2025-02-16,Credit Card,Delivered,"Casey, Lopez and Rodriguez"
+O00815,Brian Everett,Lake Susan,Modern Jeans,Fashion,1840.62,2,2024-12-26,2025-01-02,Online Banking,Cancelled,"Hudson, Schmidt and Perkins"
+O00816,Vicki Wall,Leonardborough,Smart Watch,Books,569.44,1,2024-07-11,2024-07-14,Online Banking,Pending,"Porter, Monroe and Ferguson"
+O00817,Abigail Butler,North Jamesfurt,Budget Tablet,Books,533.33,5,2024-04-07,2024-04-08,Credit Card,Cancelled,"Walls, Sanchez and Gallagher"
+O00818,Matthew Valenzuela,Port Crystalview,Compact Refrigerator,Books,1498.45,1,2024-06-15,2024-06-18,Online Banking,Returned,"Erickson, Thompson and Fernandez"
+O00819,Stephen Hill,East Samuelchester,Modern Sunglasses,Electronics,1936.44,1,2024-05-13,2024-05-23,Debit Card,Returned,"Oconnor, Gonzalez and Butler"
+O00820,Amanda Nelson,Christinashire,Hyper Tablet,Sports,1175.65,2,2024-03-28,2024-03-31,Cash On Delivery,Delivered,Taylor and Sons
+O00821,Robin Edwards,Port Janetmouth,Super Smartwatch,Automotive,389.58,4,2024-07-12,2024-07-13,Debit Card,Delivered,Hunt PLC
+O00822,Lauren Larson,East Paulville,Innovative Microwave,Fashion,1845.6,2,2024-06-05,2024-06-12,Credit Card,Delivered,Williams and Sons
+O00823,William Vargas,North Melanieport,Smart Tablet,Sports,1388.72,4,2024-11-01,2024-11-03,Online Banking,Cancelled,Wilkins-Alvarado
+O00824,Dalton Pierce,Port Brian,Compact Camera,Automotive,1063.43,4,2025-02-21,2025-03-02,Online Banking,Pending,"Mendoza, Phillips and Wilson"
+O00825,Mary Sutton,Jeremyfurt,Pro Smartphone,Electronics,1702.14,3,2024-10-03,2024-10-10,Debit Card,Returned,Foley-Meyer
+O00826,Matthew Lindsey,Chavezmouth,Premium Backpack,Sports,1409.23,3,2024-02-28,2024-03-04,Cash On Delivery,Returned,"Little, Jones and Diaz"
+O00827,Kristine Bell,Jasonstad,Budget Laptop,Sports,1708.3,3,2024-08-13,2024-08-18,Cash On Delivery,Delivered,Gonzalez-Snyder
+O00828,Ashley Gutierrez,West Rebeccaton,Eco Watch,Automotive,653.1,2,2024-09-25,2024-10-01,Credit Card,Returned,"Alvarez, Herrera and Miller"
+O00829,Jennifer Wells,Ericafurt,Pro Smartphone,Home Appliances,1488.79,4,2024-07-17,2024-07-19,Debit Card,Returned,Nichols-Snyder
+O00830,Amanda Henderson,Everettmouth,Ultra Microwave,Books,1368.16,5,2024-11-03,2024-11-09,Credit Card,Pending,Powers-Olson
+O00831,Isaiah Ryan,Lake Lisa,Elite Backpack,Fashion,1410.97,4,2024-11-05,2024-11-10,Debit Card,Delivered,Thomas Ltd
+O00832,Cody Garcia,North Jonathan,Budget Smartwatch,Fashion,1184.56,3,2024-04-12,2024-04-20,Debit Card,Pending,"Waller, Carter and Rhodes"
+O00833,Christine Walker,West Stevenfort,Pro Microwave,Automotive,1135.16,4,2024-06-24,2024-06-27,Credit Card,Pending,Camacho-Schwartz
+O00834,Michael Mayer,North Rogerburgh,Innovative Tablet,Sports,740.44,1,2024-08-05,2024-08-15,Online Banking,Cancelled,"Jackson, Wilson and Lopez"
+O00835,Andrea Williams,New Amanda,Ultra Watch,Automotive,1354.31,1,2024-03-12,2024-03-15,Debit Card,Returned,Wood Inc
+O00836,Albert Arnold,South Candicestad,Compact Camera,Fashion,1848.39,1,2024-10-16,2024-10-18,Cash On Delivery,Cancelled,"Torres, Harris and Porter"
+O00837,Brian Walker,North Jean,Pro Headphones,Sports,496.5,4,2024-03-02,2024-03-05,Online Banking,Returned,Mcdonald Inc
+O00838,Laurie Mckenzie,Michaelland,Smart Tablet,Electronics,617.99,2,2024-12-11,2024-12-19,Online Banking,Pending,Murray-Mccarthy
+O00839,Emily Baker,Richardshire,Eco Watch,Books,1957.66,1,2024-08-15,2024-08-20,Credit Card,Returned,"Ramirez, Lopez and Gould"
+O00840,Brenda Wilson,New Douglas,Smart Watch,Automotive,1535.22,1,2025-01-19,2025-01-28,Online Banking,Cancelled,Miller-Ali
+O00841,Ellen Mcconnell,Ellischester,Modern T-shirt,Electronics,1590.73,4,2024-05-31,2024-06-01,Credit Card,Cancelled,Lee-Rose
+O00842,Kara Giles,Mendezland,Ultra Smartwatch,Sports,595.86,5,2024-12-13,2024-12-16,Debit Card,Returned,Stafford PLC
+O00843,Julie Williams,Smithchester,Hyper Microwave,Home Appliances,1294.35,3,2024-07-16,2024-07-20,Debit Card,Returned,Jones PLC
+O00844,Shawn Boone,South Ginahaven,Modern Backpack,Books,909.81,4,2024-03-02,2024-03-11,Online Banking,Cancelled,Robertson LLC
+O00845,Briana Dudley,Port Perryshire,Eco Camera,Beauty,677.14,5,2024-05-03,2024-05-09,Cash On Delivery,Returned,Hodges-Davis
+O00846,Ruben Cox,Jamesberg,Elite Smartphone,Automotive,1483.93,1,2025-01-07,2025-01-12,Debit Card,Delivered,Davis Group
+O00847,Jane Bailey,Carolville,Elite Smartphone,Books,1321.99,2,2024-07-17,2024-07-18,Credit Card,Returned,"Cole, Wagner and Fox"
+O00848,Robert Keith,Lake Brianna,Compact Jeans,Electronics,1907.87,2,2024-09-17,2024-09-22,Online Banking,Delivered,Jacobs-Spears
+O00849,David Smith,South Frederick,Budget Sneakers,Home Appliances,1500.14,2,2024-06-11,2024-06-18,Cash On Delivery,Returned,Mccoy-Beltran
+O00850,Deborah Rogers,Smithside,Innovative Smartwatch,Home Appliances,780.64,3,2025-01-06,2025-01-09,Cash On Delivery,Returned,"Cox, Hahn and Williams"
+O00851,Dennis Rogers,Thomasberg,Innovative Microwave,Fashion,671.71,5,2024-10-24,2024-10-26,Online Banking,Cancelled,Gregory Group
+O00852,Dale Daniel,Charlesberg,Modern T-shirt,Books,1351.61,5,2025-02-05,2025-02-15,Debit Card,Delivered,Jackson Inc
+O00853,Kayla Newton,North Gary,Pro Smartphone,Fashion,830.17,1,2024-03-06,2024-03-15,Cash On Delivery,Delivered,Fisher Group
+O00854,Zachary Hatfield,Wiseborough,Budget Smartphone,Fashion,1623.23,3,2024-04-21,2024-04-25,Cash On Delivery,Delivered,Gibson Inc
+O00855,Kyle Cobb,Medinamouth,Compact Sneakers,Books,89.53,2,2024-11-15,2024-11-22,Online Banking,Delivered,Farmer-Hoffman
+O00856,Christine Paul,Peterton,Elite Jeans,Automotive,365.14,5,2024-11-18,2024-11-24,Debit Card,Returned,Kaufman-Velazquez
+O00857,Dylan Cross DDS,South Luis,Modern T-shirt,Fashion,1031.08,3,2024-09-25,2024-10-04,Online Banking,Cancelled,Dennis-Lee
+O00858,Jason Mccall,Kennethborough,Advanced Microwave,Fashion,223.7,3,2024-03-21,2024-03-22,Online Banking,Pending,Hodges and Sons
+O00859,Jennifer Ramirez,New Julia,Pro Tablet,Electronics,394.82,3,2024-12-17,2024-12-23,Cash On Delivery,Delivered,King LLC
+O00860,Amy Jones,New Daniel,Budget Watch,Electronics,1124.71,2,2024-07-15,2024-07-21,Debit Card,Delivered,Larson LLC
+O00861,John Jackson,Port Brenthaven,Eco Camera,Fashion,469.36,5,2024-06-12,2024-06-21,Cash On Delivery,Cancelled,Ingram-Harvey
+O00862,Wendy Johnson,North Lanceton,Pro Smartwatch,Automotive,106.76,2,2024-05-19,2024-05-26,Online Banking,Delivered,Miller-Smith
+O00863,Rebecca Peterson,West Joelmouth,Smart Smartphone,Automotive,85.93,2,2024-09-14,2024-09-19,Cash On Delivery,Returned,Peters PLC
+O00864,Jon Johnson Jr.,East Amy,Modern T-shirt,Automotive,1374.63,2,2025-01-15,2025-01-24,Cash On Delivery,Returned,Edwards and Sons
+O00865,Kendra Herrera,South Codyburgh,Ultra Smartphone,Electronics,444.23,4,2024-06-03,2024-06-12,Credit Card,Delivered,Williams and Sons
+O00866,Curtis Brown,Port Julieburgh,Ultra Camera,Sports,1817.82,1,2024-04-08,2024-04-14,Online Banking,Delivered,Murphy Ltd
+O00867,Jody Reed,Harrischester,Eco Headphones,Home Appliances,208.26,5,2024-06-19,2024-06-25,Online Banking,Cancelled,Smith-Brooks
+O00868,James Webster,Kellymouth,Hyper Vacuum Cleaner,Automotive,777.67,3,2024-09-06,2024-09-08,Credit Card,Delivered,Baxter Group
+O00869,Cory Stephens,South Carla,Super Sneakers,Home Appliances,349.35,5,2024-03-31,2024-04-10,Debit Card,Returned,"Scott, Mack and Thomas"
+O00870,Nancy Cooper,Joshuaport,Innovative Microwave,Electronics,1519.83,5,2025-01-09,2025-01-12,Cash On Delivery,Returned,Haley Group
+O00871,Hailey Mathews,Loriview,Ultra Camera,Automotive,883.72,1,2024-08-21,2024-08-22,Debit Card,Returned,Alvarez Ltd
+O00872,Joseph Hicks,South Timothyton,Innovative Tablet,Electronics,770.49,1,2024-09-30,2024-10-03,Cash On Delivery,Delivered,"Mason, Johnson and Thompson"
+O00873,Alisha Munoz,Hernandezville,Sleek Laptop,Sports,454.11,3,2024-03-05,2024-03-07,Credit Card,Returned,Valenzuela PLC
+O00874,James Russo,Coxburgh,Pro Smartwatch,Books,1952.18,2,2025-02-13,2025-02-18,Cash On Delivery,Cancelled,Robinson LLC
+O00875,Mr. Robert Sanchez,Stephensport,Budget Watch,Home Appliances,1742.9,5,2024-08-06,2024-08-08,Credit Card,Returned,"Figueroa, Gibbs and Mitchell"
+O00876,Jacob Price,Loriland,Pro Smartwatch,Books,208.3,5,2024-06-09,2024-06-15,Credit Card,Pending,Alvarez-Rosario
+O00877,Elizabeth Barnett,Garciaport,Premium Watch,Sports,66.95,3,2024-09-27,2024-09-30,Debit Card,Returned,"Clark, Gill and Gutierrez"
+O00878,Cody Nixon,Justinland,Pro Smartwatch,Fashion,769.71,5,2024-06-09,2024-06-17,Online Banking,Cancelled,Nicholson Group
+O00879,Joshua Green,Lindseystad,Hyper Sneakers,Home Appliances,862.31,1,2024-04-28,2024-05-01,Online Banking,Delivered,"Harris, Wilson and Harris"
+O00880,Barbara Fitzgerald,South Phillip,Premium Watch,Sports,298.56,3,2024-05-20,2024-05-23,Online Banking,Pending,Baldwin-Mitchell
+O00881,Melanie Wheeler,Latoyafurt,Eco Sunglasses,Home Appliances,803.35,1,2024-10-03,2024-10-08,Cash On Delivery,Delivered,Campbell and Sons
+O00882,Brian Deleon,Guzmanberg,Hyper Tablet,Home Appliances,919.64,4,2024-07-23,2024-08-01,Debit Card,Delivered,Kelly Inc
+O00883,Wayne Hahn,Dawnville,Smart Vacuum Cleaner,Books,175.3,5,2024-05-31,2024-06-01,Cash On Delivery,Pending,Williams Group
+O00884,Valerie Robinson,Dawnland,Elite Smartphone,Sports,1886.96,2,2024-07-16,2024-07-24,Online Banking,Pending,Franklin-Deleon
+O00885,Jessica Holmes,Rollinsstad,Budget Microwave,Fashion,1565.26,2,2024-05-24,2024-06-01,Online Banking,Delivered,Thomas-Price
+O00886,Karen Miller,New Elizabeth,Mega Laptop,Electronics,702.23,1,2024-08-11,2024-08-15,Debit Card,Returned,Matthews-Hensley
+O00887,Randy Bolton,Ericaport,Innovative Microwave,Fashion,811.46,1,2024-12-03,2024-12-10,Cash On Delivery,Returned,Murray Inc
+O00888,James Larson,South Christinashire,Mega Watch,Beauty,844.04,1,2024-03-05,2024-03-15,Debit Card,Returned,Webb PLC
+O00889,Timothy Jones,North Erikaport,Smart Tablet,Automotive,620.77,2,2024-11-21,2024-11-27,Cash On Delivery,Cancelled,Garcia-Montgomery
+O00890,Rachel Knox,North Stacey,Modern Refrigerator,Sports,819.12,5,2024-10-29,2024-11-07,Online Banking,Cancelled,Munoz-Rhodes
+O00891,Teresa James,West Jamesberg,Sleek Laptop,Fashion,40.77,5,2024-09-20,2024-09-28,Credit Card,Cancelled,Marks-David
+O00892,Lauren Moore,Rebeccafurt,Innovative Camera,Automotive,1021.05,4,2024-08-21,2024-08-27,Debit Card,Cancelled,Rodriguez-Martin
+O00893,Brian Hill,North Robintown,Budget Smartphone,Automotive,317.06,2,2024-06-22,2024-06-26,Debit Card,Returned,Torres-Shelton
+O00894,Erika Hunter,Debramouth,Budget Laptop,Automotive,1515.41,2,2024-12-30,2025-01-02,Debit Card,Cancelled,"Cooke, Knight and Compton"
+O00895,Diane Chavez,North Tonybury,Sleek Laptop,Home Appliances,1750.26,1,2025-02-13,2025-02-23,Debit Card,Returned,Bryan-Jackson
+O00896,Scott Gilbert,Haydenmouth,Innovative Smartwatch,Automotive,1058.42,1,2025-01-17,2025-01-23,Online Banking,Pending,"Liu, Jimenez and Washington"
+O00897,Donald Gregory,Lake Kim,Pro Tablet,Sports,1385.39,2,2024-03-07,2024-03-14,Credit Card,Delivered,Cox and Sons
+O00898,Ashley Campbell,East Joshua,Eco Sunglasses,Sports,829.84,2,2024-12-14,2024-12-16,Debit Card,Cancelled,"Mcgee, Mccarthy and Mayer"
+O00899,Michael Stevens,South Natalieview,Compact Watch,Sports,62.07,5,2024-12-02,2024-12-07,Cash On Delivery,Delivered,Smith-Gonzalez
+O00900,Sandra Davis,Steeleland,Ultra Camera,Beauty,1625.97,4,2024-09-20,2024-09-21,Online Banking,Pending,Blair Ltd
+O00901,Lauren Ray,South William,Innovative Tablet,Sports,1594.02,3,2024-06-27,2024-07-01,Debit Card,Pending,Barrett-Brown
+O00902,Brandon Thomas,Dalefort,Budget Sneakers,Sports,1559.72,4,2024-11-09,2024-11-11,Online Banking,Pending,"Myers, Jones and Bailey"
+O00903,Patrick Adams,West Mark,Eco Camera,Automotive,1165.73,5,2024-04-26,2024-05-02,Debit Card,Delivered,Velez Inc
+O00904,Dwayne Friedman,Port Katherine,Ultra Smartwatch,Automotive,1747.3,1,2024-05-07,2024-05-12,Online Banking,Returned,Howell LLC
+O00905,John Miller,North Julia,Eco Sunglasses,Electronics,1950.58,5,2024-03-03,2024-03-07,Cash On Delivery,Cancelled,"White, Robertson and Arias"
+O00906,Terri Oliver,Lake John,Elite Smartphone,Sports,604.42,4,2024-06-23,2024-07-01,Cash On Delivery,Delivered,"Wade, Stephens and Hayes"
+O00907,Dawn Kelly,Carriechester,Premium Backpack,Fashion,1431.03,2,2024-03-16,2024-03-25,Credit Card,Cancelled,Hatfield-Jacobson
+O00908,Samantha Alvarez,Hernandezhaven,Ultra Vacuum Cleaner,Beauty,386.97,1,2024-05-13,2024-05-20,Online Banking,Cancelled,Hood PLC
+O00909,Justin Williams,West Raymondland,Mega Watch,Sports,1865.1,2,2024-08-20,2024-08-26,Debit Card,Cancelled,Randolph Group
+O00910,Tiffany Burton,West Courtney,Pro Microwave,Beauty,255.3,2,2024-06-27,2024-07-05,Debit Card,Pending,Schmidt LLC
+O00911,Pamela Bowman,Port Nancyburgh,Advanced Microwave,Books,823.63,1,2024-07-12,2024-07-22,Debit Card,Delivered,"Freeman, Marquez and Wilson"
+O00912,Kimberly Best,North Anthony,Innovative Smartwatch,Automotive,803.54,1,2024-03-18,2024-03-20,Online Banking,Delivered,"Craig, Peterson and Sullivan"
+O00913,Victoria Reed,Roachhaven,Hyper Microwave,Electronics,531.12,1,2024-06-23,2024-06-24,Cash On Delivery,Pending,West Ltd
+O00914,Brian Maynard,Floresberg,Smart Refrigerator,Home Appliances,1550.53,5,2024-09-28,2024-09-30,Credit Card,Pending,"Rodriguez, Simmons and Woods"
+O00915,Andrew Matthews,Port Gregory,Smart Refrigerator,Books,1315.28,3,2025-01-16,2025-01-17,Online Banking,Pending,Nichols-Holmes
+O00916,Joseph Johnson,Lopezfort,Super Smartphone,Automotive,518.97,1,2025-02-17,2025-02-23,Debit Card,Delivered,Brown-Tran
+O00917,Matthew Smith,Meganville,Budget Tablet,Beauty,334.07,5,2024-03-28,2024-04-04,Debit Card,Delivered,Evans-Baker
+O00918,Lucas Gross,East Austin,Pro Headphones,Beauty,310.14,4,2024-03-20,2024-03-29,Credit Card,Returned,"Cohen, Taylor and Johnston"
+O00919,Benjamin Johnston,South Christianburgh,Pro Tablet,Sports,126.69,3,2024-07-04,2024-07-08,Debit Card,Pending,Cannon-Buck
+O00920,Alicia Stout,Christopherside,Budget Microwave,Automotive,1280.53,4,2024-12-12,2024-12-18,Online Banking,Pending,Navarro-Ferguson
+O00921,Mrs. Cindy Franco,Lake Manuel,Modern Smartwatch,Books,1251.53,5,2024-03-01,2024-03-10,Online Banking,Pending,Chambers-Davis
+O00922,Nicholas Jones,Ashleymouth,Premium Headphones,Fashion,711.81,2,2024-12-02,2024-12-05,Debit Card,Delivered,"Smith, Griffin and Stuart"
+O00923,Robert Hunter,Romeromouth,Modern T-shirt,Home Appliances,1136.38,2,2025-02-24,2025-02-28,Debit Card,Delivered,"Williams, Bailey and Carter"
+O00924,Kelly Morris,Paulburgh,Mega Watch,Sports,1040.42,1,2025-01-29,2025-02-08,Cash On Delivery,Delivered,Miller-Peterson
+O00925,Kimberly Cooper,Port Jamesberg,Advanced Jeans,Home Appliances,1963.19,1,2024-06-06,2024-06-11,Cash On Delivery,Cancelled,Pratt Ltd
+O00926,Robert Williams,Cochranberg,Pro Headphones,Electronics,1131.26,3,2024-04-12,2024-04-17,Cash On Delivery,Pending,Cortez-Flores
+O00927,Joshua Ashley,New Markchester,Budget Headphones,Home Appliances,468.4,1,2024-10-18,2024-10-20,Cash On Delivery,Pending,Jones-Olsen
+O00928,Terry Hill MD,South Katherinemouth,Smart Sunglasses,Books,255.46,5,2024-07-27,2024-08-03,Debit Card,Returned,Boyer PLC
+O00929,Russell Garcia,Lake Michael,Innovative Sneakers,Home Appliances,1413.83,1,2024-10-29,2024-11-07,Online Banking,Delivered,Salinas PLC
+O00930,Gina Ortiz,Markshire,Advanced Backpack,Sports,1102.4,4,2024-09-12,2024-09-14,Credit Card,Delivered,Huff-Rojas
+O00931,Shannon Brown,Dakotahaven,Modern Refrigerator,Home Appliances,1475.53,4,2024-09-29,2024-10-06,Online Banking,Returned,Scott Inc
+O00932,Sandra Alexander,Elliottside,Advanced Smartwatch,Electronics,597.85,5,2024-06-09,2024-06-18,Online Banking,Returned,Brown Group
+O00933,Eric Davies,South Susan,Advanced Microwave,Sports,1663.7,3,2024-05-06,2024-05-09,Cash On Delivery,Cancelled,Castaneda-Bailey
+O00934,Ms. Samantha Garcia,Pattersontown,Innovative Backpack,Fashion,1233.99,3,2025-02-03,2025-02-08,Cash On Delivery,Returned,"Kaufman, Garcia and Ibarra"
+O00935,Lindsay Dickerson,South Dylanburgh,Super Sneakers,Beauty,1354.87,4,2024-06-02,2024-06-10,Online Banking,Cancelled,Jimenez-Moreno
+O00936,Tyler Hall,Monicastad,Smart Tablet,Automotive,584.09,3,2024-10-24,2024-11-03,Debit Card,Pending,Rowland Inc
+O00937,Gary Miller,Laurenfort,Pro Smartphone,Electronics,1767.27,5,2024-11-12,2024-11-18,Cash On Delivery,Returned,Torres Inc
+O00938,Jennifer Hanson,Port Stephanie,Innovative Smartwatch,Electronics,916.23,5,2024-05-09,2024-05-13,Credit Card,Returned,Mckinney PLC
+O00939,Ronald Wolf,Quinnshire,Modern Sunglasses,Sports,1612.31,4,2025-01-19,2025-01-26,Credit Card,Cancelled,"Bishop, Zamora and Jenkins"
+O00940,Emma Harris,North Robert,Innovative Smartwatch,Electronics,1807.23,5,2025-01-08,2025-01-17,Online Banking,Pending,"Parsons, Terry and Hernandez"
+O00941,Stacy Hayes,New Barry,Smart Sunglasses,Electronics,1535.19,4,2024-08-29,2024-08-30,Cash On Delivery,Cancelled,Williams-Kelley
+O00942,Christine Wiggins,Robbinsland,Budget Jeans,Automotive,1117.64,3,2024-06-18,2024-06-22,Credit Card,Delivered,Jones and Sons
+O00943,Jennifer Johnson,Barbaraland,Smart Microwave,Beauty,733.35,1,2024-12-21,2024-12-29,Debit Card,Cancelled,Lawrence LLC
+O00944,Lindsay Mcgee,Mooremouth,Mega Smartphone,Sports,1172.9,2,2024-12-29,2025-01-02,Cash On Delivery,Cancelled,Chavez PLC
+O00945,Adrian Brown,Grayview,Sleek Sneakers,Automotive,213.55,2,2024-05-19,2024-05-27,Credit Card,Returned,"Carpenter, Johnson and Riggs"
+O00946,Jessica Norman,North Williambury,Innovative Watch,Automotive,1901.73,4,2024-04-29,2024-05-01,Cash On Delivery,Delivered,Evans-Francis
+O00947,Mrs. Kathleen Martinez,West Elainetown,Super Headphones,Books,90.87,5,2024-02-27,2024-03-04,Debit Card,Returned,Rivas-Ford
+O00948,Nicholas Delacruz,New Robert,Modern Jeans,Beauty,805.88,4,2024-04-20,2024-04-27,Online Banking,Pending,Rogers Ltd
+O00949,Taylor Gallagher,West Sarah,Budget Smartwatch,Electronics,822.69,3,2024-06-29,2024-07-06,Cash On Delivery,Delivered,"Mccall, Sharp and Gilmore"
+O00950,Dr. Kevin Hill DDS,Lake Philipfurt,Budget Sneakers,Electronics,1679.02,3,2024-09-10,2024-09-14,Cash On Delivery,Pending,"Rocha, Warren and Butler"
+O00951,Kevin Hess,Jasmineberg,Premium Backpack,Beauty,616.04,1,2024-11-08,2024-11-12,Debit Card,Cancelled,"Thomas, Sandoval and Bailey"
+O00952,William Carson,Lake Laurenview,Smart Watch,Fashion,1548.19,1,2025-01-17,2025-01-20,Debit Card,Pending,"Woods, Hunter and Jenkins"
+O00953,Jennifer Mills,Lake Leahmouth,Super Smartwatch,Books,565.74,2,2024-05-17,2024-05-18,Credit Card,Returned,"Flores, Davies and Krause"
+O00954,Jordan Gutierrez,Stephaniemouth,Premium Backpack,Electronics,1557.86,1,2024-12-05,2024-12-10,Debit Card,Returned,Kaiser PLC
+O00955,Angela Thornton,Edwardberg,Eco Headphones,Beauty,175.53,2,2024-03-10,2024-03-17,Online Banking,Delivered,"Kennedy, King and Robinson"
+O00956,Victor Santiago,Josephborough,Eco Camera,Electronics,1068.53,3,2025-01-04,2025-01-10,Debit Card,Pending,Murphy LLC
+O00957,John Chapman,Garciaview,Ultra Vacuum Cleaner,Books,613.71,4,2024-12-24,2025-01-02,Debit Card,Delivered,Munoz-Vega
+O00958,Jesse Powers,North Shawnton,Eco Sunglasses,Beauty,1214.54,5,2025-01-16,2025-01-24,Cash On Delivery,Cancelled,Martinez PLC
+O00959,Heather Garcia,Trevorport,Modern Headphones,Sports,390.94,3,2024-04-25,2024-05-03,Online Banking,Cancelled,Williams-Reynolds
+O00960,David Cummings,Alexland,Smart Microwave,Home Appliances,1577.64,4,2024-11-28,2024-12-06,Cash On Delivery,Cancelled,Harrison-Faulkner
+O00961,Daniel Owens,Cunninghamport,Pro Smartwatch,Books,465.22,3,2024-12-02,2024-12-11,Cash On Delivery,Pending,Nguyen Group
+O00962,Dalton Kelley,Johnberg,Smart Refrigerator,Home Appliances,256.23,3,2025-01-02,2025-01-06,Cash On Delivery,Delivered,Berry Group
+O00963,Jennifer Jones,Underwoodborough,Super Smartwatch,Home Appliances,675.7,2,2024-10-29,2024-11-02,Cash On Delivery,Delivered,"Swanson, Davis and Clark"
+O00964,Brandi Herrera,Shelbyhaven,Super Smartphone,Automotive,1758.18,1,2024-08-18,2024-08-19,Online Banking,Returned,"Moore, Robinson and Davis"
+O00965,Kristin Scott,West Paul,Elite Sneakers,Electronics,518.41,3,2024-04-26,2024-04-29,Cash On Delivery,Delivered,Moon LLC
+O00966,Aaron Moore,West Troy,Compact Camera,Books,1743.37,4,2024-03-13,2024-03-17,Online Banking,Delivered,Wade-Schneider
+O00967,Leslie Spears,Whiteton,Budget Headphones,Electronics,1556.4,5,2024-08-19,2024-08-21,Credit Card,Pending,Jones-Blair
+O00968,Amanda Barton,New Adamchester,Smart Sunglasses,Fashion,471.07,2,2024-07-31,2024-08-08,Debit Card,Pending,"Osborne, Johnson and Mullins"
+O00969,Alyssa Chase,Millerfort,Modern Sneakers,Fashion,1085.1,4,2024-04-10,2024-04-17,Cash On Delivery,Returned,"Powell, Pacheco and Leon"
+O00970,Julie Rosales,South Rebeccaview,Smart Sneakers,Automotive,869.27,2,2025-01-07,2025-01-09,Credit Card,Cancelled,Stone-Moody
+O00971,Phillip Taylor,Lauratown,Advanced Refrigerator,Home Appliances,174.5,2,2024-05-27,2024-05-28,Cash On Delivery,Returned,"Robertson, Gardner and Ross"
+O00972,Charles Barker,Mcgrathport,Smart Tablet,Automotive,1322.93,1,2024-08-12,2024-08-14,Online Banking,Delivered,Beck and Sons
+O00973,Daniel Payne,Amytown,Elite Sneakers,Electronics,957.68,1,2024-11-03,2024-11-13,Credit Card,Cancelled,Long-Carter
+O00974,Rebecca Navarro,Aguilarmouth,Hyper Tablet,Home Appliances,1906.08,5,2024-04-19,2024-04-23,Debit Card,Delivered,Leon-Riddle
+O00975,Regina Avila,Sharpshire,Ultra Camera,Fashion,368.51,2,2024-08-20,2024-08-28,Credit Card,Returned,Stevens-Phelps
+O00976,Cindy Wright,Waltertown,Pro Microwave,Fashion,1527.23,3,2024-11-08,2024-11-11,Debit Card,Delivered,"Blair, Riley and Rogers"
+O00977,Jeffrey Evans,Chelseaside,Innovative Smartwatch,Beauty,6.31,1,2024-07-27,2024-08-04,Credit Card,Cancelled,Stevens Inc
+O00978,Casey Aguilar,Port Carl,Super Smartwatch,Fashion,1467.02,5,2025-02-03,2025-02-09,Cash On Delivery,Delivered,"Francis, Taylor and King"
+O00979,Christopher Haley,West Amber,Compact Camera,Beauty,807.57,3,2024-06-04,2024-06-05,Cash On Delivery,Pending,"Rasmussen, Barrera and Waller"
+O00980,Jeffrey Boyd,Birdbury,Compact Sunglasses,Automotive,786.23,5,2024-08-01,2024-08-03,Debit Card,Pending,Ray-Mcbride
+O00981,Jenna Clark,Port Vickiton,Super Sneakers,Books,1861.2,1,2024-09-03,2024-09-08,Online Banking,Returned,Henry Group
+O00982,Mrs. Nicole Padilla,Martinmouth,Budget Smartwatch,Books,1243.78,5,2024-05-18,2024-05-27,Debit Card,Delivered,Cruz-Arnold
+O00983,Judy Evans,Padillaburgh,Hyper Jeans,Automotive,907.67,4,2025-02-18,2025-02-19,Debit Card,Delivered,Robinson-Bell
+O00984,Cameron Odonnell,Aaronburgh,Compact Watch,Books,990.85,2,2024-11-16,2024-11-19,Credit Card,Cancelled,Michael Ltd
+O00985,Andrew Howard,Katherineton,Budget Jeans,Fashion,902.12,1,2025-02-15,2025-02-17,Cash On Delivery,Delivered,Castaneda Ltd
+O00986,Jeremy Briggs,Jenniferbury,Elite Smartphone,Electronics,1691.1,2,2024-12-14,2024-12-24,Credit Card,Pending,"Keller, Davis and Johnson"
+O00987,Erika Sullivan,North Jesseburgh,Hyper Microwave,Beauty,1350.69,2,2024-06-29,2024-07-04,Online Banking,Pending,"Sullivan, Lopez and Bowers"
+O00988,David King,East Robert,Elite Sneakers,Fashion,92.93,5,2024-07-04,2024-07-09,Cash On Delivery,Cancelled,Gomez-Greer
+O00989,Erica Sanchez,Lake Brianshire,Smart Refrigerator,Automotive,1585.92,5,2024-11-15,2024-11-24,Cash On Delivery,Returned,Porter-Curry
+O00990,Matthew Strong,South Gregory,Eco Sneakers,Books,1991.77,1,2024-12-02,2024-12-09,Debit Card,Returned,"Martinez, Ramos and Smith"
+O00991,Courtney Gray,Lake Jeffreyview,Elite Jeans,Electronics,815.44,2,2024-12-28,2025-01-01,Cash On Delivery,Pending,Thomas Ltd
+O00992,Dorothy May,Alexanderborough,Ultra Sunglasses,Fashion,825.03,4,2024-10-07,2024-10-14,Cash On Delivery,Pending,"White, Lowery and Rivera"
+O00993,Connor Russell,Gregorystad,Ultra Watch,Beauty,568.42,3,2024-08-19,2024-08-29,Credit Card,Returned,Baldwin-Anthony
+O00994,Sonya Smith,Lake Susanhaven,Premium Watch,Home Appliances,662.82,5,2024-06-18,2024-06-28,Cash On Delivery,Returned,Wolf and Sons
+O00995,Jonathan Kim,Mcmahonchester,Premium Refrigerator,Automotive,1263.62,1,2024-08-12,2024-08-15,Credit Card,Pending,Jones-Wright
+O00996,Dustin Ross,Lake Matthewside,Innovative Watch,Beauty,1096.46,2,2024-11-22,2024-11-24,Credit Card,Returned,"Jacobs, Parker and Ferguson"
+O00997,Raven Gutierrez,Lake Josephfurt,Mega Watch,Home Appliances,1597.03,2,2024-06-08,2024-06-18,Credit Card,Delivered,Shaw-Jenkins
+O00998,Glenn King,Port Natalie,Compact Sunglasses,Electronics,142.05,5,2025-01-16,2025-01-22,Cash On Delivery,Delivered,Nelson-Black
+O00999,Stacy Jones,Burnsborough,Advanced Microwave,Automotive,1222.18,4,2024-07-19,2024-07-24,Credit Card,Pending,"Swanson, Shaffer and Soto"
+O01000,Alex Walters,Port Jason,Smart Vacuum Cleaner,Home Appliances,1373.38,3,2024-08-06,2024-08-08,Cash On Delivery,Pending,"Jones, Nguyen and Benitez"
+O01001,Michael Copeland,North Marissa,Modern Refrigerator,Beauty,1685.15,3,2024-04-19,2024-04-21,Credit Card,Delivered,"Castaneda, Mathis and Chavez"
+O01002,Denise Holder,New Kennethfurt,Modern Backpack,Sports,1401.51,4,2024-06-17,2024-06-24,Cash On Delivery,Returned,Moore Group
+O01003,Kristin Chavez,New Kimberly,Ultra Watch,Home Appliances,1289.17,2,2024-08-05,2024-08-06,Debit Card,Cancelled,Luna PLC
+O01004,Rebecca Miller,South Stephanieview,Budget Smartwatch,Electronics,495.13,2,2024-04-04,2024-04-11,Credit Card,Pending,Nichols-Jones
+O01005,Michael Becker,Simonborough,Modern Smartwatch,Sports,1648.32,2,2024-04-11,2024-04-13,Debit Card,Returned,Carter-Smith
+O01006,David Alexander,West Tanya,Smart Sunglasses,Fashion,1462.18,2,2024-06-25,2024-07-02,Debit Card,Cancelled,"Charles, Walker and Meyer"
+O01007,Beth Williams PhD,South Robertstad,Advanced Backpack,Sports,1918.86,1,2025-02-20,2025-03-01,Cash On Delivery,Delivered,"Norris, Richardson and Lamb"
+O01008,Diane Mendez,New Johnny,Modern Sneakers,Fashion,1823.65,1,2024-07-21,2024-07-29,Online Banking,Returned,Smith Inc
+O01009,Andrew Jackson,Anthonyberg,Ultra Sneakers,Beauty,1712.09,4,2024-04-01,2024-04-04,Debit Card,Returned,"Blanchard, Landry and Medina"
+O01010,Albert Coleman,Lake Richard,Innovative Smartwatch,Sports,50.97,1,2024-11-05,2024-11-15,Cash On Delivery,Cancelled,Gilbert LLC
+O01011,Kelsey Thomas,Richardtown,Budget Sneakers,Books,1140.12,2,2024-10-15,2024-10-17,Online Banking,Returned,"Wang, Murray and Reid"
+O01012,Elizabeth Moore,Chloehaven,Smart Refrigerator,Sports,1369.07,3,2025-02-10,2025-02-16,Credit Card,Delivered,"Jackson, Cummings and Chen"
+O01013,John Neal,Micheleshire,Budget Tablet,Electronics,709.82,5,2024-08-09,2024-08-13,Credit Card,Returned,Bennett and Sons
+O01014,Mr. Anthony Perez,North Jenniferport,Smart Watch,Beauty,1620.12,4,2024-09-15,2024-09-22,Online Banking,Pending,"Terry, Mcdowell and White"
+O01015,Michael Salinas,Leonmouth,Hyper Tablet,Sports,1876.45,1,2024-02-28,2024-03-01,Credit Card,Pending,Dixon Ltd
+O01016,Brian Henry,Griffinfort,Compact Camera,Books,1541.84,5,2025-01-22,2025-01-26,Cash On Delivery,Returned,Torres-Wilson
+O01017,Christina Davila,New Haley,Budget Jeans,Electronics,1135.02,4,2024-12-18,2024-12-23,Online Banking,Delivered,"Crane, Hanna and Ford"
+O01018,Lucas Smith,Sydneymouth,Ultra Vacuum Cleaner,Home Appliances,60.4,5,2024-10-10,2024-10-19,Credit Card,Pending,"Barnes, Nelson and Jackson"
+O01019,Robert Jenkins,Nelsontown,Hyper Jeans,Home Appliances,1504.84,1,2024-07-26,2024-08-05,Debit Card,Delivered,Smith Inc
+O01020,Michael Banks,Lake Rick,Elite Laptop,Electronics,740.71,3,2024-09-03,2024-09-09,Debit Card,Delivered,Roberts and Sons
+O01021,Karen Russell,New Jeremy,Budget Backpack,Sports,864.19,4,2024-05-29,2024-06-07,Credit Card,Cancelled,Fritz PLC
+O01022,Alicia Thomas,Lisamouth,Mega Laptop,Books,409.37,4,2024-11-22,2024-11-27,Online Banking,Returned,"Rodriguez, Brown and Oneill"
+O01023,Diane Watson,New Michaelton,Super Smartphone,Electronics,1303.7,2,2024-04-14,2024-04-19,Cash On Delivery,Returned,Turner-Holloway
+O01024,Heather Heath,New Jessica,Sleek Smartwatch,Fashion,1914.36,1,2024-07-29,2024-08-02,Online Banking,Returned,"Owen, Buckley and Jones"
+O01025,Nicole Andersen,Murphytown,Modern Sunglasses,Books,1010.04,2,2024-03-28,2024-03-30,Online Banking,Cancelled,Anderson LLC
+O01026,Jason Beard,New Krystaltown,Premium Tablet,Sports,1531.85,4,2024-08-12,2024-08-13,Cash On Delivery,Pending,Jackson-Castillo
+O01027,Kimberly Ward,Johnsonfurt,Modern Sunglasses,Beauty,43.96,1,2024-11-29,2024-12-08,Online Banking,Cancelled,"Smith, Bryant and Boone"
+O01028,Robert Hunter,North David,Hyper Microwave,Books,1657.24,5,2024-10-31,2024-11-05,Online Banking,Cancelled,Cohen-Sanders
+O01029,Julia Murray,Kingland,Elite Sneakers,Automotive,11.33,1,2024-12-31,2025-01-07,Credit Card,Pending,"Brock, Perez and Cruz"
+O01030,Eric Nunez,Latashatown,Advanced Smartwatch,Automotive,1255.96,1,2024-09-16,2024-09-26,Debit Card,Delivered,Estrada-King
+O01031,Tracey Kim,Dennistown,Innovative Sneakers,Sports,461.61,1,2024-10-03,2024-10-07,Credit Card,Delivered,"Phillips, Livingston and Townsend"
+O01032,William Torres,Jacquelinefurt,Budget Watch,Books,209.83,1,2024-10-26,2024-11-01,Cash On Delivery,Returned,Chavez PLC
+O01033,Gregory Case,North James,Eco Sneakers,Electronics,1300.22,4,2024-12-06,2024-12-16,Online Banking,Delivered,"Miller, Mcclure and Hernandez"
+O01034,Christopher Brown,Raymondhaven,Pro Microwave,Books,821.11,2,2024-11-21,2024-11-25,Online Banking,Pending,Fuller PLC
+O01035,Robert Gallagher,Brandontown,Pro Tablet,Books,1365.87,2,2024-05-04,2024-05-11,Credit Card,Pending,Juarez-Caldwell
+O01036,Brenda White,Timothyfurt,Premium Refrigerator,Home Appliances,472.29,3,2024-04-13,2024-04-15,Cash On Delivery,Cancelled,Alvarez Ltd
+O01037,Adriana Turner,Port Sherrybury,Elite Backpack,Automotive,212.43,3,2024-03-29,2024-04-01,Online Banking,Cancelled,Smith-Tucker
+O01038,Amanda Dean,Khanstad,Super Sneakers,Home Appliances,753.08,3,2024-09-10,2024-09-20,Debit Card,Returned,Williams Inc
+O01039,Jose Payne,Lake Brian,Smart Watch,Electronics,924.38,1,2024-02-28,2024-03-03,Online Banking,Returned,Hall-Young
+O01040,Carlos Higgins,North Ricky,Budget Microwave,Books,1856.9,5,2024-06-03,2024-06-09,Cash On Delivery,Cancelled,Dominguez-Myers
+O01041,Nancy Fernandez,Lake Robert,Sleek Laptop,Beauty,670.77,2,2024-09-30,2024-10-10,Cash On Delivery,Returned,Turner-Williams
+O01042,Sara Moore,East Rebecca,Pro Headphones,Automotive,1827.95,3,2025-01-30,2025-02-02,Cash On Delivery,Cancelled,Craig Group
+O01043,Christopher Johns,Adamsfort,Mega Vacuum Cleaner,Sports,768.33,4,2024-03-20,2024-03-22,Debit Card,Cancelled,"Lopez, Harris and Morris"
+O01044,Elizabeth Miranda,Kennedyfurt,Innovative Refrigerator,Sports,608.24,2,2024-11-30,2024-12-09,Credit Card,Returned,Adams-Greene
+O01045,Joseph Mendoza,Websterside,Smart Watch,Fashion,621.62,1,2025-01-12,2025-01-15,Credit Card,Delivered,Cabrera-Morgan
+O01046,James Hall,South Amber,Advanced Smartwatch,Fashion,155.02,4,2024-09-15,2024-09-20,Cash On Delivery,Delivered,Long LLC
+O01047,Arthur Black,Robertside,Sleek Smartwatch,Electronics,1043.12,5,2024-12-09,2024-12-15,Online Banking,Delivered,"Keith, Smith and Sandoval"
+O01048,Dr. James Ward,East Nancyville,Sleek Laptop,Home Appliances,118.43,1,2024-12-22,2024-12-30,Cash On Delivery,Delivered,Preston LLC
+O01049,Amber Ochoa,Lutzbury,Premium Headphones,Books,312.45,1,2024-08-12,2024-08-17,Online Banking,Cancelled,Delgado PLC
+O01050,Victor Gray,Higginsbury,Premium Headphones,Beauty,1528.18,5,2024-06-19,2024-06-25,Credit Card,Cancelled,"Hill, Zimmerman and Tate"
+O01051,Catherine Ramos,South Jonathanbury,Innovative Sneakers,Fashion,275.84,2,2024-05-02,2024-05-07,Cash On Delivery,Delivered,Gaines-Garcia
+O01052,Brianna Russell,North Matthewport,Mega Tablet,Electronics,1319.73,2,2024-07-06,2024-07-15,Cash On Delivery,Delivered,"Cabrera, Sullivan and Howard"
+O01053,Peter Norton,Conniefort,Premium Refrigerator,Beauty,546.37,5,2024-06-25,2024-06-30,Cash On Delivery,Cancelled,Harris-Jones
+O01054,April Gates,Port Jenniferburgh,Ultra Camera,Electronics,1440.97,5,2024-12-31,2025-01-01,Cash On Delivery,Returned,Davidson Ltd
+O01055,Adrian Drake,New Michelle,Mega Jeans,Sports,720.74,2,2024-03-19,2024-03-25,Online Banking,Returned,"Alvarez, James and Gonzales"
+O01056,Lauren Ware,West Angela,Sleek Smartwatch,Beauty,912.65,4,2024-08-22,2024-08-25,Credit Card,Pending,"Dean, Holden and Castillo"
+O01057,Angela Williams,New Timothyton,Innovative Backpack,Sports,286.44,5,2024-05-05,2024-05-12,Credit Card,Delivered,"Alexander, Singh and Barajas"
+O01058,Crystal Hernandez,Patriciaview,Eco Sunglasses,Beauty,1756.66,1,2024-08-28,2024-09-06,Online Banking,Cancelled,"Baker, Harris and Morrow"
+O01059,Scott Wilson,Hendersonchester,Elite Jeans,Books,620.14,4,2024-10-26,2024-10-27,Cash On Delivery,Pending,"Summers, May and Rangel"
+O01060,Andrew Murphy,Lake Eric,Advanced Sunglasses,Automotive,696.97,1,2024-05-31,2024-06-06,Online Banking,Delivered,Middleton-Roberts
+O01061,David White,Emilyfort,Premium Headphones,Home Appliances,1285.62,3,2024-08-04,2024-08-13,Cash On Delivery,Returned,Mason-Charles
+O01062,Christopher Jones,New Mollytown,Modern T-shirt,Beauty,94.28,1,2024-03-27,2024-04-06,Online Banking,Returned,Cabrera Group
+O01063,Michael Young,West Carolyn,Hyper Backpack,Automotive,847.4,2,2024-06-07,2024-06-09,Cash On Delivery,Delivered,Armstrong-Wagner
+O01064,Stephanie Navarro,New Curtisport,Hyper Tablet,Books,1953.18,5,2024-07-01,2024-07-09,Cash On Delivery,Pending,Herring-Thompson
+O01065,Charles Rodriguez,New Jacob,Modern Jeans,Electronics,920.28,2,2024-06-11,2024-06-14,Debit Card,Cancelled,"Williams, Rice and Davila"
+O01066,Heather Morris,New Mark,Modern Sunglasses,Books,1182.39,2,2024-10-25,2024-10-30,Cash On Delivery,Pending,Snyder Ltd
+O01067,Crystal Rodriguez,Jonesland,Super Sneakers,Fashion,1461.81,5,2024-04-04,2024-04-14,Cash On Delivery,Pending,"Price, Vasquez and Conrad"
+O01068,Tracy Morris,West Ashleyfurt,Advanced Smartwatch,Automotive,629.88,2,2024-06-30,2024-07-02,Cash On Delivery,Delivered,Joyce-Berg
+O01069,Joshua Valentine,North Charlene,Hyper Sneakers,Electronics,463.79,2,2024-10-19,2024-10-22,Debit Card,Delivered,Cooley-Massey
+O01070,Nicole Davis,New Karaport,Smart Smartphone,Home Appliances,71.01,2,2024-12-17,2024-12-25,Online Banking,Returned,Black-Jenkins
+O01071,Emma Robles,Callahanbury,Innovative Headphones,Beauty,1363.27,1,2024-06-21,2024-06-29,Debit Card,Returned,Oliver PLC
+O01072,Mark Smith,Smithchester,Innovative Backpack,Electronics,449.15,2,2024-08-13,2024-08-20,Credit Card,Returned,"Mcneil, Crawford and Mccarty"
+O01073,Rachel Arias,Moralesburgh,Hyper Jeans,Sports,1785.72,1,2024-10-28,2024-11-03,Online Banking,Delivered,Walters Ltd
+O01074,Jordan Carrillo,North Tylerborough,Innovative Headphones,Fashion,789.1,5,2024-07-25,2024-08-04,Credit Card,Cancelled,Reynolds PLC
+O01075,Lindsey Smith,Melissatown,Modern Jeans,Automotive,1931.16,1,2024-10-15,2024-10-17,Credit Card,Delivered,"Griffin, Powers and Sawyer"
+O01076,Thomas Hawkins,Padillaville,Super Headphones,Automotive,1936.59,1,2024-08-24,2024-08-25,Credit Card,Pending,Patterson-Reed
+O01077,Julie Lee MD,New Jennifer,Budget Watch,Electronics,118.12,2,2025-02-02,2025-02-04,Online Banking,Pending,Stephens-Torres
+O01078,James Rosario,Joannaland,Budget Backpack,Fashion,753.57,2,2025-01-11,2025-01-13,Debit Card,Delivered,Ruiz Inc
+O01079,Michele Hernandez,Castroshire,Ultra Sunglasses,Home Appliances,1543.32,1,2024-08-17,2024-08-22,Credit Card,Delivered,Smith and Sons
+O01080,Kathleen Adkins,Grahamberg,Budget Tablet,Electronics,1025.74,1,2024-05-16,2024-05-21,Online Banking,Pending,Holder-Edwards
+O01081,April Johnston,Allenport,Innovative Backpack,Sports,1876.39,2,2024-10-03,2024-10-05,Online Banking,Cancelled,Conway-Bennett
+O01082,Carol Bernard,North Maryton,Innovative Camera,Books,1388.6,3,2024-04-15,2024-04-18,Debit Card,Pending,Garza-Williams
+O01083,Tiffany Reynolds,Youngview,Eco Sunglasses,Fashion,158.53,1,2024-06-16,2024-06-24,Credit Card,Returned,"Evans, Sweeney and Moore"
+O01084,Paul Hernandez,West Michaelborough,Elite Backpack,Electronics,1293.91,1,2024-11-26,2024-11-30,Cash On Delivery,Cancelled,"Garcia, Mays and Martinez"
+O01085,George Dalton,Lake Elizabeth,Innovative Microwave,Fashion,525.27,1,2024-12-09,2024-12-12,Online Banking,Returned,Brown Group
+O01086,Darren Gordon,East Brianburgh,Advanced Jeans,Beauty,1963.87,5,2024-03-04,2024-03-05,Debit Card,Delivered,Campbell LLC
+O01087,Fernando Nichols,Tammyport,Ultra Watch,Home Appliances,1905.91,3,2024-02-27,2024-03-02,Credit Card,Cancelled,Owens PLC
+O01088,Lawrence Garrett,Cummingsbury,Budget Sneakers,Beauty,1199.84,5,2024-05-28,2024-05-31,Debit Card,Cancelled,Pacheco LLC
+O01089,Robert Bradford,Jenniferstad,Smart Microwave,Electronics,1934.96,5,2024-07-13,2024-07-20,Online Banking,Cancelled,Hall-Hill
+O01090,Jorge Martin,Lake Lynn,Budget Smartwatch,Fashion,56.06,5,2024-04-15,2024-04-20,Debit Card,Delivered,Smith Ltd
+O01091,Sheri Jenkins,West Jenniferberg,Hyper Backpack,Electronics,1007.82,1,2024-08-04,2024-08-14,Debit Card,Cancelled,Carter-Dennis
+O01092,Dustin Oneill,Kevinside,Smart Sunglasses,Fashion,1608.05,5,2024-10-29,2024-11-04,Debit Card,Cancelled,Shannon-Christensen
+O01093,Deborah Turner,Vargasbury,Budget Sneakers,Books,1088.46,2,2024-06-24,2024-07-01,Debit Card,Delivered,"Anderson, Black and Hunt"
+O01094,Eric Jones,Campbellburgh,Ultra Camera,Sports,1007.4,3,2025-01-08,2025-01-17,Debit Card,Returned,Wells Inc
+O01095,Douglas Campbell,Darrellmouth,Eco Camera,Fashion,1698.54,4,2024-10-03,2024-10-05,Online Banking,Returned,Allen-Duncan
+O01096,Denise Morris,Garzafort,Budget Tablet,Books,268.94,1,2024-05-26,2024-05-31,Debit Card,Pending,"Dunn, King and Irwin"
+O01097,Robert Soto,Aprilmouth,Advanced Smartwatch,Books,703.44,2,2024-06-15,2024-06-25,Debit Card,Cancelled,Adkins and Sons
+O01098,Mrs. Stephanie Stephens MD,South Lisamouth,Ultra Camera,Automotive,618.92,2,2025-01-31,2025-02-07,Credit Card,Pending,"Roberts, Perkins and Olsen"
+O01099,Timothy King,Stevenborough,Sleek Smartwatch,Electronics,1356.46,1,2025-01-01,2025-01-11,Debit Card,Returned,Johnson-Jackson
+O01100,Bryan Mcgee,Briggsview,Ultra Smartphone,Home Appliances,410.64,4,2025-01-02,2025-01-03,Cash On Delivery,Cancelled,"Maynard, Mccoy and Santana"
+O01101,Sharon Kelly MD,Jenniferburgh,Mega Sneakers,Beauty,500.05,1,2025-02-21,2025-02-25,Cash On Delivery,Cancelled,"Hughes, Harper and Smith"
+O01102,Ellen Rodriguez,New Patrickfort,Modern Refrigerator,Home Appliances,1682.95,3,2024-11-20,2024-11-23,Cash On Delivery,Delivered,Dunn Inc
+O01103,Ashley Myers,Lake Williambury,Hyper Sneakers,Beauty,706.13,3,2024-04-01,2024-04-08,Debit Card,Delivered,Morris-Morton
+O01104,Kimberly Hernandez,North Timside,Budget Smartphone,Sports,1536.09,3,2025-02-13,2025-02-21,Debit Card,Pending,"Orr, Fry and Peters"
+O01105,Robert Luna,East Carol,Modern Jeans,Beauty,634.5,4,2024-10-03,2024-10-05,Cash On Delivery,Cancelled,Sexton and Sons
+O01106,Lisa Holland,Jeffreyville,Elite Sneakers,Sports,1395.99,1,2024-08-04,2024-08-06,Cash On Delivery,Pending,"Ramirez, Ward and Alvarez"
+O01107,Veronica Gonzalez,Kellerhaven,Smart Sneakers,Beauty,1390.57,1,2024-07-26,2024-07-27,Credit Card,Delivered,Dunn-Smith
+O01108,Michelle Saunders,Port Nicole,Mega Sneakers,Sports,1012.11,3,2024-09-12,2024-09-19,Cash On Delivery,Pending,Perez PLC
+O01109,Julie Davis,Davidtown,Smart Microwave,Beauty,1996.62,3,2025-02-02,2025-02-07,Credit Card,Returned,"Butler, Bennett and Golden"
+O01110,Elizabeth Watson,Amandafurt,Modern T-shirt,Fashion,34.58,2,2024-04-14,2024-04-21,Credit Card,Pending,"Stone, Tran and Jimenez"
+O01111,Allison Smith,New Tracy,Eco Camera,Books,435.91,1,2024-04-02,2024-04-04,Online Banking,Pending,Hale LLC
+O01112,Leslie Scott,Port Craigville,Modern T-shirt,Home Appliances,1626.52,4,2025-01-20,2025-01-26,Online Banking,Delivered,Patel and Sons
+O01113,Mrs. Dana Lewis MD,South Jameston,Mega Smartphone,Books,43.92,5,2024-10-02,2024-10-04,Credit Card,Cancelled,Blake Inc
+O01114,Angel Miller,South Frankmouth,Advanced Microwave,Beauty,1107.46,2,2024-08-14,2024-08-21,Credit Card,Delivered,"Rodriguez, Odonnell and Madden"
+O01115,Jose Jones,East Amandatown,Compact Refrigerator,Automotive,1811.92,1,2024-04-07,2024-04-17,Cash On Delivery,Delivered,Kennedy Inc
+O01116,Michelle Hernandez MD,West Adrianland,Modern Smartwatch,Fashion,659.05,5,2024-10-20,2024-10-21,Cash On Delivery,Returned,Owen and Sons
+O01117,Marilyn Vincent,East Scotttown,Smart Watch,Books,1368.36,1,2024-05-13,2024-05-14,Cash On Delivery,Cancelled,"Lara, Black and Blake"
+O01118,Jason Harris PhD,Maxwellland,Budget Sneakers,Books,1361.03,3,2024-06-15,2024-06-20,Cash On Delivery,Cancelled,"Brady, Brown and Rosario"
+O01119,Shane Owens,New Walter,Smart Sneakers,Sports,397.64,1,2024-11-12,2024-11-16,Debit Card,Cancelled,Quinn Group
+O01120,Dennis Simmons,New Donna,Mega Tablet,Electronics,1812.02,3,2025-01-01,2025-01-08,Debit Card,Returned,"Schneider, Perry and Berry"
+O01121,Jennifer Wood,West Samuel,Innovative Headphones,Sports,1710.05,2,2025-01-18,2025-01-23,Online Banking,Cancelled,Ingram LLC
+O01122,Cheyenne Mosley,New Kevinburgh,Premium Tablet,Fashion,1592.88,1,2025-01-03,2025-01-09,Cash On Delivery,Delivered,"Walsh, Ibarra and Morris"
+O01123,Jessica Bolton,South Veronica,Advanced Jeans,Beauty,1591.41,2,2024-04-07,2024-04-17,Debit Card,Delivered,Jarvis PLC
+O01124,Austin Howell,West Melissastad,Elite Sneakers,Electronics,1726.75,1,2024-10-05,2024-10-09,Online Banking,Cancelled,Pierce-Cohen
+O01125,Javier Raymond,New Scottview,Smart Vacuum Cleaner,Home Appliances,467.71,1,2024-04-12,2024-04-20,Debit Card,Delivered,Evans-Jones
+O01126,Natasha Wright,West Martinland,Sleek Laptop,Automotive,1514.07,5,2024-11-27,2024-12-04,Cash On Delivery,Returned,Nunez Ltd
+O01127,Kenneth Yang,Lake Charles,Eco Headphones,Electronics,708.3,1,2024-02-28,2024-03-07,Online Banking,Returned,"Spears, Cisneros and Tyler"
+O01128,Benjamin Fisher,Timothyshire,Ultra Smartphone,Books,134.68,1,2024-06-05,2024-06-12,Cash On Delivery,Cancelled,Willis and Sons
+O01129,Jeffrey Zavala,Kaylafurt,Innovative Sneakers,Beauty,887.93,3,2024-12-19,2024-12-25,Online Banking,Pending,"Dalton, Morgan and Thomas"
+O01130,Nancy Morrison,Port Stephenmouth,Modern Sunglasses,Automotive,1993.86,3,2025-02-25,2025-03-01,Cash On Delivery,Pending,Bishop-Tran
+O01131,Sarah Conley,New Kevin,Modern T-shirt,Sports,600.12,2,2024-04-17,2024-04-27,Credit Card,Delivered,"Beltran, Mcdonald and Jennings"
+O01132,Megan Smith,North Robinland,Advanced Backpack,Beauty,1696.9,1,2024-03-25,2024-03-26,Debit Card,Returned,"Gonzalez, Hanson and Wells"
+O01133,David Salas,Andersonview,Smart Watch,Home Appliances,1443.58,4,2024-05-21,2024-05-26,Cash On Delivery,Cancelled,Collier-Smith
+O01134,James Jackson,Tammyberg,Ultra Sneakers,Beauty,760.29,5,2024-10-11,2024-10-19,Credit Card,Pending,Nguyen Ltd
+O01135,Annette Castillo,West Natalieville,Advanced Sunglasses,Sports,699.46,4,2024-05-31,2024-06-06,Debit Card,Pending,"Miller, Moore and Hood"
+O01136,Rebecca Frost,West Scott,Modern Backpack,Home Appliances,1708.78,5,2025-02-14,2025-02-17,Online Banking,Pending,"Morrison, Owens and Pierce"
+O01137,Todd Mckee,Lake Christopherburgh,Premium Backpack,Electronics,893.03,4,2024-12-07,2024-12-12,Credit Card,Returned,Knight Ltd
+O01138,Andrew Butler,Lake Elizabethland,Mega Sneakers,Automotive,643.66,1,2024-04-29,2024-04-30,Credit Card,Returned,Davis LLC
+O01139,Diana Lyons,Robertview,Compact Sneakers,Fashion,83.96,3,2024-05-13,2024-05-18,Online Banking,Pending,Wilkinson Ltd
+O01140,Samantha Oliver,Jonesfort,Modern Backpack,Electronics,426.99,2,2024-12-04,2024-12-13,Cash On Delivery,Cancelled,Jacobs-Mendoza
+O01141,John Brown,New Michael,Smart Sneakers,Beauty,395.53,5,2024-05-04,2024-05-08,Debit Card,Returned,Maldonado-Cuevas
+O01142,Debra Moore,Melissaburgh,Sleek Camera,Automotive,401.4,1,2024-03-04,2024-03-13,Cash On Delivery,Delivered,Griffin Inc
+O01143,Alfred Medina,West Jessicaton,Modern Jeans,Electronics,1232.71,2,2024-11-09,2024-11-14,Debit Card,Delivered,Austin-Cline
+O01144,Lauren Hicks,Wernerland,Innovative Smartwatch,Sports,262.67,2,2024-03-07,2024-03-14,Credit Card,Returned,"Santos, Smith and Moreno"
+O01145,Wanda Morse,South Juliatown,Elite Jeans,Sports,1961.05,2,2024-12-20,2024-12-30,Credit Card,Pending,"Alvarado, Anderson and Murphy"
+O01146,Alexis Green,Gibsonberg,Budget Backpack,Home Appliances,1844.78,3,2024-04-19,2024-04-25,Online Banking,Delivered,Lin-Lewis
+O01147,Christopher Oneill,Lake Eddiefort,Sleek Laptop,Sports,693.26,3,2024-03-15,2024-03-25,Cash On Delivery,Delivered,"Fuller, Flowers and Castillo"
+O01148,Grace Henry,New Nicholas,Advanced Sneakers,Sports,510.45,4,2024-03-27,2024-03-31,Debit Card,Cancelled,Brown-Shields
+O01149,Brendan Cox,East Mariafurt,Super Headphones,Books,1533.52,1,2024-03-26,2024-03-27,Debit Card,Cancelled,"Hoffman, Davis and Hernandez"
+O01150,Gabrielle Lee,Candicefort,Modern Refrigerator,Fashion,1801.37,3,2024-07-16,2024-07-18,Credit Card,Cancelled,"Weiss, Martinez and Ellis"
+O01151,Jonathan Serrano,Smithhaven,Ultra Vacuum Cleaner,Automotive,1400.25,2,2024-02-29,2024-03-03,Online Banking,Pending,"Green, Gonzalez and Baker"
+O01152,Tiffany Thomas,North Jasmineland,Innovative Smartwatch,Automotive,831.45,3,2024-05-13,2024-05-18,Debit Card,Pending,Griffin-Hoffman
+O01153,Roger Herrera,North John,Advanced Sunglasses,Fashion,1988.54,5,2024-05-01,2024-05-08,Debit Card,Delivered,Dominguez LLC
+O01154,Donna Holden,Kennedymouth,Budget Jeans,Automotive,1729.2,2,2024-05-10,2024-05-14,Credit Card,Cancelled,"Powell, Black and Fletcher"
+O01155,Charles Moore,Hickmanmouth,Super Smartphone,Electronics,1572.39,3,2024-08-28,2024-09-06,Credit Card,Delivered,Sawyer Inc
+O01156,Jeremy Crawford,Lake Brian,Hyper Jeans,Fashion,1446.38,3,2024-09-12,2024-09-13,Online Banking,Returned,Dixon-Noble
+O01157,Sean Pineda,Brewerberg,Modern Sneakers,Automotive,958.48,2,2024-03-05,2024-03-06,Online Banking,Pending,Ryan PLC
+O01158,Jennifer Ramirez,Leetown,Eco Camera,Fashion,688.8,2,2024-08-25,2024-08-31,Online Banking,Delivered,Donovan-Roberts
+O01159,Jasmine Hawkins,Angelaborough,Mega Tablet,Automotive,1950.89,4,2024-10-08,2024-10-18,Cash On Delivery,Pending,"Wagner, Ford and Ortiz"
+O01160,Derrick Perez,North Kenneth,Innovative Camera,Automotive,371.29,5,2024-12-24,2024-12-31,Cash On Delivery,Pending,Pierce-Peterson
+O01161,Jacob Hopkins,North Kristamouth,Super Headphones,Home Appliances,97.97,5,2024-11-30,2024-12-04,Cash On Delivery,Cancelled,"Henderson, Johnson and Cole"
+O01162,Ashley Smith,Davidburgh,Smart Vacuum Cleaner,Automotive,496.23,4,2024-10-05,2024-10-11,Credit Card,Pending,"Hall, Hardy and Vincent"
+O01163,Guy Reyes,Gatesview,Smart Sunglasses,Fashion,649.5,1,2025-01-21,2025-01-30,Credit Card,Delivered,Guerrero and Sons
+O01164,John Garrison,Pamelamouth,Smart Tablet,Beauty,851.69,2,2025-02-09,2025-02-10,Debit Card,Cancelled,Johnson and Sons
+O01165,Stephanie Morgan,Lake William,Advanced Microwave,Home Appliances,279.22,3,2024-08-29,2024-08-30,Credit Card,Delivered,"Jones, Paul and Thomas"
+O01166,Sarah Gomez,Robertland,Hyper Microwave,Home Appliances,1733.6,5,2024-10-06,2024-10-13,Credit Card,Cancelled,"Spencer, Snow and Brown"
+O01167,Laura Shelton,New Angela,Modern Jeans,Sports,1508.83,3,2024-02-29,2024-03-04,Debit Card,Cancelled,Barber Inc
+O01168,Todd Davis,Jamesburgh,Compact Refrigerator,Automotive,1471.66,3,2024-08-10,2024-08-17,Cash On Delivery,Cancelled,"Thompson, Henry and Rodriguez"
+O01169,Maria Anderson,New Jeremyport,Pro Headphones,Sports,823.54,1,2024-09-17,2024-09-26,Credit Card,Returned,Wade LLC
+O01170,David Perez,South Johnfort,Modern Smartwatch,Fashion,424.26,1,2024-10-09,2024-10-17,Debit Card,Pending,"Brown, Harper and Johnson"
+O01171,Denise King,Riveraborough,Smart Sneakers,Home Appliances,626.12,3,2025-01-07,2025-01-09,Credit Card,Cancelled,Jones Inc
+O01172,Dr. Brittney Smith MD,New Jeffery,Compact Sneakers,Sports,1919.18,2,2024-10-28,2024-11-06,Cash On Delivery,Pending,Morrow-Marshall
+O01173,James Green,West Bryan,Sleek Camera,Books,428.09,2,2024-06-23,2024-07-01,Debit Card,Pending,Johnson-Alvarado
+O01174,Harry Miller,North Cathy,Smart Microwave,Home Appliances,1288.4,5,2024-04-13,2024-04-22,Credit Card,Pending,Matthews-Mcdowell
+O01175,Derek Gates,West Karen,Hyper Vacuum Cleaner,Home Appliances,1533.27,2,2024-12-05,2024-12-14,Debit Card,Cancelled,"Schwartz, Massey and Christensen"
+O01176,Matthew Greene,East Michealhaven,Ultra Sneakers,Home Appliances,186.98,2,2024-10-17,2024-10-27,Debit Card,Cancelled,"Juarez, Atkinson and Gonzalez"
+O01177,Jason Smith,West Kevinland,Innovative Smartwatch,Fashion,272.63,2,2024-10-20,2024-10-28,Credit Card,Returned,Davis and Sons
+O01178,Kathleen Cross,Rosstown,Elite Smartphone,Books,1205.37,5,2024-11-19,2024-11-20,Cash On Delivery,Returned,Garcia-Aguilar
+O01179,Michael Fleming,New Christinaland,Pro Microwave,Electronics,1896.34,5,2025-01-31,2025-02-07,Online Banking,Returned,"Velazquez, Huffman and Snow"
+O01180,Brent Walker,Ramosbury,Smart Microwave,Home Appliances,704.54,5,2024-10-31,2024-11-01,Cash On Delivery,Returned,Garcia and Sons
+O01181,Rita Robinson,Rojasmouth,Mega Jeans,Fashion,906.97,2,2025-02-22,2025-03-01,Credit Card,Cancelled,Schneider Group
+O01182,Melissa Ray,Randolphshire,Mega Sneakers,Sports,213.58,4,2024-11-15,2024-11-23,Credit Card,Returned,Hale Group
+O01183,James Escobar,Dianamouth,Modern Sneakers,Electronics,859.86,2,2024-07-13,2024-07-23,Credit Card,Pending,Kline-Mayer
+O01184,Tara Jones,Judyfurt,Mega Sneakers,Books,427.16,1,2024-09-29,2024-10-02,Credit Card,Delivered,Kelly and Sons
+O01185,Anne Duncan,South Alyssahaven,Pro Smartphone,Electronics,1581.98,2,2024-04-09,2024-04-12,Debit Card,Delivered,Johnson-Anderson
+O01186,Leah Green,New David,Budget Microwave,Electronics,1553.83,4,2024-07-24,2024-07-26,Credit Card,Delivered,Shaffer-Mata
+O01187,Amy Hoffman,South Savannah,Ultra Smartphone,Books,365.45,2,2024-11-23,2024-12-02,Debit Card,Cancelled,Burnett Group
+O01188,Allison Lane,West Kimberlychester,Compact Microwave,Home Appliances,404.16,4,2025-02-10,2025-02-19,Online Banking,Pending,Davis Ltd
+O01189,William Shaffer,West Margaretburgh,Advanced Smartwatch,Automotive,1176.54,5,2024-12-10,2024-12-17,Credit Card,Returned,"Anderson, Elliott and Harris"
+O01190,Heather Osborne,North Jon,Eco Sneakers,Automotive,808.69,3,2024-03-27,2024-04-03,Debit Card,Returned,"Parker, Webb and Manning"
+O01191,Michael Newman,Dodsontown,Mega Smartphone,Fashion,1296.72,4,2024-12-27,2024-12-31,Online Banking,Returned,"Mcgee, Davis and Hickman"
+O01192,Isaac Wells,West Ernestchester,Super Headphones,Fashion,750.25,1,2024-10-31,2024-11-06,Debit Card,Returned,Price-Schmidt
+O01193,Stephanie Newton,Lake Paul,Modern Smartwatch,Automotive,804.14,5,2024-07-27,2024-08-02,Cash On Delivery,Cancelled,"Butler, Riley and Mclaughlin"
+O01194,Ashley King,North Charles,Innovative Refrigerator,Fashion,165.33,1,2024-11-24,2024-11-25,Credit Card,Delivered,Smith PLC
+O01195,Brandy Rodriguez,Benjaminshire,Compact Jeans,Books,362.07,3,2024-05-08,2024-05-14,Cash On Delivery,Returned,Watson-Becker
+O01196,Adam Mckee,North Ryanstad,Advanced Jeans,Home Appliances,571.45,4,2024-06-26,2024-07-02,Credit Card,Pending,Cole-Cameron
+O01197,Eric Guzman,Tiffanybury,Budget Smartwatch,Beauty,762.58,5,2024-09-11,2024-09-21,Cash On Delivery,Pending,Massey Ltd
+O01198,Karen Holt,Perezton,Budget Backpack,Books,1974.96,2,2024-05-16,2024-05-25,Online Banking,Returned,Glover Group
+O01199,Bill Moreno DDS,East Kathleenchester,Mega Laptop,Home Appliances,1708.91,4,2024-07-06,2024-07-10,Credit Card,Pending,King LLC
+O01200,Brittany Lewis,Port Kylefort,Budget Backpack,Home Appliances,299.77,2,2024-09-06,2024-09-13,Online Banking,Cancelled,Martinez PLC
+O01201,John Macias,Valerieburgh,Pro Smartwatch,Sports,1521.7,3,2024-09-10,2024-09-20,Credit Card,Delivered,"Watkins, Frederick and Bell"
+O01202,Jackson Mayo,Danielschester,Budget Headphones,Sports,458.9,3,2024-02-27,2024-03-04,Cash On Delivery,Pending,Davis-Roth
+O01203,Arthur Norton,Lake Christopherland,Modern Backpack,Electronics,848.62,3,2024-08-03,2024-08-05,Online Banking,Pending,Nelson and Sons
+O01204,Michelle Middleton,West Geraldstad,Advanced Sunglasses,Electronics,1915.05,5,2024-08-03,2024-08-09,Debit Card,Returned,"Hatfield, King and Hall"
+O01205,Linda Rivers,Guzmanville,Sleek Camera,Books,1499.97,2,2025-02-01,2025-02-03,Credit Card,Cancelled,"Moran, Nunez and Duffy"
+O01206,Valerie Barrera,Vasquezport,Smart Microwave,Books,45.88,4,2025-02-08,2025-02-14,Debit Card,Cancelled,Stone-Collins
+O01207,Daniel Jones,Thomasbury,Ultra Sunglasses,Home Appliances,1973.95,3,2024-09-02,2024-09-05,Online Banking,Cancelled,Brown-Joseph
+O01208,Jose Patrick,East Tina,Modern Smartwatch,Beauty,736.76,2,2024-06-24,2024-06-29,Credit Card,Cancelled,"Norris, Johnson and Dawson"
+O01209,Debra Burke,Travisstad,Innovative Backpack,Automotive,979.08,3,2025-02-18,2025-02-23,Debit Card,Delivered,"Rogers, Griffin and Rivera"
+O01210,Kathryn Thompson,East Sharonton,Budget Backpack,Automotive,696.36,1,2025-02-12,2025-02-17,Debit Card,Delivered,Mitchell Group
+O01211,Jonathan Oliver,Stevenschester,Pro Headphones,Books,633.09,2,2024-04-17,2024-04-24,Debit Card,Returned,Garcia PLC
+O01212,Lindsey Mason,Jeremyshire,Elite Sneakers,Fashion,1391.67,5,2024-07-04,2024-07-06,Cash On Delivery,Returned,Hill-Adams
+O01213,Blake Ruiz,Scottberg,Innovative Smartwatch,Electronics,1352.85,1,2024-05-15,2024-05-25,Cash On Delivery,Returned,"Santana, Fleming and Andersen"
+O01214,Jason Knight,Port Annette,Eco Watch,Fashion,555.9,2,2024-03-31,2024-04-01,Credit Card,Cancelled,"Hanna, Wilson and Bright"
+O01215,Pamela Rogers,North Davidstad,Modern Smartwatch,Sports,1804.4,2,2024-11-13,2024-11-14,Cash On Delivery,Cancelled,Nguyen LLC
+O01216,Michael Ortiz,Youngton,Eco Headphones,Sports,233.06,4,2024-06-04,2024-06-14,Debit Card,Returned,"Peterson, Martinez and Smith"
+O01217,Phillip Nicholson,Lake Peter,Modern Smartwatch,Beauty,1624.51,1,2024-03-30,2024-04-06,Online Banking,Pending,Graham Ltd
+O01218,Jennifer Soto,Davisberg,Compact Sneakers,Electronics,216.01,2,2025-01-07,2025-01-08,Cash On Delivery,Pending,"Patel, Navarro and Winters"
+O01219,Cristian Bennett,Cannonburgh,Ultra Watch,Fashion,69.09,1,2024-06-15,2024-06-22,Credit Card,Pending,"Morales, Williams and Brown"
+O01220,Dennis Christensen,South Davidside,Compact Sneakers,Fashion,1064.21,5,2024-05-27,2024-05-31,Debit Card,Cancelled,"Lee, Morrow and Finley"
+O01221,Jose Walsh,New Jennifershire,Ultra Smartphone,Sports,1184.24,3,2024-10-22,2024-10-26,Debit Card,Pending,Hudson-Frost
+O01222,Amy Boyer,Aaronburgh,Budget Laptop,Sports,1600.52,2,2024-09-12,2024-09-18,Online Banking,Returned,"Perez, Daniel and Morgan"
+O01223,Katherine Cisneros DDS,Anthonyview,Premium Refrigerator,Fashion,1517.8,2,2024-10-04,2024-10-05,Debit Card,Cancelled,Lopez-King
+O01224,Mrs. Lindsey Ward,New Nicolebury,Pro Smartphone,Automotive,637.36,5,2025-01-30,2025-02-02,Credit Card,Cancelled,"Mason, Jackson and Jenkins"
+O01225,Julie Foster,Johnberg,Compact Sneakers,Fashion,802.42,3,2024-04-21,2024-04-26,Online Banking,Pending,Rice-Leonard
+O01226,Amber Valentine,New Luke,Sleek Smartwatch,Sports,603.5,2,2024-12-26,2025-01-01,Online Banking,Cancelled,"Reeves, Ho and Allen"
+O01227,Elizabeth Rice,Lake Josephport,Innovative Smartwatch,Electronics,869.15,4,2024-06-09,2024-06-15,Debit Card,Pending,"Cohen, Lee and West"
+O01228,Jason Donaldson,South Tammy,Pro Camera,Fashion,366.44,4,2024-12-14,2024-12-19,Debit Card,Returned,"Quinn, Carson and Henderson"
+O01229,Theresa Stewart,South Davidborough,Innovative Sneakers,Electronics,1507.78,3,2024-11-26,2024-12-03,Cash On Delivery,Pending,Myers Group
+O01230,Tasha Perez,West Georgehaven,Hyper Vacuum Cleaner,Electronics,1611.33,2,2024-11-08,2024-11-10,Debit Card,Delivered,Ellis-Hernandez
+O01231,Alexis Allen,Holmesshire,Elite Sneakers,Automotive,1890.04,1,2024-08-28,2024-09-04,Credit Card,Cancelled,Bell Ltd
+O01232,Robin Vega,New Erika,Smart Sneakers,Beauty,128.57,4,2025-01-21,2025-01-31,Credit Card,Delivered,Mendoza Ltd
+O01233,Kimberly Black,West Lynnchester,Innovative Refrigerator,Automotive,1356.88,4,2024-04-15,2024-04-19,Credit Card,Pending,"Vincent, Jackson and Wade"
+O01234,Michael Lam,East Dennis,Mega Vacuum Cleaner,Electronics,1826.19,2,2024-04-01,2024-04-11,Debit Card,Pending,"Snyder, Smith and Thomas"
+O01235,Marisa Franklin,West Christopher,Super Headphones,Books,116.19,5,2025-01-23,2025-01-30,Credit Card,Delivered,Foley Inc
+O01236,Lydia Mclaughlin,Lake Josephport,Pro Tablet,Books,576.23,2,2024-12-05,2024-12-10,Credit Card,Returned,Smith-Thomas
+O01237,Randy Wolf,South Dalton,Innovative Camera,Sports,597.44,2,2024-09-09,2024-09-18,Credit Card,Pending,Mcdowell Ltd
+O01238,Sandra Nelson,New Joseph,Modern Jeans,Beauty,1599.0,4,2024-11-05,2024-11-08,Online Banking,Returned,Hart-Weaver
+O01239,Christina Shaw,Wellsburgh,Modern Headphones,Automotive,1693.17,3,2024-12-06,2024-12-15,Cash On Delivery,Cancelled,"Carlson, Schroeder and Pope"
+O01240,Beverly Duffy,Alvaradofort,Smart Sneakers,Electronics,473.26,1,2024-06-21,2024-06-28,Cash On Delivery,Pending,"Washington, Curtis and Morris"
+O01241,James Richards,Rodriguezland,Premium Headphones,Fashion,780.55,5,2024-10-15,2024-10-17,Online Banking,Returned,"Franco, Hall and Williams"
+O01242,David Garcia,Bellport,Eco Watch,Automotive,1284.01,4,2025-02-21,2025-02-27,Debit Card,Delivered,"Taylor, Smith and Cook"
+O01243,Jessica Nichols,New Joshua,Compact Sneakers,Electronics,1779.52,3,2025-01-07,2025-01-11,Debit Card,Pending,Herrera-Tapia
+O01244,Sheila Maldonado,North Scott,Super Headphones,Beauty,601.8,1,2025-01-16,2025-01-18,Cash On Delivery,Returned,Gonzales Group
+O01245,Susan Bryan,Port Davidton,Sleek Sneakers,Fashion,610.46,5,2024-12-01,2024-12-05,Debit Card,Pending,Little-Farmer
+O01246,Richard Miller,East Leah,Pro Camera,Electronics,1192.45,5,2024-12-08,2024-12-14,Cash On Delivery,Cancelled,"Mclaughlin, Williams and Gilbert"
+O01247,Melissa White,North Samantha,Hyper Jeans,Books,1835.89,5,2024-03-29,2024-04-01,Cash On Delivery,Returned,Brown PLC
+O01248,Sandra Lopez,Jamesbury,Sleek Camera,Sports,553.24,1,2024-06-20,2024-06-29,Credit Card,Delivered,"Thomas, Rojas and Kim"
+O01249,Roger Nolan,East Michaelborough,Eco Watch,Automotive,616.27,3,2024-07-17,2024-07-22,Credit Card,Pending,"Martinez, Hart and Ball"
+O01250,Sonya Price,East Courtney,Compact Jeans,Electronics,887.11,3,2024-04-19,2024-04-23,Credit Card,Pending,Lewis Inc
+O01251,Linda Rodgers,West Brendaview,Ultra Camera,Beauty,1710.27,2,2025-01-23,2025-01-27,Debit Card,Cancelled,Tucker Group
+O01252,Brent Rose,Danielbury,Modern Jeans,Electronics,1748.48,3,2024-05-07,2024-05-10,Cash On Delivery,Cancelled,Jackson Ltd
+O01253,Chelsea Rasmussen,North Dylanfurt,Premium Refrigerator,Books,232.56,3,2024-08-13,2024-08-20,Credit Card,Pending,"York, Robbins and Pham"
+O01254,Tom Blair PhD,New Jose,Premium Backpack,Home Appliances,1204.42,4,2024-03-20,2024-03-27,Online Banking,Delivered,Montgomery Inc
+O01255,Michael Reid,East Beth,Premium Refrigerator,Sports,810.59,3,2024-09-17,2024-09-20,Cash On Delivery,Cancelled,"Allen, Murray and Watts"
+O01256,Brian Curry,New Donnaborough,Budget Laptop,Fashion,1277.18,1,2024-03-22,2024-03-29,Debit Card,Cancelled,Ryan-Smith
+O01257,Dr. John Clayton,Tuckerbury,Advanced Sneakers,Fashion,91.83,1,2024-06-01,2024-06-07,Debit Card,Pending,"Dixon, Rubio and Cooke"
+O01258,Dr. Patty Brown,Ashleybury,Pro Smartphone,Fashion,556.65,2,2024-04-10,2024-04-11,Debit Card,Delivered,Suarez-Mitchell
+O01259,Steve Elliott,Port Sarah,Budget Backpack,Electronics,871.73,4,2024-11-08,2024-11-10,Credit Card,Pending,"Singh, Rodriguez and Martin"
+O01260,Renee Williams,Jasonfurt,Hyper Jeans,Electronics,409.81,3,2024-07-24,2024-07-27,Debit Card,Cancelled,"Clark, Black and Anderson"
+O01261,Kenneth Valdez,East Robert,Eco Sneakers,Beauty,1752.96,2,2024-06-11,2024-06-18,Cash On Delivery,Delivered,Pruitt LLC
+O01262,Nicholas Williams,Aaronfort,Advanced Backpack,Sports,888.16,3,2024-10-24,2024-10-27,Debit Card,Pending,Wheeler-Porter
+O01263,Rhonda Stevens,Jonesmouth,Smart Sneakers,Automotive,1181.07,4,2024-05-09,2024-05-12,Debit Card,Cancelled,Barnes-Simmons
+O01264,Cindy Young,Stephanieburgh,Compact Microwave,Books,417.55,5,2024-09-29,2024-10-06,Credit Card,Cancelled,Richardson Inc
+O01265,Carl Browning,North Allison,Ultra Smartphone,Fashion,98.13,1,2024-08-19,2024-08-20,Debit Card,Delivered,Hampton-Lewis
+O01266,Trevor Johnson,South Phillip,Budget Backpack,Home Appliances,129.51,1,2024-03-15,2024-03-23,Cash On Delivery,Delivered,Adams Ltd
+O01267,Jennifer Zamora,Markview,Elite Laptop,Electronics,1464.07,5,2024-12-28,2025-01-03,Credit Card,Cancelled,Brown-Church
+O01268,Brandy Craig,Victoriamouth,Sleek Sneakers,Automotive,1808.37,4,2024-07-04,2024-07-05,Online Banking,Delivered,Carroll-Bennett
+O01269,Lauren Rodriguez,Joannamouth,Compact Jeans,Sports,670.6,1,2024-05-21,2024-05-25,Debit Card,Pending,Morgan-Miller
+O01270,Jeremy Huang,West Julianbury,Eco Camera,Books,1598.16,4,2024-08-24,2024-08-30,Online Banking,Delivered,Gregory-Diaz
+O01271,Krista Sanchez MD,Dixonburgh,Sleek Camera,Automotive,819.8,3,2024-03-28,2024-04-04,Credit Card,Pending,Cain Group
+O01272,Sheila Washington,West Christopher,Compact Microwave,Books,864.77,2,2024-09-22,2024-09-27,Cash On Delivery,Returned,Mckinney-Lee
+O01273,Steve Davis,Kiddview,Premium Refrigerator,Home Appliances,1837.23,5,2024-10-07,2024-10-15,Credit Card,Returned,Pearson Inc
+O01274,Chelsea Preston,Jennifermouth,Ultra Smartphone,Books,1380.44,5,2024-07-04,2024-07-12,Debit Card,Pending,Roman LLC
+O01275,John Brown,Port Ashley,Ultra Sunglasses,Home Appliances,311.84,1,2024-08-22,2024-08-28,Credit Card,Delivered,Martinez-Heath
+O01276,Russell Wallace,Zunigaville,Hyper Tablet,Books,1008.85,3,2024-12-18,2024-12-25,Credit Card,Returned,Mcdonald Inc
+O01277,Charles Jones,Morrisonhaven,Innovative Sneakers,Fashion,526.75,1,2024-08-21,2024-08-27,Debit Card,Delivered,Willis-Sparks
+O01278,Stephen Wade,Bobbyfort,Sleek Laptop,Sports,692.21,3,2024-11-13,2024-11-23,Debit Card,Returned,Watson-Roach
+O01279,Joan Wang,West Richardmouth,Ultra Vacuum Cleaner,Home Appliances,1101.36,3,2025-01-24,2025-01-30,Online Banking,Pending,"Garcia, Hunter and Marshall"
+O01280,Thomas Fisher,Mooreberg,Elite Jeans,Sports,1509.38,5,2024-03-19,2024-03-24,Credit Card,Delivered,Terry LLC
+O01281,Tanya Hughes,Marialand,Ultra Sneakers,Sports,604.46,4,2024-10-31,2024-11-08,Debit Card,Cancelled,"Smith, Chapman and Knight"
+O01282,Mr. Isaac Sanders,Brianborough,Sleek Laptop,Beauty,1390.04,4,2024-06-18,2024-06-25,Cash On Delivery,Pending,Owen-Austin
+O01283,Kelly Mccall,Josephburgh,Budget Laptop,Sports,657.97,3,2024-05-09,2024-05-14,Online Banking,Pending,Stanley-Ferguson
+O01284,Amanda Scott,Wayneview,Modern Refrigerator,Electronics,543.09,5,2024-06-10,2024-06-13,Credit Card,Cancelled,Peterson-Marsh
+O01285,Angel Martin,Walkerfort,Compact Watch,Automotive,1396.3,3,2024-10-14,2024-10-16,Cash On Delivery,Pending,Johnson-Garcia
+O01286,Ann Zamora PhD,New Sarah,Smart Watch,Automotive,1882.67,5,2024-09-04,2024-09-12,Credit Card,Delivered,Patterson-Bailey
+O01287,Debra Rivera,Martinberg,Budget Tablet,Automotive,286.73,1,2024-09-11,2024-09-20,Online Banking,Delivered,Cantu and Sons
+O01288,Daniel May,East Thomas,Innovative Headphones,Sports,1889.1,4,2024-07-30,2024-08-07,Debit Card,Delivered,"Small, Flores and Phillips"
+O01289,Michael Burns,Codyview,Ultra Microwave,Automotive,1438.28,1,2024-10-15,2024-10-22,Credit Card,Cancelled,Alvarado PLC
+O01290,Katherine Brooks,Lake Jasonfort,Elite Sneakers,Electronics,1262.35,2,2024-07-11,2024-07-20,Cash On Delivery,Cancelled,Sparks-Bowman
+O01291,Crystal Erickson,Lake Nicholas,Eco Sneakers,Home Appliances,827.96,3,2024-07-19,2024-07-29,Online Banking,Pending,Chapman and Sons
+O01292,Scott Foster,Romantown,Budget Smartwatch,Automotive,731.32,5,2024-07-10,2024-07-12,Cash On Delivery,Delivered,"Gomez, Jones and Huang"
+O01293,Laura Liu,Flemingburgh,Eco Watch,Beauty,1706.46,5,2025-01-03,2025-01-04,Online Banking,Cancelled,"Adams, Gilmore and Rowe"
+O01294,Amy Stephens,Port Craig,Advanced Sunglasses,Fashion,371.99,3,2024-03-22,2024-03-31,Credit Card,Delivered,Ritter Group
+O01295,Michael Vega,North April,Modern Backpack,Books,121.56,2,2024-11-20,2024-11-28,Debit Card,Cancelled,Lopez PLC
+O01296,Matthew Carroll,West Larry,Modern Sneakers,Fashion,1595.98,5,2024-04-03,2024-04-06,Debit Card,Cancelled,Pham-Johnson
+O01297,Nicholas Garcia,New Meagan,Super Smartphone,Electronics,1260.67,2,2024-05-12,2024-05-16,Cash On Delivery,Pending,Stewart Inc
+O01298,Rhonda Mitchell,East Robertfort,Pro Microwave,Beauty,1493.05,1,2024-05-02,2024-05-03,Credit Card,Cancelled,Kim-Reyes
+O01299,Angela Sanchez MD,Lake Kayleemouth,Sleek Laptop,Electronics,148.14,1,2024-09-27,2024-10-06,Credit Card,Returned,Romero-Rodgers
+O01300,Michael Leonard,West Gregory,Advanced Refrigerator,Automotive,1212.42,3,2025-01-17,2025-01-22,Credit Card,Returned,Lambert-Lopez
+O01301,Melissa Leon,West Randall,Super Smartwatch,Home Appliances,1265.68,1,2024-08-15,2024-08-16,Debit Card,Returned,Bryan-Bennett
+O01302,April Spencer,Williamburgh,Ultra Sunglasses,Automotive,1648.64,4,2024-05-21,2024-05-26,Online Banking,Pending,Smith-Graham
+O01303,Nicole Guzman,North Rebeccaville,Mega Vacuum Cleaner,Home Appliances,1906.23,3,2024-11-21,2024-11-27,Online Banking,Cancelled,Lewis-Miles
+O01304,Andrew Murphy,East Timothy,Sleek Smartwatch,Automotive,1416.42,3,2024-08-01,2024-08-02,Credit Card,Cancelled,Medina Inc
+O01305,Stephen Stanton,Bryantville,Mega Smartphone,Beauty,439.54,5,2024-08-09,2024-08-11,Cash On Delivery,Delivered,"Figueroa, Thomas and Lopez"
+O01306,Richard Guzman,South Kelseyview,Modern Refrigerator,Books,148.28,2,2025-01-10,2025-01-13,Debit Card,Delivered,"Graham, Cunningham and Cruz"
+O01307,Rachel Thompson,East Marymouth,Advanced Backpack,Electronics,49.35,3,2025-02-14,2025-02-18,Debit Card,Delivered,Hull-Small
+O01308,Robert Fleming,Gonzalesmouth,Elite Sneakers,Books,1158.01,5,2024-05-30,2024-05-31,Credit Card,Returned,Morris PLC
+O01309,Denise Livingston,Mccoyberg,Innovative Watch,Books,86.39,3,2024-09-27,2024-10-05,Debit Card,Delivered,Lamb PLC
+O01310,Roy Scott,Thompsonville,Compact Microwave,Sports,1662.92,5,2024-08-06,2024-08-09,Credit Card,Delivered,"Davies, Fisher and Medina"
+O01311,Cheryl Walker,East Michellefort,Smart Microwave,Fashion,1744.25,2,2024-04-26,2024-05-05,Debit Card,Returned,Vincent-Beard
+O01312,Patrick Estes,Lake Jeanne,Hyper Sneakers,Automotive,1700.96,4,2024-03-31,2024-04-07,Debit Card,Returned,Frey-Shelton
+O01313,Christian French,West Kristenstad,Mega Jeans,Fashion,184.13,5,2024-08-29,2024-09-06,Debit Card,Cancelled,Burke-Johnson
+O01314,Willie Travis,Williamchester,Budget Smartphone,Automotive,897.0,3,2024-10-11,2024-10-15,Online Banking,Delivered,Miller PLC
+O01315,Jessica Wheeler,New Elizabethland,Compact Refrigerator,Electronics,252.64,4,2024-04-11,2024-04-13,Cash On Delivery,Delivered,"Sanford, Ferguson and Bowman"
+O01316,Brittney Juarez,East Alicia,Advanced Backpack,Home Appliances,883.39,3,2025-01-08,2025-01-12,Credit Card,Delivered,"Espinoza, Carter and Cruz"
+O01317,Matthew Smith,Eatonfurt,Sleek Camera,Books,104.58,4,2024-09-12,2024-09-16,Debit Card,Pending,Flores-Hendricks
+O01318,Thomas Nguyen,Joshuachester,Advanced Backpack,Sports,672.06,1,2024-06-17,2024-06-20,Debit Card,Delivered,Higgins PLC
+O01319,Kimberly Patel,North Hectorborough,Mega Sneakers,Electronics,1410.93,4,2024-07-14,2024-07-22,Debit Card,Cancelled,Smith and Sons
+O01320,Todd Saunders,Port Joyce,Ultra Sneakers,Automotive,805.74,1,2024-12-12,2024-12-20,Credit Card,Cancelled,"Waller, Rodriguez and Farmer"
+O01321,Stephanie Garcia,New Christopherside,Smart Smartphone,Beauty,1629.75,2,2024-03-01,2024-03-05,Online Banking,Delivered,Reyes-Thompson
+O01322,Lauren Hinton,Ramirezbury,Smart Jeans,Home Appliances,764.16,2,2024-10-14,2024-10-23,Cash On Delivery,Pending,Wolfe-West
+O01323,Alexis Wise,Michelleshire,Mega Laptop,Automotive,364.26,2,2024-06-17,2024-06-21,Online Banking,Cancelled,Huffman Inc
+O01324,Rachel Malone,Martinmouth,Budget Smartwatch,Sports,160.13,1,2024-09-19,2024-09-21,Credit Card,Returned,Reyes-Singleton
+O01325,Jeremiah Hicks,Roberttown,Modern Jeans,Sports,1522.07,1,2024-03-11,2024-03-18,Credit Card,Delivered,"Evans, Patel and Bright"
+O01326,Jennifer Pham,Port Allisonborough,Smart Microwave,Home Appliances,448.34,3,2024-12-19,2024-12-29,Credit Card,Cancelled,"Parrish, Johnson and Payne"
+O01327,Sandra Meyers,Katiemouth,Elite Laptop,Home Appliances,1205.73,5,2024-12-29,2025-01-05,Cash On Delivery,Cancelled,Kelly LLC
+O01328,Joseph Patel,New Anitaview,Ultra Smartphone,Electronics,953.58,3,2024-11-05,2024-11-12,Online Banking,Delivered,Davis Inc
+O01329,Lauren Parker MD,Amyborough,Mega Smartphone,Books,492.72,2,2025-01-20,2025-01-22,Debit Card,Returned,"Green, Lucas and Lucas"
+O01330,Garrett Kennedy,West Tinaside,Smart Refrigerator,Sports,1264.45,2,2024-09-30,2024-10-05,Cash On Delivery,Cancelled,Jones-Barnes
+O01331,Todd Navarro,North Davidshire,Innovative Camera,Electronics,407.45,4,2025-01-10,2025-01-12,Online Banking,Pending,Nichols-Schneider
+O01332,Angela Phelps,South Jasminetown,Super Smartwatch,Fashion,1510.26,1,2024-09-19,2024-09-23,Online Banking,Pending,Rowe LLC
+O01333,Eileen Johnston,New Matthewview,Compact Refrigerator,Sports,187.8,4,2024-11-30,2024-12-02,Online Banking,Pending,Herrera-Harris
+O01334,Amanda Perez,West Gregory,Innovative Smartwatch,Electronics,1104.3,2,2024-06-17,2024-06-27,Debit Card,Returned,"Meadows, Carroll and Gray"
+O01335,Douglas Kirk,East Kathleen,Ultra Sneakers,Fashion,673.71,4,2024-11-08,2024-11-09,Online Banking,Delivered,"Garcia, Davis and Cooper"
+O01336,Amber Schmidt,Jordanstad,Compact Sunglasses,Home Appliances,1801.51,2,2024-09-28,2024-10-05,Online Banking,Delivered,"Morgan, Hall and Mcfarland"
+O01337,Vincent Thompson,North Lynnburgh,Compact Microwave,Electronics,278.0,2,2024-06-26,2024-06-29,Credit Card,Delivered,"Johnson, Griffin and Peters"
+O01338,Michelle Jackson,South Jessicaton,Elite Jeans,Electronics,1392.05,4,2024-10-03,2024-10-08,Credit Card,Cancelled,Hernandez Ltd
+O01339,Caitlin Mendoza,Port Mark,Hyper Vacuum Cleaner,Books,827.49,5,2024-07-01,2024-07-11,Credit Card,Cancelled,Cross-Williamson
+O01340,Christina Walters,South Peterburgh,Advanced Refrigerator,Fashion,1371.96,3,2024-12-26,2024-12-29,Online Banking,Pending,Pearson Ltd
+O01341,Sandra Cook,Saundersshire,Advanced Microwave,Sports,1651.44,5,2024-05-29,2024-05-31,Credit Card,Returned,Dalton-Thompson
+O01342,Robert Heath,Johnsonland,Modern Headphones,Electronics,397.95,4,2024-09-09,2024-09-11,Cash On Delivery,Cancelled,"Green, Wright and Dennis"
+O01343,Billy Arnold,East Bradley,Smart Refrigerator,Fashion,33.74,1,2024-09-21,2024-09-23,Online Banking,Cancelled,"Noble, Peterson and Thomas"
+O01344,Amy Joseph,Curtismouth,Compact Watch,Electronics,599.31,3,2024-09-03,2024-09-06,Credit Card,Delivered,Walker LLC
+O01345,Lauren Johnson,West Kathy,Hyper Microwave,Beauty,461.56,4,2025-01-29,2025-01-31,Cash On Delivery,Cancelled,Huff-Howell
+O01346,Michaela Frost,Port Larry,Ultra Microwave,Books,573.83,2,2024-05-17,2024-05-25,Cash On Delivery,Returned,Ramirez-Pope
+O01347,Daniel Lee,Sextonmouth,Eco Sunglasses,Home Appliances,1042.08,3,2024-07-14,2024-07-18,Cash On Delivery,Returned,Evans and Sons
+O01348,Andrew Yates,Beckview,Compact Refrigerator,Home Appliances,505.14,2,2024-09-07,2024-09-14,Debit Card,Delivered,Hardy PLC
+O01349,Kevin Johnson,Heidimouth,Budget Tablet,Books,1714.58,4,2024-07-03,2024-07-10,Credit Card,Cancelled,Conner Group
+O01350,Carolyn Mcmillan,North Ralph,Mega Vacuum Cleaner,Fashion,1940.48,3,2024-10-03,2024-10-06,Cash On Delivery,Delivered,Bryant-Rodriguez
+O01351,Mr. Craig Cooper,Deniseburgh,Innovative Smartwatch,Books,1001.1,5,2024-08-15,2024-08-23,Cash On Delivery,Pending,"Turner, Long and Williams"
+O01352,Evelyn Fields,North Ryan,Hyper Microwave,Fashion,1160.31,4,2025-01-18,2025-01-19,Cash On Delivery,Delivered,"Mayer, Wood and Humphrey"
+O01353,Michelle Evans,Virginiaview,Innovative Backpack,Books,78.87,2,2024-04-18,2024-04-24,Credit Card,Cancelled,Ayala and Sons
+O01354,John Hughes,Lake Kellyton,Premium Refrigerator,Beauty,1212.08,1,2024-09-11,2024-09-20,Cash On Delivery,Pending,Moyer-Mcdonald
+O01355,Betty Sandoval,Sandyburgh,Hyper Tablet,Electronics,1131.11,3,2024-10-16,2024-10-26,Credit Card,Delivered,Reyes Inc
+O01356,Fred Wright,Port Sarahport,Mega Smartphone,Fashion,433.82,3,2024-09-24,2024-10-04,Online Banking,Delivered,Lane-Olson
+O01357,Shelly Carter,Lauraburgh,Premium Tablet,Books,1638.51,1,2024-04-14,2024-04-21,Cash On Delivery,Delivered,Arias Inc
+O01358,Kimberly Guzman,Martinezport,Budget Backpack,Electronics,19.47,5,2024-05-21,2024-05-24,Debit Card,Cancelled,Moore Ltd
+O01359,Elizabeth Frazier,Melendezfort,Hyper Microwave,Books,544.45,4,2024-07-18,2024-07-19,Online Banking,Delivered,"Cobb, Nelson and Nicholson"
+O01360,Virginia Schroeder,Lake Waynefurt,Budget Tablet,Fashion,1103.87,5,2024-06-03,2024-06-12,Cash On Delivery,Delivered,Williams and Sons
+O01361,Daniel Hickman,Josebury,Innovative Watch,Sports,540.57,5,2024-12-07,2024-12-17,Debit Card,Delivered,Lopez-Martinez
+O01362,Lori Cole,Brandibury,Innovative Sneakers,Books,1544.19,3,2024-04-15,2024-04-23,Debit Card,Returned,"Evans, Navarro and Edwards"
+O01363,James Graham,Lake Deborah,Budget Tablet,Books,1179.64,3,2024-07-07,2024-07-12,Credit Card,Delivered,Jackson LLC
+O01364,William Lopez,Smithfurt,Advanced Microwave,Electronics,1190.35,4,2024-04-22,2024-04-30,Online Banking,Returned,Baldwin-Townsend
+O01365,Tanya Guerrero,West Angelamouth,Budget Smartwatch,Automotive,1068.92,4,2024-09-10,2024-09-13,Online Banking,Returned,Miranda PLC
+O01366,Bruce Nelson,New Heatherfurt,Hyper Sneakers,Automotive,1842.62,1,2024-10-05,2024-10-14,Credit Card,Pending,Wright and Sons
+O01367,John Keith,East Karlview,Modern Jeans,Automotive,391.67,1,2024-09-02,2024-09-09,Credit Card,Delivered,"Schwartz, Hill and Lopez"
+O01368,Lindsay Frederick,Michaelshire,Modern Smartwatch,Books,568.51,4,2024-06-13,2024-06-23,Debit Card,Delivered,Burgess Ltd
+O01369,Morgan Maddox,Robertmouth,Pro Microwave,Books,643.13,3,2024-07-15,2024-07-18,Credit Card,Returned,Herrera-Herman
+O01370,Christopher Juarez,Jakeport,Premium Backpack,Sports,1185.22,3,2025-02-04,2025-02-08,Cash On Delivery,Cancelled,Cox LLC
+O01371,Michelle Gutierrez,Reyeschester,Advanced Smartwatch,Books,1268.88,2,2025-01-27,2025-01-31,Cash On Delivery,Delivered,Campbell-Allen
+O01372,Matthew Dalton,Cohenborough,Modern T-shirt,Fashion,1288.95,2,2024-07-13,2024-07-19,Cash On Delivery,Delivered,"Frost, Mosley and Green"
+O01373,Chad Jones,Amyfurt,Advanced Backpack,Beauty,160.71,2,2024-03-08,2024-03-16,Credit Card,Delivered,Tran PLC
+O01374,Daniel Meyer,North Carl,Advanced Backpack,Books,446.54,3,2024-08-07,2024-08-16,Debit Card,Delivered,Middleton LLC
+O01375,Molly Allen,Port Ericaview,Sleek Camera,Automotive,849.35,2,2025-02-13,2025-02-14,Credit Card,Pending,Briggs-Burnett
+O01376,Shane Bennett,Willisside,Elite Smartphone,Beauty,1411.31,1,2024-10-28,2024-11-06,Cash On Delivery,Cancelled,Martinez-Davis
+O01377,Christine Cantu,Lyonsstad,Eco Sneakers,Fashion,1203.8,1,2024-03-11,2024-03-15,Debit Card,Pending,Cannon-Curry
+O01378,Amanda Chen,Brownport,Sleek Laptop,Sports,1521.79,5,2024-06-12,2024-06-21,Online Banking,Delivered,"Owen, Harris and Robinson"
+O01379,Jonathan Cooper,East Sandra,Smart Jeans,Electronics,1329.65,4,2024-11-06,2024-11-13,Credit Card,Cancelled,"Daugherty, Bryant and Ingram"
+O01380,Tyler Lawson,Vincentfurt,Modern Smartwatch,Books,1251.0,2,2024-04-09,2024-04-12,Online Banking,Pending,Miles-Schneider
+O01381,Susan Mcdaniel,North Daryl,Super Smartwatch,Automotive,727.9,5,2024-11-15,2024-11-21,Credit Card,Pending,Moore Ltd
+O01382,Nicole Cook,East Carol,Mega Sneakers,Beauty,444.15,1,2024-08-14,2024-08-22,Debit Card,Delivered,"Schultz, Scott and Ferrell"
+O01383,Julie Ellis,Russellshire,Compact Refrigerator,Beauty,299.08,2,2024-08-05,2024-08-06,Debit Card,Cancelled,Randolph Inc
+O01384,David Smith,Lake Jennifershire,Smart Jeans,Sports,499.01,2,2024-09-18,2024-09-27,Debit Card,Pending,Butler-Miller
+O01385,April Mercer,North Elizabethton,Budget Sneakers,Beauty,1557.28,1,2024-05-28,2024-05-29,Online Banking,Pending,"Spencer, Smith and Moore"
+O01386,Laura Gonzalez,Yangton,Budget Jeans,Sports,1062.85,3,2025-01-30,2025-02-08,Cash On Delivery,Delivered,"Krueger, Murphy and Riddle"
+O01387,Amy Dickson,Ryanburgh,Budget Headphones,Beauty,1794.15,4,2024-08-14,2024-08-20,Cash On Delivery,Pending,Estrada-Black
+O01388,Kayla Tucker,South Kevin,Ultra Microwave,Beauty,1564.01,3,2024-02-29,2024-03-04,Credit Card,Delivered,Henderson and Sons
+O01389,Cassandra Ochoa,South Robert,Smart Sneakers,Beauty,1605.16,2,2024-05-30,2024-06-03,Credit Card,Pending,Raymond-Hardin
+O01390,Beth Phillips,Freemanview,Sleek Smartwatch,Books,117.27,4,2024-12-02,2024-12-11,Credit Card,Cancelled,Romero-Harrell
+O01391,Justin Brooks,West Nathanville,Advanced Sunglasses,Electronics,1693.33,1,2024-04-08,2024-04-18,Online Banking,Delivered,Harris Inc
+O01392,Shelley Lewis,North Tracey,Premium Headphones,Electronics,785.55,4,2025-01-21,2025-01-28,Credit Card,Cancelled,Washington-Vazquez
+O01393,Erica Lee,North Christina,Smart Watch,Electronics,1216.61,2,2024-10-25,2024-10-26,Credit Card,Returned,"Lewis, Foley and White"
+O01394,Ryan Jones,East Kaylee,Mega Smartphone,Electronics,1594.89,2,2024-08-05,2024-08-12,Credit Card,Cancelled,"Lee, Morgan and Odonnell"
+O01395,Christian Robertson,Lake Melvinfurt,Mega Tablet,Home Appliances,948.49,2,2024-04-08,2024-04-09,Online Banking,Delivered,"Castillo, Wise and Silva"
+O01396,Michael Frank,North Paulburgh,Compact Sneakers,Fashion,1100.65,4,2024-05-06,2024-05-14,Online Banking,Pending,"Davenport, Adams and Ortega"
+O01397,Christopher Castro,Kentview,Budget Headphones,Books,506.26,4,2024-05-01,2024-05-04,Debit Card,Returned,Kirk Group
+O01398,John Leonard,Stevenhaven,Innovative Microwave,Automotive,1090.44,2,2024-10-16,2024-10-25,Cash On Delivery,Delivered,"Williams, Cole and Briggs"
+O01399,Donald Clarke,Lake Aaronside,Budget Smartwatch,Fashion,486.7,5,2024-07-30,2024-08-06,Credit Card,Returned,Larsen Inc
+O01400,Rachel Garza,West Michelle,Premium Backpack,Home Appliances,1678.22,5,2025-01-22,2025-01-29,Cash On Delivery,Cancelled,Huff Inc
